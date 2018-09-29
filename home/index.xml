@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Homes on Deokgun Park</title>
+    <link>https://intuinno.github.io/home/</link>
+    <description>Recent content in Homes on Deokgun Park</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 20 Apr 2016 00:00:00 -0500</lastBuildDate>
+    
+	<atom:link href="https://intuinno.github.io/home/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>https://intuinno.github.io/home/about/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0500</pubDate>
+      
+      <guid>https://intuinno.github.io/home/about/</guid>
+      <description>Biography Deokgun Park is an assistant professor of Computer Science and Engineering Department at the University of Texas at Arlington. His research interests include open-ended tasks, visual analytics and text mining. He leads the Human Data Interaction Lab, which studies the way humans conduct exploratory data analysis, interactive tools for text mining, and testbed for artificial general intelligence (AGI).</description>
+    </item>
+    
+    <item>
+      <title>Publications</title>
+      <link>https://intuinno.github.io/home/publications/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0500</pubDate>
+      
+      <guid>https://intuinno.github.io/home/publications/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://intuinno.github.io/home/conference/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0500</pubDate>
+      
+      <guid>https://intuinno.github.io/home/conference/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Teaching</title>
+      <link>https://intuinno.github.io/home/teaching/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0500</pubDate>
+      
+      <guid>https://intuinno.github.io/home/teaching/</guid>
+      <description>I taught the following courses:
+ University of Texas at Arlington  CS4334/5334: Introduction to Data Mining  University of Maryland at College Park  INST462: Introduction to Data Visualization    </description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://intuinno.github.io/home/contact/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0500</pubDate>
+      
+      <guid>https://intuinno.github.io/home/contact/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications on Deokgun Park</title>
+    <link>https://intuinno.github.io/publication/</link>
+    <description>Recent content in Publications on Deokgun Park</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 -0600</lastBuildDate>
+    
+	<atom:link href="https://intuinno.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Atom: A Grammar for Unit Visualizations</title>
+      <link>https://intuinno.github.io/publication/atom/</link>
+      <pubDate>Wed, 26 Sep 2018 21:53:11 -0500</pubDate>
+      
+      <guid>https://intuinno.github.io/publication/atom/</guid>
+      <description>  Sequence of layout operations to generate a unit column chart for survivors of the Titanic by passenger class.   </description>
+    </item>
+    
+    <item>
+      <title>Supporting comment moderators in identifying high quality online news comments</title>
+      <link>https://intuinno.github.io/publication/commentiq/</link>
+      <pubDate>Mon, 26 Sep 2016 23:26:53 -0500</pubDate>
+      
+      <guid>https://intuinno.github.io/publication/commentiq/</guid>
+      <description>  The CommentIQ UI showing toggleable visualizations such as scatterplot, map, and timeline (left) that enable overview and filtering of comments, as well as an adjustable ranking based on various weighted quality criteria (right).   </description>
+    </item>
+    
+  </channel>
+</rss>
