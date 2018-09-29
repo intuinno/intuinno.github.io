@@ -20,5 +20,14 @@
       <description>  The CommentIQ UI showing toggleable visualizations such as scatterplot, map, and timeline (left) that enable overview and filtering of comments, as well as an adjustable ranking based on various weighted quality criteria (right).   </description>
     </item>
     
+    <item>
+      <title>Parallelspaces: Simultaneous Exploration of Feature and Data for Hypothesis Generation</title>
+      <link>https://intuinno.github.io/publication/parallelspace/</link>
+      <pubDate>Tue, 29 Mar 2016 10:40:11 -0500</pubDate>
+      
+      <guid>https://intuinno.github.io/publication/parallelspace/</guid>
+      <description>The MovieVis tool. Two groups in the movie space have been selected to compare corresponding user distribution. Two movies selected in the upper-center region—One flew Over the Cuckoos Nest (1975) and Amadeus (1984)–and are shown in blue color. Another two movies selected in a lower-center region—Phenomenon (1996) and Twister (1996)—are shown in orange. The highlighted users are those who liked all both pairs of movies (because the group mode is set to common).</description>
+    </item>
+    
   </channel>
 </rss>

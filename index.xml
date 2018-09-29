@@ -54,6 +54,30 @@
     </item>
     
     <item>
+      <title>ConceptVector: Text Visual Analytics via Interactive Lexicon Building Using Word Embedding</title>
+      <link>https://intuinno.github.io/publication/conceptvector/</link>
+      <pubDate>Sun, 28 Jan 2018 22:17:58 -0500</pubDate>
+      
+      <guid>https://intuinno.github.io/publication/conceptvector/</guid>
+      <description>
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;./img/conceptvector.jpg&#34; /&gt;
+
+
+
+&lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; &gt;
+  &lt;h4&gt;The CommentIQ UI showing toggleable visualizations such as scatterplot, map, and timeline (left) that enable overview and filtering of comments, as well as an adjustable ranking based on various weighted quality criteria (right).ConceptVector supports interactive construction of lexicon-based concepts. Here the user creates a new unipolar concept (1) by adding initial keywords related to &lt;em&gt;tidal flooding&lt;/em&gt; (2). The system recommends related words along with their semantic groupings (3), also shown in a scatterplot (4), revealing word- and cluster-level relationships. Irrelevant words can be specified to improve recommendation quality (5). Concepts (9) can then be used to rank document corpora (10). Document scores can be visualized in a scatterplot based on concepts such as &lt;em&gt;tidal flooding&lt;/em&gt; and &lt;em&gt;money&lt;/em&gt; (7). Users can further refine concepts based on results (8).&lt;/h4&gt;
+  
+&lt;/figcaption&gt;
+
+&lt;/figure&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Example Talk</title>
       <link>https://intuinno.github.io/talk/example-talk/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 -0600</pubDate>
@@ -313,6 +337,46 @@ git submodule update --init --recursive
 &lt;p&gt;Copyright 2016-present &lt;a href=&#34;https://georgecushen.com&#34; target=&#34;_blank&#34;&gt;George Cushen&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;Released under the &lt;a href=&#34;https://github.com/gcushen/hugo-academic/blob/master/LICENSE.md&#34; target=&#34;_blank&#34;&gt;MIT&lt;/a&gt; license.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Parallelspaces: Simultaneous Exploration of Feature and Data for Hypothesis Generation</title>
+      <link>https://intuinno.github.io/publication/parallelspace/</link>
+      <pubDate>Tue, 29 Mar 2016 10:40:11 -0500</pubDate>
+      
+      <guid>https://intuinno.github.io/publication/parallelspace/</guid>
+      <description>
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;./files/parallelspaces/parallelspaces_screen.jpg&#34; /&gt;
+
+
+
+&lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; &gt;
+  &lt;h4&gt;The MovieVis tool. Two groups in the movie space have been selected to compare corresponding user distribution. Two movies selected in the upper-center region—One flew Over the Cuckoos Nest (1975) and Amadeus (1984)–and are shown in blue color. Another two movies selected in a lower-center region—Phenomenon (1996) and Twister (1996)—are shown in orange. The highlighted users are those who liked all both pairs of movies (because the group mode is set to common). Based on the user space axes—gender for the horizontal and age for the vertical—we can see that while the movie One Flew Over the Cuckoo’s Nest and Amadeus were favored by male reviewers of all ages, the Phenomenon and Twister were liked by relatively younger male audiences.&lt;/h4&gt;
+  
+&lt;/figcaption&gt;
+
+&lt;/figure&gt;
+
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;./files/parallelspaces/parallelspaces_teaser.jpg&#34; /&gt;
+
+
+
+&lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; &gt;
+  &lt;h4&gt;On the left, we compare two movies, Toy Story (1995), in blue, and Scream (1996), in orange, according to the age, location and similarity criteria for users. Some notable observations are while the former is liked all around the U.S. by any age groups the latter is mostly popular in the eastern part and within a younger generation. On the right, we compare two users, a 19-year-old male student, in blue, and a 51-year-old male educator, in orange according to the average, release date, and similarity criteria for movies. We observe that the older user tends to rate older films highly. In addition, his average review tends to conform to the average ratings patterns of all users while the younger user seems to deviate from it.&lt;/h4&gt;
+  
+&lt;/figcaption&gt;
+
+&lt;/figure&gt;
 </description>
     </item>
     
