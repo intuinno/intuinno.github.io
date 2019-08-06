@@ -12,7 +12,18 @@
     
     
     <item>
-      <title>Advice for the graduate school</title>
+      <title>Advice for the master students who want to do reserach in my lab</title>
+      <link>http://crystal.uta.edu/~park/post/master-research/</link>
+      <pubDate>Tue, 06 Aug 2019 00:00:00 -0500</pubDate>
+      
+      <guid>http://crystal.uta.edu/~park/post/master-research/</guid>
+      <description>I get many emails from master students who are interested in reserach.
+ I would like to get research experience in my lab. May I join your lab as a master student?
+ Below you can find my advice. TLDR, if you plan to pursue PhD after your master, it might be a good idea to experience research in my lab. If you plan to industry career, it might not.</description>
+    </item>
+    
+    <item>
+      <title>Advice for the undergraduate students who consider the graduate school</title>
       <link>http://crystal.uta.edu/~park/post/graduate-school/</link>
       <pubDate>Tue, 06 Aug 2019 00:00:00 -0500</pubDate>
       
@@ -48,7 +59,7 @@ We learn by teaching. Every week we will have a paper reading seminar where one 
       <pubDate>Mon, 05 Aug 2019 00:00:00 -0500</pubDate>
       
       <guid>http://crystal.uta.edu/~park/post/soft-evolution/</guid>
-      <description>Life evolves. The speed of evolution depends on the mechanism of the evolution. The first evolution was based on the random mutation of the genes. It is basically trial and error. But the diversity of the life forms it generated is awesome. I would call it hard evolution. We, humans, are one of the successful life forms with mosquitoes and cockroaches.
+      <description>Life evolves. The speed of evolution depends on the mechanism of the evolution. The first evolution was based on the random mutation of genes. It is basically trial and error. But the diversity of the life forms it generated is awesome. I would call it hard evolution. We, humans, are one of the successful life forms with mosquitoes and cockroaches.
 Human adopted a new strategy. It was building a more flexible general purpose brain to adapt to the environment.</description>
     </item>
     
@@ -59,8 +70,8 @@ Human adopted a new strategy. It was building a more flexible general purpose br
       
       <guid>http://crystal.uta.edu/~park/post/research-in-hdilab/</guid>
       <description>Hello,
-My name is Deokgun Park and I lead Human Data Interaction Lab (HDILab) in the Computer Science Engineering Department at the University of Texas at Arlington. In this article, I will explain what problems we are solving at HDILab. In Human Data Interaction Lab, we are studying artificial general intelligence (AGI).
-Many students already have an idea about what artificial intelligence (AI) is. But artificial general intelligence or AGI might be a new term.</description>
+My name is Deokgun Park and I lead Human Data Interaction Lab (HDILab) in the Department of Computer Science &amp;amp; Engineering at the University of Texas at Arlington. In this article, I will explain the problems we are solving at HDILab. In Human Data Interaction Lab, we are studying artificial general intelligence (AGI).
+Many students already have an idea about artificial intelligence (AI). But artificial general intelligence or AGI might be a new term.</description>
     </item>
     
   </channel>

@@ -117,7 +117,7 @@
   
   <meta property="article:published_time" content="2016-04-20T00:00:00-05:00">
   
-  <meta property="article:modified_time" content="2019-08-05T11:00:41-05:00">
+  <meta property="article:modified_time" content="2019-08-06T13:46:31-05:00">
   
 
   
@@ -323,8 +323,8 @@
         Last updated on
     
     <meta content="2016-04-20 00:00:00 -0500 CDT" itemprop="datePublished">
-    <time datetime="2019-08-05 11:00:41 -0500 CDT" itemprop="dateModified">
-      Aug 5, 2019
+    <time datetime="2019-08-06 13:46:31 -0500 CDT" itemprop="dateModified">
+      Aug 6, 2019
     </time>
   </span>
   <span itemscope itemprop="publisher" itemtype="http://schema.org/Person">
@@ -390,14 +390,14 @@
 
 <p>Hello,</p>
 
-<p>My name is Deokgun Park and I lead Human Data Interaction Lab (HDILab) in the <a href="https://cse.uta.edu/" target="_blank">Computer Science Engineering Department at the University of Texas at Arlington</a>.
-In this article, I will explain what problems we are solving at HDILab. In Human Data Interaction Lab, we are studying <strong>artificial general intelligence (AGI)</strong>.</p>
+<p>My name is Deokgun Park and I lead Human Data Interaction Lab (HDILab) in the <a href="https://cse.uta.edu/" target="_blank">Department of Computer Science &amp; Engineering at the University of Texas at Arlington</a>.
+In this article, I will explain the problems we are solving at HDILab. In Human Data Interaction Lab, we are studying <strong>artificial general intelligence (AGI)</strong>.</p>
 
-<p>Many students already have an idea about what artificial intelligence (AI) is. But artificial general intelligence or AGI might be a new term. So let&rsquo;s start with what AGI is.</p>
+<p>Many students already have an idea about artificial intelligence (AI). But artificial general intelligence or AGI might be a new term. So let&rsquo;s start with what AGI is.</p>
 
 <h3 id="clarifying-ai-and-agi">Clarifying AI and AGI</h3>
 
-<p>Since Marvin Minsky and other researchers gathered at <a href="https://en.wikipedia.org/wiki/Dartmouth_workshop" target="_blank">Dartmouth College in Hanover in 1956</a>, the goal of AI was building a machine that can do many tasks like humans. But after experiencing a few AI winters, the academic focus shifted to building models to perform a single application because it was more tractable. This approach has been frequently called machine learning (ML). It is said that one of the reason ML has been coined was to <a href="https://en.wikipedia.org/wiki/AI_winter" target="_blank">avoid mentioning AI in the proposal during the AI winters</a>. It was successful, and we achieved many advances in specific applications such as image classification, machine translation, self-driving car, or playing Go game. And the term AI became hot again.</p>
+<p>Since Marvin Minsky and other researchers gathered at <a href="https://en.wikipedia.org/wiki/Dartmouth_workshop" target="_blank">Dartmouth College in Hanover in 1956</a>, the goal of AI was to build a machine that can do many tasks like humans. But after experiencing a few AI winters, the academic focus shifted to building models to perform a single application because it was more tractable. This approach has been frequently called machine learning (ML). It is said that one of the reason ML has been coined was to <a href="https://en.wikipedia.org/wiki/AI_winter" target="_blank">avoid mentioning AI in the proposal during the AI winters</a>. It was successful, and we achieved many advances in specific applications such as image classification, machine translation, self-driving car, or playing Go game. And the term AI became hot again.</p>
 
 <p>But we still lack an idea about how we can build a general-purpose AI which appears in Hollywood movies or general public associates with. Because most of the current AI research is application-specific, we need another term for the original general purpose agent. It has been rephrased many times, including</p>
 
@@ -432,13 +432,13 @@ In this article, I will explain what problems we are solving at HDILab. In Human
 
 <h3 id="how-to-test-agi">How to test AGI</h3>
 
-<p>Before we discuss how we can build AGI, let&rsquo;s start with how we can test whether if we built AGI.  Because according to Peter Drucker or Lord Kelvin,</p>
+<p>Before we discuss how we can build AGI, let&rsquo;s start with how we can test if we built AGI.  Because according to Peter Drucker or Lord Kelvin,</p>
 
 <blockquote>
 <p>If you can&rsquo;t measure it, you can&rsquo;t improve it.</p>
 </blockquote>
 
-<p>Alan Turing suggested <a href="https://en.wikipedia.org/wiki/Computing_Machinery_and_Intelligence" target="_blank">a test to verify AGI</a>. According to the <strong>Turing test</strong> also known as <strong>Imitation Game</strong>, a human participant asks an agent hidden behind the wall to perform many tasks. If the human cannot discern whether the agent is truly a human or an artificial agent, then the artificial agent is assumed to achieve a human-level intelligence.</p>
+<p>Alan Turing suggested <a href="https://en.wikipedia.org/wiki/Computing_Machinery_and_Intelligence" target="_blank">a test to verify AGI</a>. According to the <strong>Turing test</strong>, also known as <strong>Imitation Game</strong>, a human participant asks an agent hidden behind the wall to perform many tasks. If the human cannot discern whether the agent is truly a human or an artificial agent, then the artificial agent is assumed to achieve a human-level intelligence.</p>
 
 
 
@@ -456,13 +456,13 @@ In this article, I will explain what problems we are solving at HDILab. In Human
 
 </figure>
 
-<p>While theoretically valid, it poses several problems in its practical application. First, it is too difficult for the current status of research. The human tester can use all the knowledge about the world to test the agent, yet it would be very costly and impossible to teach all the knowledge about the world to the artificial agent, while researchers struggle to discover how we can mimic human-like learning.  It is like asking a kinder to take SAT test.</p>
+<p>While theoretically valid, it poses several problems in its practical application. First, it is too difficult for the current status of research. The human tester can use all the knowledge about the world to test the agent, yet it would be very costly and impossible to teach all the knowledge about the world to the artificial agent, while researchers struggle to discover how we can mimic human-like learning.  It is like asking a 1st grader to take SAT test.</p>
 
 <p>Second, the test does not provide any idea about where the model can learn those knowledges required to take test. It is like testing students without giving them any textbooks or lectures.</p>
 
 <p>Third, even for the same model and the same evaluator, the feedback will be different from today to tomorrow. The test is subjective and not reproducible.</p>
 
-<p>Finally, it is prohibitively expensive to hire people to conduct a test. Humans may participate in annual Turing test competition, but during the hyperparameter tuning or iterative model refinement it is difficult to get access to human testers.  For these reasons, it is not practically applicable in the current renaissance of the AI.</p>
+<p>Finally, it is prohibitively expensive to hire people to conduct a test. Humans may participate in annual Turing test competition, but during the hyperparameter tuning or iterative model refinement, it is difficult to get access to human testers.  For these reasons, it is not practically applicable in the current renaissance of the AI.</p>
 
 <p>We propose an alternative test method for AGI. This method is based on the observation that even if we raise cats and dogs, treating them like human babies, they cannot learn to speak. The animals are capability-limited, and the human baby cannot learn to speak if it is separated from people speaking to it. It is environment-limited. Therefore we can think that the language acquisition is the function of the environment and the capability of the learning agent. In other words, if an agent can learn how to speak in a proper environment, we can say that it has the capability to do artificial general intelligence. We call it the Language Acquisition Test for AGI or <strong>Park&rsquo;s test</strong>.</p>
 
@@ -546,13 +546,13 @@ In this article, I will explain what problems we are solving at HDILab. In Human
 
 </figure>
 
-<p>But the concepts that can be learned in this way is limited. There are limitations due to the environments. We don&rsquo;t learn by fetching objects according to the parent directions. It will take too long all the concepts this way. We need a better environments that can teach the language</p>
+<p>But the concepts that can be learned in this way is limited. There are limitations due to the environments. We don&rsquo;t learn by fetching objects according to the parent directions. It will take too long to learn all concepts this way. We need a better environments that can teach the language</p>
 
 <p>When the transistor was first invented, people were excited to use it as an amplifier to build radio and radars. But the true power of the transistor was when it was arranged in a specific structure, it could build a logic gate. By arranging logic gates in a specific way, we could build a CPU, the true ultimate power of transistor.</p>
 
 <p>The same goes with the connectionism. We know how one or two neural cell behaves exactly and we can simulate them. But most advancement came with the arrangement of this device in a specific ways, such as multi-layer perceptron (MLP), convolutional neural net (CNN), recurrent neural net (RNN), and generative adversarial network (GAN). In this sense, we are experimental computer scientist who seek the right structure mostly by trial and errors. Because of this nature, it is helpful to have an environment that can provide an easy, low-cost, and reproducible way to experiment.</p>
 
-<p>In our lab, we would like to develop an environment for Park&rsquo;s test. The key idea is that we will focus on the critical stage of the human development when humans learn how to speak as infants. This environment will contain a 3D replication of a room in the home with a few toys. There will be a mother character and a baby character. The mother character is programmed manually using traditional game AI technology to take care of the baby and lead a conversation with the baby character which is often called a baby talk, child-directed speech (CDS), motherese or infant directed speech (IDS). IDS is a communication pattern, when a mother tries to teach language to an infant. The baby character will be the learning agent. The success of the test will be decided by whether the learning agents can acquire language and develop reasonable behavior comparable to the human developmental progress.</p>
+<p>In our lab, we would like to develop an environment for Park&rsquo;s test. The key idea is that we will focus on the critical stage of the human development when humans learn how to speak as infants. This environment will contain a 3D replication of a room in the home with a few toys. There will be a mother character and a baby character. The mother character will be programmed manually using traditional game AI technology to take care of the baby and lead a conversation with the baby character which is often called a baby talk, child-directed speech (CDS), motherese or infant directed speech (IDS). IDS is a communication pattern, when a mother tries to teach language to an infant. The baby character will be the learning agent. The success of the test will be decided by whether the learning agents can acquire language and develop reasonable behavior comparable to the human developmental progress.</p>
 
 
 
@@ -570,7 +570,13 @@ In this article, I will explain what problems we are solving at HDILab. In Human
 
 </figure>
 
-<h3 id="hierarchical-prediction-memory">Hierarchical Prediction Memory</h3>
+<h3 id="hierarchical-prediction-memory-hpm">Hierarchical Prediction Memory (HPM)</h3>
+
+<p>HDILab also studies the model that can learn the language in the environment described above. We conjecture that the essence of the intelligence is a hierarchical prediction.</p>
+
+<p>Where the original connectivist has missed? The original connectivist thought the decision or pattern recognition as the core activity. However, this lead to the wrong formalization of the problem? In my opinion, prediction should be the core activity. Prediction includes the decision or pattern recognition, but the main difference is that it has the streaming input and streaming output.</p>
+
+<p>The most difficult way to fly is to imitate the biological mechanism of flying such as in birds or flies. What we needs to learn is what those mechanism are actually doing or <em>function</em>. The way human or horses run is <em>pushing the ground backward</em>. The way birds fly is <em>pushing the air downward</em>. This applies to the intelligence. The biological mechanism is very complex. It has been very optimized. It has to use biological lossy devices. So the mechanism is very complex. But we need to learn what is the function of the mechanism. It is in my opinion <em>prediction of vector sequence</em>. Hierarchy helps to overcome the temporal limit by chunking. The essence of intelligence is <em>hierarchical prediction of vector sequence</em>.</p>
 
     </div>
 

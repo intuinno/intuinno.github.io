@@ -10,7 +10,27 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Advice for the graduate school</title>
+      <title>Advice for the master students who want to do reserach in my lab</title>
+      <link>http://crystal.uta.edu/~park/post/master-research/</link>
+      <pubDate>Tue, 06 Aug 2019 00:00:00 -0500</pubDate>
+      
+      <guid>http://crystal.uta.edu/~park/post/master-research/</guid>
+      <description>&lt;p&gt;I get many emails from master students who are interested in reserach.&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;I would like to get research experience in my lab. May I join your lab as a master student?&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Below you can find my advice. TLDR, if you plan to pursue PhD after your master, it might be a good idea to experience research in my lab. If you plan to industry career, it might not.&lt;/p&gt;
+
+&lt;p&gt;You can contact me and discuss your interest. However, if you want to get a job after graduation, doing research with me might not be helpful. You might get a better chance for the job by preparing the coding interview. The research takes time to produce a meaningful outcome. And the research is a full-time job. For example, it is common that it takes more than two years before a phd student can produce a paper or meaningful software. However, this can be too late for the master students who need something to show to potential employer during first semester and third semester. Doing research is more beneficial for those who consider phd program after graduation.&lt;/p&gt;
+
+&lt;p&gt;Still there are many masters student working in my lab. I encourage you to contact them.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Advice for the undergraduate students who consider the graduate school</title>
       <link>http://crystal.uta.edu/~park/post/graduate-school/</link>
       <pubDate>Tue, 06 Aug 2019 00:00:00 -0500</pubDate>
       
@@ -243,15 +263,15 @@ When I ask you to do something, I usually expect to hear the progress report in 
       <guid>http://crystal.uta.edu/~park/post/soft-evolution/</guid>
       <description>
 
-&lt;p&gt;Life evolves. The speed of evolution depends on the mechanism of the evolution. The first evolution was based on the random mutation of the genes. It is basically trial and error. But the diversity of the life forms it generated is awesome. I would call it &lt;strong&gt;hard evolution&lt;/strong&gt;. We, humans, are one of the successful life forms with mosquitoes and cockroaches.&lt;/p&gt;
+&lt;p&gt;Life evolves. The speed of evolution depends on the mechanism of the evolution. The first evolution was based on the random mutation of genes. It is basically trial and error. But the diversity of the life forms it generated is awesome. I would call it &lt;strong&gt;hard evolution&lt;/strong&gt;. We, humans, are one of the successful life forms with mosquitoes and cockroaches.&lt;/p&gt;
 
 &lt;p&gt;Human adopted a new strategy. It was building a more flexible general purpose brain to adapt to the environment. Other life forms also have the brain. But its function was more rigid or hard encoded. You can think how the pocket calculator compares with the smartphone. Both have a similar electronic components namely CPU, memory and I/O devices.&lt;/p&gt;
 
-&lt;p&gt;Using the general brain, we can do many things that was not possible. But the essential function is learning. In hard evolution, the special variation that worked well leaves the genes. However, in &lt;strong&gt;soft evolution&lt;/strong&gt;, we can learn from others. It basically allows the exponential trial and errors. Nobody can experience all the diverse experience in the world given limited time and energy. Still we can learn from others first using verbal language. This allowed us to transfer knowledge from the nearby persons. The written language allowed it to go beyond the limitation of the space and time of the verbal language. Now what is beautiful about the soft evolution is that the time it takes to evolve has reduced dramatically. The soft evolution happens in the brain circuitry during the life time of the agent while in the hard evolution, the life time of the agent was a single unit of progress.&lt;/p&gt;
+&lt;p&gt;Using the general brain, we can do many things that was not possible. But the essential function is learning. In hard evolution, the special variation that worked well leaves the genes. However, in &lt;strong&gt;soft evolution&lt;/strong&gt;, we can learn from others. It basically allows exponential trial and errors. Nobody can experience all the diverse experience in the world given limited time and energy. Still we can learn from others first using verbal language. This allowed us to transfer knowledge from nearby people. The written language allowed it to go beyond the limitation of the space and time of the verbal language. Now what is beautiful about the soft evolution is that the time it takes to evolve has reduced dramatically. The soft evolution happens in the brain circuitry during the life time of the agent while in the hard evolution, the life time of the agent was a single unit of progress.&lt;/p&gt;
 
-&lt;p&gt;Because of this general flexible brain, we are born as rather blank state compared to other animals such as cats and dogs. Of course there are still many innate circuitry which I will talk later. And it takes relatively long time to have a reasonably working program. Interestingly as the amount of the information to function well in the society increases the time it takes to be independent is also increasing. Now it is common in the first world that it takes about 20 to 30 years before one can be independent from the parents.&lt;/p&gt;
+&lt;p&gt;Because of this general flexible brain, we are born with a rather blank state compared to other animals such as cats and dogs. (Of course there are still many innate circuitry which I will talk later about.) And it takes relatively long time to have a reasonably working program. Interestingly as the amount of the information to function well in the society increases the time it takes to be independent is also increasing. Now it is common in the first world that it takes about 20 to 30 years before one can be independent from their parents.&lt;/p&gt;
 
-&lt;p&gt;I said the brain is born as a basically blank state. But still there are innate mechanism to help learn from the parents. Think of the truly blank state agent. We got a continuous stream of image and sound. How we can make sense of the this image? For example, parents talking to the baby might look like a skin colored chunk with a few holes that are constantly moving. One hole continuously changes shape and make a sound (hint: mouth). How can we learn this chunk of image is a mom and the sound is the language which is different from random noise from the street? Epistemology is an old branch of philosophy devoted to this problem.&lt;/p&gt;
+&lt;p&gt;I said the brain is born as a basically blank state. But still there are innate mechanism to help learn from the parents. Think of the truly blank state agent. We got a continuous stream of image and sound. How we can make sense of the these images? For example, parents talking to the baby might look like a skin colored chunk with a few holes that are constantly moving. One hole continuously changes shape and make a sound (hint: mouth). How can we learn this chunk of image is a mom and the sound is the language which is different from random noise from the street? Epistemology is an old branch of philosophy devoted to this problem.&lt;/p&gt;
 
 &lt;p&gt;I think the innate mechanism is essential for the new born baby to make sense of the world. Let me give you an example. &lt;a href=&#34;https://science.sciencemag.org/content/198/4312/75&#34; target=&#34;_blank&#34;&gt;Andrew Meltzoff and Keith Moore found that a baby who was about 7 hours since the birth can still mimic the tongue movements&lt;/a&gt;. It is quite surprising when we think about all the skills to do this. First, the baby has to recognize the human face. Then he has to map the human face he never seen to his face that he never seen himself. Finally the baby has to control the tongue to imitate the expression.&lt;/p&gt;
 
@@ -613,34 +633,6 @@ When I ask you to do something, I usually expect to hear the progress report in 
 &lt;h2 id=&#34;advanced-features&#34;&gt;Advanced Features&lt;/h2&gt;
 
 &lt;p&gt;The data directory allows you to leverage third-party tools to have powerful features like synchronization, versioning and encryption, we&amp;rsquo;ll talk about those in the &lt;a href=&#34;@tag/Advanced&#34; target=&#34;_blank&#34;&gt;advanced&lt;/a&gt; sections.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>02 - The Sidebar</title>
-      <link>http://crystal.uta.edu/~park/notes/02-the-sidebar/</link>
-      <pubDate>Thu, 06 Jun 2019 12:20:10 +0000</pubDate>
-      
-      <guid>http://crystal.uta.edu/~park/notes/02-the-sidebar/</guid>
-      <description>
-
-&lt;h1 id=&#34;02-the-sidebar&#34;&gt;02 - The Sidebar&lt;/h1&gt;
-
-&lt;p&gt;The sidebar is where all your notes are categorized.&lt;/p&gt;
-
-&lt;h2 id=&#34;categories&#34;&gt;Categories&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;All Notes&lt;/strong&gt;: This section contains all notes.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Favorites&lt;/strong&gt;: This section contains all notes you&amp;rsquo;ve favorited.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Notebooks&lt;/strong&gt;: This section contains all notes tagged with the special &lt;code&gt;Notebooks/*&lt;/code&gt; tag.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Tags&lt;/strong&gt;: This section contains all notes tagged with any tag except the special ones: &lt;code&gt;Notebooks/*&lt;/code&gt; and &lt;code&gt;Templates/*&lt;/code&gt;.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Templates&lt;/strong&gt;: This section contains all notes tagged with the special &lt;code&gt;Templates/*&lt;/code&gt; tag. These notes won&amp;rsquo;t be displayed in any other category.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Untagged&lt;/strong&gt;: This section contains all notes that have no tags.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Trash&lt;/strong&gt;: This section contains all notes that have been deleted. These notes won&amp;rsquo;t be displayed in any other category.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;You can create sub-categories in the following sections: Notebooks, Tags and Templates by using nested tags.&lt;/p&gt;
 </description>
     </item>
     
