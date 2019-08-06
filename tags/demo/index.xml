@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Demo on Deokgun Park</title>
-    <link>https://intuinno.github.io/tags/demo/</link>
+    <link>http://crystal.uta.edu/~park/tags/demo/</link>
     <description>Recent content in Demo on Deokgun Park</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 27 Apr 2016 00:00:00 -0500</lastBuildDate>
     
-	<atom:link href="https://intuinno.github.io/tags/demo/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://crystal.uta.edu/~park/tags/demo/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>External Project</title>
-      <link>https://intuinno.github.io/project/example-external-project/</link>
+      <link>http://crystal.uta.edu/~park/project/example-external-project/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 -0500</pubDate>
       
-      <guid>https://intuinno.github.io/project/example-external-project/</guid>
+      <guid>http://crystal.uta.edu/~park/project/example-external-project/</guid>
       <description></description>
     </item>
     

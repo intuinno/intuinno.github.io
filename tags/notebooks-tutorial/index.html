@@ -1,0 +1,570 @@
+
+
+<!DOCTYPE html>
+<html lang="en-us">
+<head>
+
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="generator" content="Source Themes Academic 2.4.0">
+  <meta name="generator" content="Hugo 0.53" />
+  <meta name="author" content="Deokgun Park">
+
+  
+  
+  
+  
+    
+  
+  <meta name="description" content="Deokgun Park is an assistant professor at UTA. His research focuses on the computational methods for open-ended tasks. He tries to scale up human&#39;s ability to solve those tasks using information visualization and visual analytics.">
+
+  
+  <link rel="alternate" hreflang="en-us" href="http://crystal.uta.edu/~park/tags/notebooks-tutorial/">
+
+  
+
+
+  
+
+  
+  
+  
+  <meta name="theme-color" content="#0095eb">
+  
+
+  
+  
+  
+  
+    
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha256-eSi1q2PG6J7g7ib17yAaWMcrr5GrtohYChqibrV7PBE=" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/academicons/1.8.6/css/academicons.min.css" integrity="sha256-uFVgMKfistnJAfoCUQigIl+JfUaP47GrRKjf6CTPVmw=" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.3.1/css/all.css" integrity="sha384-mzrmE5qonljUremFsqc01SB46JvROS7bZs3IO2EmfFsd15uHvIt+Y8vEf7N7fWAU" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.2.5/jquery.fancybox.min.css" integrity="sha256-ygkqlh3CYSUri3LhQxzdcm0n1EQvH2Y+U5S2idbLtxs=" crossorigin="anonymous">
+
+    
+    
+    
+      
+    
+    
+      
+      
+        
+          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/styles/github.min.css" crossorigin="anonymous">
+        
+      
+    
+
+    
+
+    
+
+  
+
+  
+  
+  <link rel="stylesheet" href=//fonts.googleapis.com/css?family=Montserrat:400,700|Roboto:400,400italic,700|Roboto+Mono>
+  
+
+  <link rel="stylesheet" href="../../styles.css">
+  
+  <link rel="stylesheet" href="../../css/vue.css">
+  
+
+  
+  
+    <script>
+      window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+      ga('create', 'UA-145119349-1', 'auto');
+      
+      ga('require', 'eventTracker');
+      ga('require', 'outboundLinkTracker');
+      ga('require', 'urlChangeTracker');
+      ga('send', 'pageview');
+    </script>
+    <script async src="//www.google-analytics.com/analytics.js"></script>
+    
+    <script async src="https://cdnjs.cloudflare.com/ajax/libs/autotrack/2.4.1/autotrack.js" integrity="sha512-HUmooslVKj4m6OBu0OgzjXXr+QuFYy/k7eLI5jdeEy/F4RSgMn6XRWRGkFi5IFaFgy7uFTkegp3Z0XnJf3Jq+g==" crossorigin="anonymous"></script>
+    
+  
+  
+
+  
+  <link rel="alternate" href="http://crystal.uta.edu/~park/tags/notebooks-tutorial/index.xml" type="application/rss+xml" title="Deokgun Park">
+  <link rel="feed" href="http://crystal.uta.edu/~park/tags/notebooks-tutorial/index.xml" type="application/rss+xml" title="Deokgun Park">
+  
+
+  <link rel="manifest" href="../../site.webmanifest">
+  <link rel="icon" type="image/png" href="../../img/icon.png">
+  <link rel="apple-touch-icon" type="image/png" href="../../img/icon-192.png">
+
+  <link rel="canonical" href="http://crystal.uta.edu/~park/tags/notebooks-tutorial/">
+
+  <meta property="twitter:card" content="summary_large_image">
+  
+  <meta property="twitter:site" content="@intuinno">
+  <meta property="twitter:creator" content="@intuinno">
+  
+  <meta property="og:site_name" content="Deokgun Park">
+  <meta property="og:url" content="http://crystal.uta.edu/~park/tags/notebooks-tutorial/">
+  <meta property="og:title" content="Notebooks/Tutorial | Deokgun Park">
+  <meta property="og:description" content="Deokgun Park is an assistant professor at UTA. His research focuses on the computational methods for open-ended tasks. He tries to scale up human&#39;s ability to solve those tasks using information visualization and visual analytics.">
+  
+  
+    
+  <meta property="og:image" content="http://crystal.uta.edu/~park/img/profile.jpg">
+  <meta property="og:locale" content="en-us">
+  
+  <meta property="og:updated_time" content="2019-06-06T12:20:11&#43;00:00">
+  
+
+  
+
+  
+
+  <title>Notebooks/Tutorial | Deokgun Park</title>
+
+</head>
+<body id="top" data-spy="scroll" data-target="#TableOfContents" data-offset="71" >
+
+<nav class="navbar navbar-light fixed-top navbar-expand-lg py-0" id="navbar-main">
+  <div class="container">
+
+    
+      <a class="navbar-brand" href="../../">Deokgun Park</a>
+      
+      <button type="button" class="navbar-toggler" data-toggle="collapse"
+              data-target="#navbar" aria-controls="navbar" aria-expanded="false" aria-label="Toggle navigation">
+        <span><i class="fas fa-bars"></i></span>
+      </button>
+      
+
+    
+    <div class="collapse navbar-collapse" id="navbar">
+
+      
+      
+      <ul class="navbar-nav ml-auto">
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link" href="../../#about">
+            
+            <span>Home</span>
+            
+          </a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link" href="../../#publications">
+            
+            <span>Publications</span>
+            
+          </a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link" href="../../#posts">
+            
+            <span>Posts</span>
+            
+          </a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link" href="../../#teaching">
+            
+            <span>Teaching</span>
+            
+          </a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link" href="../../#talks">
+            
+            <span>Talks</span>
+            
+          </a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link" href="../../files/cv.pdf">
+            
+            <span>CV</span>
+            
+          </a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link" href="../../#contact">
+            
+            <span>Contact</span>
+            
+          </a>
+        </li>
+
+        
+        
+
+      
+
+        
+
+        
+      </ul>
+
+    </div>
+  </div>
+</nav>
+
+
+
+
+
+<div class="universal-wrapper">
+  <h1>Notebooks/Tutorial</h1>
+
+  
+
+  
+  
+  <div>
+    <h2><a href="../../notes/08-importing/">08 - Importing</a></h2>
+    <div class="article-style">
+      
+      08 - Importing You can import the following formats via Notable -&gt; Import:
+ Markdown files with extension: md, mkd, mdwn, mdown, markdown, markdn, mdtxt, mdtext or txt. Evernotes&rsquo; exports with extension: enex.  Alternatively you could also just put your Markdown notes into the notes sub-directory into your data directory.
+The more notes you are importing the longer it will take, in some cases the interface may freeze until the operation is completed.
+      
+    </div>
+  </div>
+  
+  <div>
+    <h2><a href="../../notes/09-multi-note-editing/">09 - Multi-Note Editing</a></h2>
+    <div class="article-style">
+      
+      09 - Multi-Note Editing Built-in Some multi-note editing features are built-in.
+There are multiple ways to select notes:
+ Click: you can toggle a note&rsquo;s selection just by clicking it in the middlebar with Cmd+Click on macOS, or with Ctrl+Click elsewhere.
+ Shortcuts: some shortcuts are provided under the Edit menu entry for selecting all notes, inverting the selection and unselecting all of them.
+  When 2 or more notes are selected a multi-note editor will be displayed in the mainbar, you&rsquo;ll be asked for confirmation for all changes that will mutate the notes.
+      
+    </div>
+  </div>
+  
+  <div>
+    <h2><a href="../../notes/10-linking-attachments-notes-tags-and-searches/">10 - Linking Attachments, Notes, Tags and Searches</a></h2>
+    <div class="article-style">
+      
+      10 - Linking Attachments, Notes, Tags and Searches Sometimes, like when writing a tutorial for a note-taking app 😉, you may need to link to other notes or embed a few attachments. Notable makes this easy for you.
+These special links can also be right-clicked so that you can perform some actions on them.
+Attachments Attachments can be rendered inline, linked to, and linked to via a button. The @attachment token is used for this.
+      
+    </div>
+  </div>
+  
+  <div>
+    <h2><a href="../../notes/11-synchronization/">11 - Synchronization</a></h2>
+    <div class="article-style">
+      
+      11 - Synchronization Notable doesn&rsquo;t have synchronization built-in, but you can have your data synchronized across computers just by putting the data directory into a shared folder, like Dropbox/Google Drive/etc.
+This way the third-party service will take care of the synchronization.
+      
+    </div>
+  </div>
+  
+  <div>
+    <h2><a href="../../notes/12-mobile-editing/">12 - Mobile Editing</a></h2>
+    <div class="article-style">
+      
+      12 - Mobile Editing Notable doesn&rsquo;t have a mobile app yet, but there are many apps for editing Markdown files already on mobile.
+If you put your data directory into a shared folder, like Dropbox/Google Drive/etc. you could use any of those apps for editing notes or making new ones.
+It wouldn&rsquo;t be perfect, especially if you need to change some metadata or add an attachment, but it would be ok most of the times.
+      
+    </div>
+  </div>
+  
+  <div>
+    <h2><a href="../../notes/13-collaborative-editing/">13 - Collaborative Editing</a></h2>
+    <div class="article-style">
+      
+      13 - Collaborative Editing Notable doesn&rsquo;t have collaborative editing built-in, but if you put your data directory in a shared folder, like Dropbox/Google Drive/etc. then multiple people can access it and make edits at the same time.
+Just make sure no 2 people are working on the same note at the same time, or some work might get lost.
+This is by no means a perfect solution though.
+      
+    </div>
+  </div>
+  
+  <div>
+    <h2><a href="../../notes/14-version-control/">14 - Version Control</a></h2>
+    <div class="article-style">
+      
+      14 - Version Control Notable doesn&rsquo;t have version control built-in, but since the data directory is just a regular directory you could make it a git repository and every once in a while take a snapshot of your notes, or perhaps a small script could make commits automatically for you everytime something changes.
+If there&rsquo;s a big demand for this perhaps support for version controlled notes can be added to Notable itself, let us know if you need this.
+      
+    </div>
+  </div>
+  
+  <div>
+    <h2><a href="../../notes/15-encrypted-notes/">15 - Encrypted Notes</a></h2>
+    <div class="article-style">
+      
+      15 - Encrypted Notes Notable doesn&rsquo;t support encrypted notes yet, but if you really need this you could make an encrypted image on your computer and put a data directory in there.
+This way the third-party program will take care of the encryption.
+If there&rsquo;s a big demand for this perhaps support for encrypted notes can be added to Notable itself, let us know if you need this.
+      
+    </div>
+  </div>
+  
+  <div>
+    <h2><a href="../../notes/wrapping-up-/">Wrapping up 🎉</a></h2>
+    <div class="article-style">
+      
+      Wrapping up 🎉 Awesome, you&rsquo;ve reached the end of the tutorial!
+The next step is deleting all these tutorial notes, you can do this one-by-one, using multi-note editing, or you could just trash the whole notes sub-directory from your data directory.
+Feedback If you&rsquo;ve reached this far chances are you&rsquo;re considering using Notable as your main note-taking app, that&rsquo;s great!
+Feel free to contact us about any issues you may encounter, any features suggestions and generally sharing your opinion about Notable and how we can improve it.
+      
+    </div>
+  </div>
+  
+  <div>
+    <h2><a href="../../notes/01-the-data-directory/">01 - The Data Directory</a></h2>
+    <div class="article-style">
+      
+      01 - The Data Directory The data directory is where all your notes and attachments will be stored, it has the following structure:
+/path/to/your/data_directory ├─┬ attachments │ ├── foo.ext │ ├── bar.ext │ └── … └─┬ notes ├── foo.md ├── bar.md └── …  Features  The data directory gives you freedom since your notes are never locked into some sort of proprietary database, all your files use sane formats and are easily accessible and portable.
+      
+    </div>
+  </div>
+  
+
+  
+<nav>
+  <ul class="pagination justify-content-center">
+    
+    
+    <li class="page-item"><a class="page-link" href="../../tags/notebooks-tutorial/page/2/">&raquo;</a></li>
+    
+  </ul>
+</nav>
+
+
+</div>
+<div class="container">
+  <footer class="site-footer">
+  
+
+  <p class="powered-by">
+    
+
+    Powered by the
+    <a href="https://sourcethemes.com/academic/" target="_blank" rel="noopener">Academic theme</a> for
+    <a href="https://gohugo.io" target="_blank" rel="noopener">Hugo</a>.
+
+    
+    <span class="float-right" aria-hidden="true">
+      <a href="#" id="back_to_top">
+        <span class="button_icon">
+          <i class="fas fa-chevron-up fa-2x"></i>
+        </span>
+      </a>
+    </span>
+    
+  </p>
+</footer>
+
+</div>
+
+
+<div id="modal" class="modal fade" role="dialog">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title">Cite</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        <pre><code class="tex hljs"></code></pre>
+      </div>
+      <div class="modal-footer">
+        <a class="btn btn-outline-primary my-1 js-copy-cite" href="#" target="_blank">
+          <i class="fas fa-copy"></i> Copy
+        </a>
+        <a class="btn btn-outline-primary my-1 js-download-cite" href="#" target="_blank">
+          <i class="fas fa-download"></i> Download
+        </a>
+        <div id="modal-error"></div>
+      </div>
+    </div>
+  </div>
+</div>
+
+    
+
+    
+    
+
+    
+    
+    
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js" integrity="sha512-+NqPlbbtM1QqiK8ZAo4Yrj2c4lNQoGv8P79DPtKzj++l5jnN39rHA/xsqn8zE9l0uSoxaCdrOgFs6yjyfbBxSg==" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.imagesloaded/4.1.3/imagesloaded.pkgd.min.js" integrity="sha512-umsR78NN0D23AzgoZ11K7raBD+R6hqKojyBZs1w8WvYlsI+QuKRGBx3LFCwhatzBunCjDuJpDHwxD13sLMbpRA==" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha256-VsEqElsCHSGmnmHXGQzvoWjWwoznFSZc6hs7ARLRacQ=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.isotope/3.0.4/isotope.pkgd.min.js" integrity="sha512-VDBOIlDbuC4VWxGJNmuFRQ0Li0SKkDpmGyuhAG5LTDLd/dJ/S0WMVxriR2Y+CyPL5gzjpN4f/6iqWVBJlht0tQ==" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.2.5/jquery.fancybox.min.js" integrity="sha256-X5PoE3KU5l+JcX+w09p/wHl9AzK333C4hJ2I9S5mD4M=" crossorigin="anonymous"></script>
+
+      
+        
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/highlight.min.js" integrity="sha256-/BfiIkHlHoVihZdc6TFuj7MmJ0TWcWsMXkeDFwhi0zw=" crossorigin="anonymous"></script>
+        
+      
+
+      
+      
+    
+
+    <script src="../../js/hugo-academic.js"></script>
+    
+
+    
+    
+
+    
+    
+    
+
+    
+    
+    <script>hljs.initHighlightingOnLoad();</script>
+    
+
+    
+    
+    <script>
+      const search_index_filename = "/index.json";
+      const i18n = {
+        'placeholder': "Search...",
+        'results': "Search Results",
+        'no_results': "No results found"
+      };
+      const content_type = {
+        'post': "Posts",
+        'project': "Projects",
+        'publication' : "Publications",
+        'talk' : "Talks"
+        };
+    </script>
+    
+
+    
+    
+
+    
+    
+    <script id="search-hit-fuse-template" type="text/x-template">
+      <div class="search-hit" id="summary-{{key}}">
+      <div class="search-hit-content">
+        <div class="search-hit-name">
+          <a href="{{relpermalink}}">{{title}}</a>
+          <div class="article-metadata search-hit-type">{{type}}</div>
+          <p class="search-hit-description">{{snippet}}</p>
+        </div>
+      </div>
+      </div>
+    </script>
+    
+
+    
+    
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/fuse.js/3.2.1/fuse.min.js" integrity="sha256-VzgmKYmhsGNNN4Ph1kMW+BjoYJM2jV5i4IlFoeZA9XI=" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/mark.js/8.11.1/jquery.mark.min.js" integrity="sha256-4HLtjeVgH0eIB3aZ9mLYF6E8oU5chNdjU6p6rrXpl9U=" crossorigin="anonymous"></script>
+    <script src="../../js/search.js"></script>
+    
+
+    
+    
+
+  </body>
+</html>
+
+
+

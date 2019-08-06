@@ -2,75 +2,129 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Deokgun Park</title>
-    <link>https://intuinno.github.io/tags/</link>
+    <link>http://crystal.uta.edu/~park/tags/</link>
     <description>Recent content in Tags on Deokgun Park</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 20 Apr 2016 00:00:00 -0500</lastBuildDate>
+    <lastBuildDate>Thu, 06 Jun 2019 12:20:11 +0000</lastBuildDate>
     
-	<atom:link href="https://intuinno.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://crystal.uta.edu/~park/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Academic</title>
-      <link>https://intuinno.github.io/tags/academic/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 -0500</pubDate>
+      <title>Advanced</title>
+      <link>http://crystal.uta.edu/~park/tags/advanced/</link>
+      <pubDate>Thu, 06 Jun 2019 12:20:11 +0000</pubDate>
       
-      <guid>https://intuinno.github.io/tags/academic/</guid>
+      <guid>http://crystal.uta.edu/~park/tags/advanced/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Basics</title>
+      <link>http://crystal.uta.edu/~park/tags/basics/</link>
+      <pubDate>Thu, 06 Jun 2019 12:20:10 +0000</pubDate>
+      
+      <guid>http://crystal.uta.edu/~park/tags/basics/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Deep Learning</title>
-      <link>https://intuinno.github.io/tags/deep-learning/</link>
+      <link>http://crystal.uta.edu/~park/tags/deep-learning/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 -0500</pubDate>
       
-      <guid>https://intuinno.github.io/tags/deep-learning/</guid>
+      <guid>http://crystal.uta.edu/~park/tags/deep-learning/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Demo</title>
-      <link>https://intuinno.github.io/tags/demo/</link>
+      <link>http://crystal.uta.edu/~park/tags/demo/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 -0500</pubDate>
       
-      <guid>https://intuinno.github.io/tags/demo/</guid>
+      <guid>http://crystal.uta.edu/~park/tags/demo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Information Visualization</title>
-      <link>https://intuinno.github.io/tags/information-visualization/</link>
+      <link>http://crystal.uta.edu/~park/tags/information-visualization/</link>
       <pubDate>Wed, 26 Sep 2018 21:53:11 -0500</pubDate>
       
-      <guid>https://intuinno.github.io/tags/information-visualization/</guid>
+      <guid>http://crystal.uta.edu/~park/tags/information-visualization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Intermediate</title>
+      <link>http://crystal.uta.edu/~park/tags/intermediate/</link>
+      <pubDate>Thu, 06 Jun 2019 12:20:11 +0000</pubDate>
+      
+      <guid>http://crystal.uta.edu/~park/tags/intermediate/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Notebooks/Tutorial</title>
+      <link>http://crystal.uta.edu/~park/tags/notebooks-tutorial/</link>
+      <pubDate>Thu, 06 Jun 2019 12:20:11 +0000</pubDate>
+      
+      <guid>http://crystal.uta.edu/~park/tags/notebooks-tutorial/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Open-ended Tasks</title>
-      <link>https://intuinno.github.io/tags/open-ended-tasks/</link>
+      <link>http://crystal.uta.edu/~park/tags/open-ended-tasks/</link>
       <pubDate>Sun, 28 Jan 2018 22:17:58 -0500</pubDate>
       
-      <guid>https://intuinno.github.io/tags/open-ended-tasks/</guid>
+      <guid>http://crystal.uta.edu/~park/tags/open-ended-tasks/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Text Analysis</title>
-      <link>https://intuinno.github.io/tags/text-analysis/</link>
+      <link>http://crystal.uta.edu/~park/tags/text-analysis/</link>
       <pubDate>Sun, 28 Jan 2018 22:17:58 -0500</pubDate>
       
-      <guid>https://intuinno.github.io/tags/text-analysis/</guid>
+      <guid>http://crystal.uta.edu/~park/tags/text-analysis/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Visual Analytics</title>
-      <link>https://intuinno.github.io/tags/visual-analytics/</link>
+      <link>http://crystal.uta.edu/~park/tags/visual-analytics/</link>
       <pubDate>Sun, 28 Jan 2018 22:17:58 -0500</pubDate>
       
-      <guid>https://intuinno.github.io/tags/visual-analytics/</guid>
+      <guid>http://crystal.uta.edu/~park/tags/visual-analytics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>agi</title>
+      <link>http://crystal.uta.edu/~park/tags/agi/</link>
+      <pubDate>Mon, 05 Aug 2019 00:00:00 -0500</pubDate>
+      
+      <guid>http://crystal.uta.edu/~park/tags/agi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>research</title>
+      <link>http://crystal.uta.edu/~park/tags/research/</link>
+      <pubDate>Mon, 05 Aug 2019 00:00:00 -0500</pubDate>
+      
+      <guid>http://crystal.uta.edu/~park/tags/research/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>student advice</title>
+      <link>http://crystal.uta.edu/~park/tags/student-advice/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0500</pubDate>
+      
+      <guid>http://crystal.uta.edu/~park/tags/student-advice/</guid>
       <description></description>
     </item>
     

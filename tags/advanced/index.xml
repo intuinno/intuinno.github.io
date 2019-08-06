@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Advanced on Deokgun Park</title>
+    <link>http://crystal.uta.edu/~park/tags/advanced/</link>
+    <description>Recent content in Advanced on Deokgun Park</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 06 Jun 2019 12:20:11 +0000</lastBuildDate>
+    
+	<atom:link href="http://crystal.uta.edu/~park/tags/advanced/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>11 - Synchronization</title>
+      <link>http://crystal.uta.edu/~park/notes/11-synchronization/</link>
+      <pubDate>Thu, 06 Jun 2019 12:20:11 +0000</pubDate>
+      
+      <guid>http://crystal.uta.edu/~park/notes/11-synchronization/</guid>
+      <description>11 - Synchronization Notable doesn&amp;rsquo;t have synchronization built-in, but you can have your data synchronized across computers just by putting the data directory into a shared folder, like Dropbox/Google Drive/etc.
+This way the third-party service will take care of the synchronization.</description>
+    </item>
+    
+    <item>
+      <title>12 - Mobile Editing</title>
+      <link>http://crystal.uta.edu/~park/notes/12-mobile-editing/</link>
+      <pubDate>Thu, 06 Jun 2019 12:20:11 +0000</pubDate>
+      
+      <guid>http://crystal.uta.edu/~park/notes/12-mobile-editing/</guid>
+      <description>12 - Mobile Editing Notable doesn&amp;rsquo;t have a mobile app yet, but there are many apps for editing Markdown files already on mobile.
+If you put your data directory into a shared folder, like Dropbox/Google Drive/etc. you could use any of those apps for editing notes or making new ones.
+It wouldn&amp;rsquo;t be perfect, especially if you need to change some metadata or add an attachment, but it would be ok most of the times.</description>
+    </item>
+    
+    <item>
+      <title>13 - Collaborative Editing</title>
+      <link>http://crystal.uta.edu/~park/notes/13-collaborative-editing/</link>
+      <pubDate>Thu, 06 Jun 2019 12:20:11 +0000</pubDate>
+      
+      <guid>http://crystal.uta.edu/~park/notes/13-collaborative-editing/</guid>
+      <description>13 - Collaborative Editing Notable doesn&amp;rsquo;t have collaborative editing built-in, but if you put your data directory in a shared folder, like Dropbox/Google Drive/etc. then multiple people can access it and make edits at the same time.
+Just make sure no 2 people are working on the same note at the same time, or some work might get lost.
+This is by no means a perfect solution though.</description>
+    </item>
+    
+    <item>
+      <title>14 - Version Control</title>
+      <link>http://crystal.uta.edu/~park/notes/14-version-control/</link>
+      <pubDate>Thu, 06 Jun 2019 12:20:11 +0000</pubDate>
+      
+      <guid>http://crystal.uta.edu/~park/notes/14-version-control/</guid>
+      <description>14 - Version Control Notable doesn&amp;rsquo;t have version control built-in, but since the data directory is just a regular directory you could make it a git repository and every once in a while take a snapshot of your notes, or perhaps a small script could make commits automatically for you everytime something changes.
+If there&amp;rsquo;s a big demand for this perhaps support for version controlled notes can be added to Notable itself, let us know if you need this.</description>
+    </item>
+    
+    <item>
+      <title>15 - Encrypted Notes</title>
+      <link>http://crystal.uta.edu/~park/notes/15-encrypted-notes/</link>
+      <pubDate>Thu, 06 Jun 2019 12:20:11 +0000</pubDate>
+      
+      <guid>http://crystal.uta.edu/~park/notes/15-encrypted-notes/</guid>
+      <description>15 - Encrypted Notes Notable doesn&amp;rsquo;t support encrypted notes yet, but if you really need this you could make an encrypted image on your computer and put a data directory in there.
+This way the third-party program will take care of the encryption.
+If there&amp;rsquo;s a big demand for this perhaps support for encrypted notes can be added to Notable itself, let us know if you need this.</description>
+    </item>
+    
+  </channel>
+</rss>

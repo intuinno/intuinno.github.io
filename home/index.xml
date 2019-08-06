@@ -2,58 +2,85 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Homes on Deokgun Park</title>
-    <link>https://intuinno.github.io/home/</link>
+    <link>http://crystal.uta.edu/~park/home/</link>
     <description>Recent content in Homes on Deokgun Park</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 20 Apr 2016 00:00:00 -0500</lastBuildDate>
     
-	<atom:link href="https://intuinno.github.io/home/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://crystal.uta.edu/~park/home/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title></title>
-      <link>https://intuinno.github.io/home/about/</link>
+      <link>http://crystal.uta.edu/~park/home/about/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 -0500</pubDate>
       
-      <guid>https://intuinno.github.io/home/about/</guid>
+      <guid>http://crystal.uta.edu/~park/home/about/</guid>
       <description>Biography Deokgun Park is an assistant professor of Computer Science and Engineering Department at the University of Texas at Arlington. His research interests include open-ended tasks, visual analytics and text mining. He leads the Human Data Interaction Lab, which studies the way humans conduct exploratory data analysis, interactive tools for text mining, and testbed for artificial general intelligence (AGI).</description>
     </item>
     
     <item>
+      <title></title>
+      <link>http://crystal.uta.edu/~park/home/recruit/</link>
+      <pubDate>Sun, 15 Oct 2017 00:00:00 -0500</pubDate>
+      
+      <guid>http://crystal.uta.edu/~park/home/recruit/</guid>
+      <description>I am looking for students interested in artificial general intelligence (AGI) research. Please read the following article before contacting me. </description>
+    </item>
+    
+    <item>
       <title>Publications</title>
-      <link>https://intuinno.github.io/home/publications/</link>
+      <link>http://crystal.uta.edu/~park/home/publications/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 -0500</pubDate>
       
-      <guid>https://intuinno.github.io/home/publications/</guid>
+      <guid>http://crystal.uta.edu/~park/home/publications/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>https://intuinno.github.io/home/conference/</link>
+      <link>http://crystal.uta.edu/~park/home/conference/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 -0500</pubDate>
       
-      <guid>https://intuinno.github.io/home/conference/</guid>
+      <guid>http://crystal.uta.edu/~park/home/conference/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recent &amp; Upcoming Talks</title>
+      <link>http://crystal.uta.edu/~park/home/talks/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0500</pubDate>
+      
+      <guid>http://crystal.uta.edu/~park/home/talks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recent Posts</title>
+      <link>http://crystal.uta.edu/~park/home/posts/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0500</pubDate>
+      
+      <guid>http://crystal.uta.edu/~park/home/posts/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Teaching</title>
-      <link>https://intuinno.github.io/home/teaching/</link>
+      <link>http://crystal.uta.edu/~park/home/teaching/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 -0500</pubDate>
       
-      <guid>https://intuinno.github.io/home/teaching/</guid>
+      <guid>http://crystal.uta.edu/~park/home/teaching/</guid>
       <description>I taught the following courses:
  University of Texas at Arlington  CS4334/5334: Introduction to Data Mining  University of Maryland at College Park  INST462: Introduction to Data Visualization    </description>
     </item>
     
     <item>
       <title>Contact</title>
-      <link>https://intuinno.github.io/home/contact/</link>
+      <link>http://crystal.uta.edu/~park/home/contact/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 -0500</pubDate>
       
-      <guid>https://intuinno.github.io/home/contact/</guid>
+      <guid>http://crystal.uta.edu/~park/home/contact/</guid>
       <description></description>
     </item>
     

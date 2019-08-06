@@ -2,24 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Recent &amp; Upcoming Talks on Deokgun Park</title>
-    <link>https://intuinno.github.io/talk/</link>
+    <link>http://crystal.uta.edu/~park/talk/</link>
     <description>Recent content in Recent &amp; Upcoming Talks on Deokgun Park</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 01 Jan 2017 00:00:00 -0600</lastBuildDate>
     
-	<atom:link href="https://intuinno.github.io/talk/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://crystal.uta.edu/~park/talk/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Example Talk</title>
-      <link>https://intuinno.github.io/talk/example-talk/</link>
+      <title>Visual Analytics for Comment Analysis (in Korean)</title>
+      <link>http://crystal.uta.edu/~park/talk/naver/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 -0600</pubDate>
       
-      <guid>https://intuinno.github.io/talk/example-talk/</guid>
-      <description>Click on the Slides button above to view the built-in slides feature.
- Slides can be added in a few ways:
- Create slides using Academic&amp;rsquo;s Slides feature and link using url_slides parameter in the front matter of the talk file Upload an existing slide deck to static/ and link using url_slides parameter in the front matter of the talk file Embed your slides (e.g. Google Slides) or presentation video on this page using shortcodes.</description>
+      <guid>http://crystal.uta.edu/~park/talk/naver/</guid>
+      <description></description>
     </item>
     
   </channel>

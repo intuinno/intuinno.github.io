@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>student advice on Deokgun Park</title>
+    <link>http://crystal.uta.edu/~park/tags/student-advice/</link>
+    <description>Recent content in student advice on Deokgun Park</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 20 Apr 2016 00:00:00 -0500</lastBuildDate>
+    
+	<atom:link href="http://crystal.uta.edu/~park/tags/student-advice/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>AGI Research in HDILab</title>
+      <link>http://crystal.uta.edu/~park/post/research-in-hdilab/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0500</pubDate>
+      
+      <guid>http://crystal.uta.edu/~park/post/research-in-hdilab/</guid>
+      <description>Hello,
+My name is Deokgun Park and I lead Human Data Interaction Lab (HDILab) in the Computer Science Engineering Department at the University of Texas at Arlington. In this article, I will explain what problems we are solving at HDILab. In Human Data Interaction Lab, we are studying artificial general intelligence (AGI).
+Many students already have an idea about what artificial intelligence (AI) is. But artificial general intelligence or AGI might be a new term.</description>
+    </item>
+    
+  </channel>
+</rss>

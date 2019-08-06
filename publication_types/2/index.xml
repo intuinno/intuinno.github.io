@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>2 on Deokgun Park</title>
-    <link>https://intuinno.github.io/publication_types/2/</link>
+    <link>http://crystal.uta.edu/~park/publication_types/2/</link>
     <description>Recent content in 2 on Deokgun Park</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 26 Sep 2018 21:53:11 -0500</lastBuildDate>
     
-	<atom:link href="https://intuinno.github.io/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://crystal.uta.edu/~park/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Atom: A Grammar for Unit Visualizations</title>
-      <link>https://intuinno.github.io/publication/atom/</link>
+      <link>http://crystal.uta.edu/~park/publication/atom/</link>
       <pubDate>Wed, 26 Sep 2018 21:53:11 -0500</pubDate>
       
-      <guid>https://intuinno.github.io/publication/atom/</guid>
+      <guid>http://crystal.uta.edu/~park/publication/atom/</guid>
       <description>  Sequence of layout operations to generate a unit column chart for survivors of the Titanic by passenger class.   </description>
     </item>
     
     <item>
       <title>ConceptVector: Text Visual Analytics via Interactive Lexicon Building Using Word Embedding</title>
-      <link>https://intuinno.github.io/publication/conceptvector/</link>
+      <link>http://crystal.uta.edu/~park/publication/conceptvector/</link>
       <pubDate>Sun, 28 Jan 2018 22:17:58 -0500</pubDate>
       
-      <guid>https://intuinno.github.io/publication/conceptvector/</guid>
+      <guid>http://crystal.uta.edu/~park/publication/conceptvector/</guid>
       <description>The CommentIQ UI showing toggleable visualizations such as scatterplot, map, and timeline (left) that enable overview and filtering of comments, as well as an adjustable ranking based on various weighted quality criteria (right).ConceptVector supports interactive construction of lexicon-based concepts. Here the user creates a new unipolar concept (1) by adding initial keywords related to tidal flooding (2). The system recommends related words along with their semantic groupings (3), also shown in a scatterplot (4), revealing word- and cluster-level relationships.</description>
     </item>
     

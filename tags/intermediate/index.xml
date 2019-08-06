@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Intermediate on Deokgun Park</title>
+    <link>http://crystal.uta.edu/~park/tags/intermediate/</link>
+    <description>Recent content in Intermediate on Deokgun Park</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 06 Jun 2019 12:20:11 +0000</lastBuildDate>
+    
+	<atom:link href="http://crystal.uta.edu/~park/tags/intermediate/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>08 - Importing</title>
+      <link>http://crystal.uta.edu/~park/notes/08-importing/</link>
+      <pubDate>Thu, 06 Jun 2019 12:20:11 +0000</pubDate>
+      
+      <guid>http://crystal.uta.edu/~park/notes/08-importing/</guid>
+      <description>08 - Importing You can import the following formats via Notable -&amp;gt; Import:
+ Markdown files with extension: md, mkd, mdwn, mdown, markdown, markdn, mdtxt, mdtext or txt. Evernotes&amp;rsquo; exports with extension: enex.  Alternatively you could also just put your Markdown notes into the notes sub-directory into your data directory.
+The more notes you are importing the longer it will take, in some cases the interface may freeze until the operation is completed.</description>
+    </item>
+    
+    <item>
+      <title>09 - Multi-Note Editing</title>
+      <link>http://crystal.uta.edu/~park/notes/09-multi-note-editing/</link>
+      <pubDate>Thu, 06 Jun 2019 12:20:11 +0000</pubDate>
+      
+      <guid>http://crystal.uta.edu/~park/notes/09-multi-note-editing/</guid>
+      <description>09 - Multi-Note Editing Built-in Some multi-note editing features are built-in.
+There are multiple ways to select notes:
+ Click: you can toggle a note&amp;rsquo;s selection just by clicking it in the middlebar with Cmd+Click on macOS, or with Ctrl+Click elsewhere.
+ Shortcuts: some shortcuts are provided under the Edit menu entry for selecting all notes, inverting the selection and unselecting all of them.
+  When 2 or more notes are selected a multi-note editor will be displayed in the mainbar, you&amp;rsquo;ll be asked for confirmation for all changes that will mutate the notes.</description>
+    </item>
+    
+    <item>
+      <title>10 - Linking Attachments, Notes, Tags and Searches</title>
+      <link>http://crystal.uta.edu/~park/notes/10-linking-attachments-notes-tags-and-searches/</link>
+      <pubDate>Thu, 06 Jun 2019 12:20:11 +0000</pubDate>
+      
+      <guid>http://crystal.uta.edu/~park/notes/10-linking-attachments-notes-tags-and-searches/</guid>
+      <description>10 - Linking Attachments, Notes, Tags and Searches Sometimes, like when writing a tutorial for a note-taking app 😉, you may need to link to other notes or embed a few attachments. Notable makes this easy for you.
+These special links can also be right-clicked so that you can perform some actions on them.
+Attachments Attachments can be rendered inline, linked to, and linked to via a button. The @attachment token is used for this.</description>
+    </item>
+    
+    <item>
+      <title>07 - Shortcuts</title>
+      <link>http://crystal.uta.edu/~park/notes/07-shortcuts/</link>
+      <pubDate>Thu, 06 Jun 2019 12:20:10 +0000</pubDate>
+      
+      <guid>http://crystal.uta.edu/~park/notes/07-shortcuts/</guid>
+      <description>07 - Shortcuts The following are macOS shortcuts, if you&amp;rsquo;re using a different OS replace Cmd with Ctrl, or Alt if Ctrl is already used.
+Note  Cmd+N - New. Cmd+Alt+Shift+N - New from Template. Cmd+Shift+N - Duplicate. Cmd+O - Quick open. Cmd+P - Quick open. Cmd+Alt+O - Open in default app. Cmd+Alt+R - Reveal in Finder/Folder. Cmd+E - Toggle editing. Cmd+Shift+E - Toggle editing. Cmd+Shift+T - Toggle tags editing.</description>
+    </item>
+    
+  </channel>
+</rss>

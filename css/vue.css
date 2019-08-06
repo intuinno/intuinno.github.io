@@ -1,0 +1,28 @@
+@import url("https://fonts.googleapis.com/css?family=Roboto+Mono|Source+Sans+Pro:300,400,600");
+
+p {
+    line-height:1.6rem;
+    word-spacing: .05rem;
+    margin: 1.2em 0;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start:0px;
+    margin-inline-end: 0px;
+
+}
+
+body {
+    font-family: 'Source Sans Pro', 'Helvetica Neue', Arial, sans-serif;
+    font-size: 15px;
+    letter-spacing: 0;
+}
+
+figcaption h4 { 
+    font-weight: 200;
+    font-size: 0.8rem;
+}
+
+figcaption.numbered:before {
+    font-weight: 700;
+    font-size: 0.8rem;
+}
