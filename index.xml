@@ -10,6 +10,232 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Advice for the graduate school</title>
+      <link>http://crystal.uta.edu/~park/post/graduate-school/</link>
+      <pubDate>Tue, 06 Aug 2019 00:00:00 -0500</pubDate>
+      
+      <guid>http://crystal.uta.edu/~park/post/graduate-school/</guid>
+      <description>
+
+&lt;p&gt;Recently, I got an email from a smart undergraduate student who was interested in research. I think his situation might be a common case so here I added my reply in the hope that this can be helpful to other students. Below is the modified email message.&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;I have been talking with few graduate recruiters and found out that graduate schools don’t offer scholarship unless I am doing PhD or thesis (which I had no idea what that meant). All I wanted to do was to get a masters degree to gain enough knowledge on AI and deep learning and work for companies like DeepMind or Neuralink to bring AGI and ASI to real life. And now I am overwhelmed and lost with what I’m supposed to do. My options are to loan my way through graduate school (but I can’t do that since I am already on a huge debt for my undergraduate school), or get a PhD (this will take me forever and I will never be able to pay my loans back with the stipend), or find a job (until I am able to pay by loans and fund my graduate school but I really want to be on AI). I recently figured out that my major (computer engineering) wasn’t right for me. I decided to switch to computer science but I needed to take more classes so I am switching to software engineering to graduate on time with right the classes.  My mind’s all over the place and I have no idea where to seek help from.  I’m only halfway through the book even though I love it. I have been dying to learn Reinforcement Learning but I haven’t got time even to start searching about the resources.&lt;/p&gt;
+
+&lt;p&gt;Thank you so much, Dr. Park! I hope you have a wonderful rest of the day.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Below you can find my advice. TLDR, it is okay to get a job if you are on a debt. If you think you are interested in the research, try to study on your own for a year or two. If you are still interested, you can consider a PhD.&lt;/p&gt;
+
+&lt;h3 id=&#34;my-answer-to-the-student&#34;&gt;My answer to the student&lt;/h3&gt;
+
+&lt;p&gt;Hi, Tomas (Name changed for privacy)&lt;/p&gt;
+
+&lt;p&gt;I understand your position.&lt;/p&gt;
+
+&lt;p&gt;Below is my advice.  The choice is yours. There is no right or wrong choice. The choice is based on who you are and in return shapes who you will be.&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;to loan my way through graduate school (but I can’t do that since I am already on a huge debt for my undergraduate school),&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;The graduate school here must be master’s degree, right. I don’t recommend it, either. You cannot get enough knowledge on AI topic and you don’t have enough time to create a knowledge that will make you attractable hire for companies like Deep Mind.&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;or get a PhD (this will take me forever and I will never be able to pay my loans back with the stipend),&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;It does not take you forever. It is actually somewhat short to do what I describe above. It will pay you back reasonably well if you are successful. But the decision cannot be made solely on financial reward because this financial reward is probabilistic. Better motivation would be the pursuit of knowledge or curiosity. And the reward is auxiliary. For example, you usually do not pursue professional baseball career because most of baseball related careers are not well-paid. Only winner takes it all.(I hope the chance is higher in the CS.) But many still pursue it because they enjoy baseball anyway.&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;or find a job (until I am able to pay by loans and fund my graduate school but I really want to be on AI).&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;This is an actually good option. Get a job. Get decent salary and pay your loans.
+The trick is that you can study AI on your own with online learning education resource nowadays. This can be sometimes better than what the Master’s degree can offer.
+When you study enough and you have a non-trivial question, it will be a good time to pursue PhD. Of course, consult with professors about your question.&lt;/p&gt;
+
+&lt;p&gt;Attending academic conference is a good investment.
+Studying alone is actually harder than you might think. You will be busy for the job (actually everyone is busy, right? Even my 9th grade daughter is busy because she has to watch three hours of youtube videos in addition to all the school work and violin and archery practice) and you may find the AI study is not so fun. The good news is that if you don’t like it, you don’t have to do it. It means that you are probably not good fit for the PhD. Don’t worry. You have a job already and you can focus on the software engineering career which can be also very rewarding. According to my opinion, I think about 5% of the people with good school grades are actually good fit for the PhD. The main reason is that we get good grades by learning what others have found. But PhD is about finding new knowledge which is very different from learning what others have found.&lt;/p&gt;
+
+&lt;p&gt;As a summary, I think you have a potential. If you really want to study AI and deep learning now, you can get a PhD now. If you are not sure, it is okay to get a SWE job. If you find that you keep studying on AI and DL for one or two years on your own, you might consider getting a PhD.&lt;/p&gt;
+
+&lt;p&gt;Regards&lt;/p&gt;
+
+&lt;p&gt;Deokgun&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>How to use your advisor</title>
+      <link>http://crystal.uta.edu/~park/post/how-to-use-your-advisor/</link>
+      <pubDate>Tue, 06 Aug 2019 00:00:00 -0500</pubDate>
+      
+      <guid>http://crystal.uta.edu/~park/post/how-to-use-your-advisor/</guid>
+      <description>
+
+&lt;p&gt;Recently, I got an email from a student from HDILab.  I think his situation might be a common case so here I added my reply in the hope that this can be helpful to other students. Below is the modified email message from the student.&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Hello Dr.Park,&lt;/p&gt;
+
+&lt;p&gt;I am trying to implement carracing. I am using a virtualenv python3.5.4. I am trying to run extract.bash using $sudo bash extract.bash. However, it returns&lt;/p&gt;
+
+&lt;p&gt;” File “extract.py”, line 8, in &lt;module&gt;
+   import gym
+ImportError: No module named gym” when extract.bash is trying to run extract.py.&lt;/p&gt;
+
+&lt;p&gt;The problem is I installed gym and box2d-py too, and yet it shows the import error.&lt;/p&gt;
+
+&lt;p&gt;$ which pip
+/home/aishwarya/WorldModelsExperiments/carracing/venv/bin/pip&lt;/p&gt;
+
+&lt;p&gt;$ which python&lt;br /&gt;
+/home/aishwarya/WorldModelsExperiments/carracing/venv/bin/python&lt;/p&gt;
+
+&lt;p&gt;I’ve also tried the solutions given in here and in here&lt;/p&gt;
+
+&lt;p&gt;Can you please help me out with this issue.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Below you can find my advice. TLDR, if you have a technical problem. Solve it on your own while producing shareable outcome. If you have a research idea, your advisor can help you evaluate whether it is intractable, already done, or trivial.&lt;/p&gt;
+
+&lt;h3 id=&#34;my-answer-to-the-student&#34;&gt;My answer to the student&lt;/h3&gt;
+
+&lt;p&gt;Hi, Tomas (Name changed for privacy)&lt;/p&gt;
+
+&lt;p&gt;I don&amp;rsquo;t know about this. You should check Google or ask other person&amp;rsquo;s in the lab. I think Jane and John might know.&lt;/p&gt;
+
+&lt;p&gt;Don&amp;rsquo;t worry. Debugging this kind issue is common. I myself always deal with this issue. One of the reason, I cannot help is that the reason can be diverse. It is case by case. Therefore it is more important important to know how to deal with these kind of issues than the actual specific solution.  There will be hardly anyone who can solve your technical problem with a clear answer. If you have one you are lucky. But still if you ask to much questions to him, you are actually costing a precious resource to the group which is a bad news for you.  Below are some general advices.&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;Use slack general channel. If you send email to one person, the chance is low that  your busy and ignorant professor can help you. If you use slack to post your issue to the entire group, some competent students might help you.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Make environment simple.
+90 Percent of these issues are package version collision.  Virtual env helps but not perfect. In old days I used to format frequently. That&amp;rsquo;s why I use one disk for system and one disk for home directory. Nowadays learning how to use docker will pay you back well in the long run.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Try to learn generalizable lesson and share it. Most of time, you just fix and forget. You might try stack overflow or Google solution until you fix it. The problem with this approach is that the time you spent on solving this issue does not produce any credit for your work.  While I also sometimes do that, the correct way to handle an issue is that &lt;strong&gt;&lt;em&gt;first understand the reason of the issue&lt;/em&gt;&lt;/strong&gt; and &lt;strong&gt;&lt;em&gt;create a technical note or blogs&lt;/em&gt;&lt;/strong&gt; that explains the issue and the solution.  Many people in the lab can benefit your contribution and your technical blog will help building your professional reputation. You need to be accustomed to solve these kinds of issues. It is like growing your muscles.&lt;/p&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3 id=&#34;how-to-use-your-advisor&#34;&gt;How to use your advisor&lt;/h3&gt;
+
+&lt;p&gt;If your advisor cannot help you solve your technical issues, where can I use him? One area is when you have a research question. As a graduate student, you will always think the research question or the topic for the next paper. There can be two major pitfalls for setting the research topic.  An academic work is about finding a knowledge that none has found before. There can be two reasons why nobody has done it before.&lt;/p&gt;
+
+&lt;p&gt;First, it can be too difficult to do or trivial but not meaningful.  When we think a new idea, I can bet there will be more than 10 people who have thought the same thing. Still the finding the solution might be too difficult.
+Time machine, teleportation, or thinking machines are those areas. Those are technologies that people wish but it is very hard to make a progress in those area.  Or more commonly, your topic is slightly general and there can be many approaches to it. However, the topic might be well-known in the community and almost all low hanging fruits are taken already and what remains might be too challenging.&lt;/p&gt;
+
+&lt;p&gt;Second, your problem might be too narrow or trivial or already solved before.
+Your advisor is like a guide to the Mt. Everest or a chaperone to the party. He has an experience and background knowledge about the research community.&lt;br /&gt;
+Therefore getting a cross check of your idea can be a good use of your advisor.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The HDILab culture</title>
+      <link>http://crystal.uta.edu/~park/post/hdilab-culture/</link>
+      <pubDate>Tue, 06 Aug 2019 00:00:00 -0500</pubDate>
+      
+      <guid>http://crystal.uta.edu/~park/post/hdilab-culture/</guid>
+      <description>
+
+&lt;p&gt;Below is HDILab culture. A culture is a principle about how we do everyday things. I hope that our culture shape our group in a productive way.&lt;/p&gt;
+
+&lt;h3 id=&#34;we-learn-by-teaching&#34;&gt;We learn by teaching.&lt;/h3&gt;
+
+&lt;p&gt;Every week we will have a paper reading seminar where one student will teach a paper to other lab members. A pizza and a diet coke will be provided. You will have a chance to announce what you are working on nowadays in a friendly environment 30 minutes before the seminar. Currently the seminar starts on Wednesday 12:30pm.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;After you have done lab seminar, add the slides and all materials into the Google drive here. The goal here is to make it easier for a new lab member to follow what we have done so far.&lt;/li&gt;
+&lt;li&gt;Also write one paragraph abstract for the seminar to summarize what you teach.&lt;/li&gt;
+&lt;li&gt;Add your call sign so that we can know who did the seminar.  Students should answer the questions from colleagues.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;team-play&#34;&gt;Team play&lt;/h3&gt;
+
+&lt;p&gt;There are focused hours in the lab where students are supposed to be at the same space and time. The main idea is to have an informal chat, update, questions and answers. The focused hours are currently held Mon, Tue, Wed 10am-2pm at ERB 205.
+Don’t be late.
+If you think you will be late, report it to the slack.&lt;/p&gt;
+
+&lt;h3 id=&#34;sharable-output&#34;&gt;Sharable output&lt;/h3&gt;
+
+&lt;p&gt;Students are required to maintain a lab journal and project journal
+Lab journal is for the general purpose work and project journal is for the project related progress. For example,&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;I set up the new server or hardware for the-&amp;gt; hdilab journal&lt;/li&gt;
+&lt;li&gt;I organized the inventory -&amp;gt; hdilab journal&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;I replicated the world model -&amp;gt; daivid journal&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Every work should be recorded and reproducible.
+Basically journal is for yourself. But write it well when others have to find something you did. When you accumulate enough work and progress, make them shareable and transferable chunk into three places:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;journal how-to technical note
+When you create a new technical note leave a author call sign such as #deokgun so that I can find who wrote what.
+If you need to update it, add a call sign and date after the original author.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;pre&gt;&lt;code&gt;Example 
+Created: #deokgun 01/08/2019
+Updated: #sanjay 01/09/2019 
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Personal homepage blog article&lt;/li&gt;
+&lt;li&gt;Github readme.md&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;We share the open source code and how-to manual as a final output.
+We use GitHub as the main archive
+As a rule of thumb, I expect 50% of everyone’s time will be spent writing what you have done.&lt;/p&gt;
+
+&lt;h4 id=&#34;how-to-write-a-journal&#34;&gt;How to write a journal&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Make the outline neat&lt;/li&gt;
+&lt;li&gt;If you click the View-&amp;gt; Show Document Outline button, it will show you the document outline. Make sure your writing follows the header rule.
+There is a shortcut key for selecting the paragraph level.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;pre&gt;&lt;code&gt;cmd + alt + 1 makes the top level heading
+cmd + alt + 2 makes the second level heading
+cmd + alt + 0 makes the content paragraph, which is not shown in outline. 
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;ul&gt;
+&lt;li&gt;The &lt;strong&gt;Things to do next part&lt;/strong&gt; is important. Your professor reads it often.  Keep it tidy. When something is done, remove. &lt;strong&gt;Update it everyday&lt;/strong&gt;. When you are given new goal, write it there.  Make the thing you are working on now, the first item. Order them in the priority.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;communication-is-half-of-your-job&#34;&gt;Communication is half of your job.&lt;/h3&gt;
+
+&lt;p&gt;Your impact will be the multiplication of research and communication of the result.
+Try to report the progress whenever there is a progress
+Don&amp;rsquo;t wait until your boss ask your progress. Tell him what you are working on now.
+ If you meet a barrier or decide to change direction, report it.
+When I ask you to do something, I usually expect to hear the progress report in a one or two days.&lt;/p&gt;
+
+&lt;h3 id=&#34;being-true-to-ourselves&#34;&gt;Being true to ourselves&lt;/h3&gt;
+
+&lt;p&gt;You cannot deceive yourself. Being true to yourself is, in my opinion, a very good long-term strategy. For example, if you don’t know during the seminar, acknowledge that you don’t know and ask questions until you understand. Don’t be embarrassed or give up by social pressure. Academy is a few places where being true to yourself is tolerated.&lt;/p&gt;
+
+&lt;p&gt;Other good question to ask yourself is whether you are enjoying the research. Actually according to my experience, research is not for everyone. Probably about 5 persons out of 100 suit the academic life. Because of this, it is perfectly okay if you feel that the graduate study is not what you want to do. I recommend to get a SW engineering job in that case, which actually pays you better and provides better work-life balance. You might feel like a failure to quit the research at first, but if you are true to yourself, you may find it as one of the best decisions of your life later.&lt;/p&gt;
+
+&lt;p&gt;Similarly I will release you out of the lab if I think that you are not a good fit for the lab as early as possible. How I make that decision? First, I have to acknowledge that it is very difficult decision for me, too. It is not only emotionally difficult but intellectually difficult. Because nobody knows the future, one day the student I fired may get a Nobel prize.&lt;/p&gt;
+
+&lt;p&gt;I have to follow the lab culture which is my principle. For me, there are three characteristics for the academic career.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;First is &lt;strong&gt;curiosity&lt;/strong&gt;. The desire to know or find the truth is our strongest motivation and rewards.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Second is the &lt;strong&gt;self-starting&lt;/strong&gt;. This one is related to curiosity. Because you want to know something, you start researching about it. This is usually observed when the student comes to me and ask an advice for something. It is the opposite of waiting for the order from me.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Third is the persistence. The journey is long and the rewards are sparse. If you are not persistent, chances are you give up. &lt;strong&gt;Persistence is measured by the shareable output.&lt;/strong&gt; According to my experience, quantity is more important than the quality for measuring persistence. It means if you are producing lots of so-so blog article or technical note and low quality draft of academic papers, you have the persistence. Think about growing academic muscle by writing everyday.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Soft Evolution</title>
       <link>http://crystal.uta.edu/~park/post/soft-evolution/</link>
       <pubDate>Mon, 05 Aug 2019 00:00:00 -0500</pubDate>
@@ -415,165 +641,6 @@
 &lt;/ul&gt;
 
 &lt;p&gt;You can create sub-categories in the following sections: Notebooks, Tags and Templates by using nested tags.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>03 - The Middlebar</title>
-      <link>http://crystal.uta.edu/~park/notes/03-the-middlebar/</link>
-      <pubDate>Thu, 06 Jun 2019 12:20:10 +0000</pubDate>
-      
-      <guid>http://crystal.uta.edu/~park/notes/03-the-middlebar/</guid>
-      <description>
-
-&lt;h1 id=&#34;03-the-middlebar&#34;&gt;03 - The Middlebar&lt;/h1&gt;
-
-&lt;p&gt;The middlebar shows you all notes contained in the currently active category, properly ordered and filtered by the search query.&lt;/p&gt;
-
-&lt;h2 id=&#34;search&#34;&gt;Search&lt;/h2&gt;
-
-&lt;p&gt;To search just type something in the search bar.&lt;/p&gt;
-
-&lt;p&gt;The title of notes is searched in &lt;em&gt;fuzzily&lt;/em&gt;, which basically means that you can omit some characters from the query: if for instance there&amp;rsquo;s a note titled &amp;ldquo;Notable&amp;rdquo; you can also find it by typing &amp;ldquo;Noab&amp;rdquo; or &amp;ldquo;Notae&amp;rdquo;, as long as the characters are in the right order the note will be found.&lt;/p&gt;
-
-&lt;p&gt;The content of notes is searched in too, but not fuzzily, a full-match is required in this case.&lt;/p&gt;
-
-&lt;h2 id=&#34;new-note-button&#34;&gt;New Note Button&lt;/h2&gt;
-
-&lt;p&gt;Next to the search bar there&amp;rsquo;s also a button for creating a new note.&lt;/p&gt;
-
-&lt;h2 id=&#34;sorting-order&#34;&gt;Sorting Order&lt;/h2&gt;
-
-&lt;p&gt;Right below the search bar you can change the order in which notes are being displayed.&lt;/p&gt;
-
-&lt;p&gt;By default this is by &lt;code&gt;Title - Ascending&lt;/code&gt;, so that the tutorial notes get displayed in order, but you might want to change this later to &lt;code&gt;Date Modified - Descending&lt;/code&gt;, so that the most recently edited notes are at the top.&lt;/p&gt;
-
-&lt;h2 id=&#34;notes&#34;&gt;Notes&lt;/h2&gt;
-
-&lt;p&gt;Lastly there&amp;rsquo;s the notes list.&lt;/p&gt;
-
-&lt;p&gt;Notes will have some badges if they are pinned, favorited or have attachments.&lt;/p&gt;
-
-&lt;p&gt;Pinned notes are displayed before the others.&lt;/p&gt;
-
-&lt;p&gt;If you right-click them you can access some commands, all of them are also available from the app menu, most of them are also available from the mainbar&amp;rsquo;s toolbar.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>04 - The Mainbar</title>
-      <link>http://crystal.uta.edu/~park/notes/04-the-mainbar/</link>
-      <pubDate>Thu, 06 Jun 2019 12:20:10 +0000</pubDate>
-      
-      <guid>http://crystal.uta.edu/~park/notes/04-the-mainbar/</guid>
-      <description>
-
-&lt;h1 id=&#34;04-the-mainbar&#34;&gt;04 - The Mainbar&lt;/h1&gt;
-
-&lt;p&gt;The mainbar is where you can preview and edit the currently active note.&lt;/p&gt;
-
-&lt;h2 id=&#34;toolbar&#34;&gt;Toolbar&lt;/h2&gt;
-
-&lt;p&gt;The toolbar contains buttons for triggering actions to the current note, all of them are also accessible via shortcuts.&lt;/p&gt;
-
-&lt;h2 id=&#34;preview-editor-multi-editor&#34;&gt;Preview/Editor/Multi-Editor&lt;/h2&gt;
-
-&lt;p&gt;Right below the toolbar there&amp;rsquo;s the preview/editor/multi-editor area.&lt;/p&gt;
-
-&lt;h4 id=&#34;preview&#34;&gt;Preview&lt;/h4&gt;
-
-&lt;p&gt;Rendered notes are displayed here.&lt;/p&gt;
-
-&lt;h4 id=&#34;editor&#34;&gt;Editor&lt;/h4&gt;
-
-&lt;p&gt;When editing you&amp;rsquo;ll use &lt;a href=&#34;https://github.com/Microsoft/monaco-editor&#34; target=&#34;_blank&#34;&gt;Monaco Editor&lt;/a&gt;, the same editor VS Code uses, which comes with features like multi-cursor built-in. Read about the shortcuts this editor supports in the &lt;a href=&#34;@note/07 - Shortcuts.md&#34; target=&#34;_blank&#34;&gt;Shortcuts&lt;/a&gt; tutorial note.&lt;/p&gt;
-
-&lt;p&gt;In case the built-in editor doesn&amp;rsquo;t cut it  there&amp;rsquo;s also a button in the toolbar for opening the current note in the default Markdown editor. We just can&amp;rsquo;t include into Notable all features and nice plugins you might have in your default editor.&lt;/p&gt;
-
-&lt;h4 id=&#34;multi-editor&#34;&gt;Multi-Editor&lt;/h4&gt;
-
-&lt;p&gt;When 2 or more notes are selected a multi-note editor will be displayed in the mainbar, read more about this &lt;a href=&#34;@note/09 - Multi-Note Editing.md&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>05 - Notes</title>
-      <link>http://crystal.uta.edu/~park/notes/05-notes/</link>
-      <pubDate>Thu, 06 Jun 2019 12:20:10 +0000</pubDate>
-      
-      <guid>http://crystal.uta.edu/~park/notes/05-notes/</guid>
-      <description>
-
-&lt;h1 id=&#34;05-notes&#34;&gt;05 - Notes&lt;/h1&gt;
-
-&lt;h2 id=&#34;syntax&#34;&gt;Syntax&lt;/h2&gt;
-
-&lt;p&gt;Notes are written in &lt;a href=&#34;https://guides.github.com/features/mastering-markdown&#34; target=&#34;_blank&#34;&gt;GitHub-flavored Markdown&lt;/a&gt;, so you can write emojis (&lt;code&gt;😂&lt;/code&gt; -&amp;gt; 😂), &lt;del&gt;strikethrough&lt;/del&gt; text etc. in a familiar fashion.&lt;/p&gt;
-
-&lt;p&gt;This also means that your notes aren&amp;rsquo;t locked into any proprietary format.&lt;/p&gt;
-
-&lt;p&gt;Notes can have some metadata: if they are favorited or not, which tags they have, which attachments they have, etc. These metadata are written as Markdown front matter. This is taken care of for you.&lt;/p&gt;
-
-&lt;h2 id=&#34;syntax-plugins&#34;&gt;Syntax Plugins&lt;/h2&gt;
-
-&lt;p&gt;Some syntax plugins for providing you &lt;a href=&#34;https://katex.org&#34; target=&#34;_blank&#34;&gt;KaTeX&lt;/a&gt;, &lt;a href=&#34;http://asciimath.org&#34; target=&#34;_blank&#34;&gt;AsciiMath&lt;/a&gt; and &lt;a href=&#34;https://github.com/knsv/mermaid&#34; target=&#34;_blank&#34;&gt;mermaid&lt;/a&gt; support are built-in, check out this note&amp;rsquo;s source.&lt;/p&gt;
-
-&lt;h4 id=&#34;katex&#34;&gt;KaTeX&lt;/h4&gt;
-
-&lt;p&gt;Wrap a formula in &lt;code&gt;$$&lt;/code&gt; to display it as a block:&lt;/p&gt;
-
-&lt;p&gt;$$f{x} = \int_{-\infty}^\infty \hat f\xi\,e^{2 \pi i \xi x} \,d\xi$$&lt;/p&gt;
-
-&lt;p&gt;Multi-line block formulas are supported too:&lt;/p&gt;
-
-&lt;p&gt;$$
-\begin{pmatrix}
-   f(\alpha) &amp;amp; b        &amp;amp; c         &lt;br /&gt;
-   e         &amp;amp; f(\beta) &amp;amp; g         &lt;br /&gt;
-   i         &amp;amp; j        &amp;amp; f(\gamma)
-\end{pmatrix}
-$$&lt;/p&gt;
-
-&lt;p&gt;Wrap it in &lt;code&gt;$&lt;/code&gt; to display it inline: $e^{iπ} + 1 = 0$.&lt;/p&gt;
-
-&lt;p&gt;The &lt;a href=&#34;https://mhchem.github.io/MathJax-mhchem&#34; target=&#34;_blank&#34;&gt;mhchem&lt;/a&gt; syntax for writing chemical expressions is supported too:&lt;/p&gt;
-
-&lt;p&gt;$$\ce{ SO4^2- + Ba^2+ -&amp;gt; BaSO4 v }$$&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;&lt;strong&gt;Note&lt;/strong&gt;: In order to minimize conflicts there mustn&amp;rsquo;t be spaces at the beginning and end of a single-line formula, and the ending &lt;code&gt;$&lt;/code&gt; character musn&amp;rsquo;t be followed by a digit. If you need to you can escape the &lt;code&gt;$&lt;/code&gt; character with a backslash.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Note&lt;/strong&gt;: If your formula contains a &lt;code&gt;$&lt;/code&gt;, you will have to wrap it in either double &lt;code&gt;$$&lt;/code&gt; or a code block in order to avoid clonflicts.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h4 id=&#34;asciimath&#34;&gt;AsciiMath&lt;/h4&gt;
-
-&lt;p&gt;Wrap a formula in &lt;code&gt;&amp;amp;&amp;amp;&lt;/code&gt; to display it as a block:&lt;/p&gt;
-
-&lt;p&gt;&amp;amp;&amp;amp;sum_(i=1)^n i^3=((n(n+1))/2)^2&amp;amp;&amp;amp;&lt;/p&gt;
-
-&lt;p&gt;Wrap it in &lt;code&gt;&amp;amp;&lt;/code&gt; to display it inline: &amp;amp;e = mc^2&amp;amp;.&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;&lt;strong&gt;Note&lt;/strong&gt;: In order to minimize conflicts there mustn&amp;rsquo;t be spaces at the beginning and end of a formula, and the ending &lt;code&gt;&amp;amp;&lt;/code&gt; character musn&amp;rsquo;t be followed by a digit. If you need to you can escape the &lt;code&gt;&amp;amp;&lt;/code&gt; character with a backslash.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h4 id=&#34;mermaid&#34;&gt;mermaid&lt;/h4&gt;
-
-&lt;pre&gt;&lt;code class=&#34;language-mermaid&#34;&gt;graph LR
-  Install --&amp;gt; Tutorial[Read the tutorial]
-  Tutorial --&amp;gt; Star
-  Tutorial --&amp;gt; Share
-  Tutorial -.-&amp;gt; mermaid[Realize how cool mermaid is]
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;h2 id=&#34;attachments&#34;&gt;Attachments&lt;/h2&gt;
-
-&lt;p&gt;Notes can have attachments, because sooner or later you&amp;rsquo;ll want to save a file in a note, be it a boarding pass for your next trip or something else.&lt;/p&gt;
-
-&lt;p&gt;Attachments can be added by clicking the attachment icon in the mainbar&amp;rsquo;s toolbar. Attachments are simply copied into your data directory, under the &lt;code&gt;attachments&lt;/code&gt; sub-directory.&lt;/p&gt;
-
-&lt;p&gt;You can open/remove them at any time.&lt;/p&gt;
 </description>
     </item>
     
