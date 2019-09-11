@@ -54,6 +54,16 @@ We learn by teaching. Every week we will have a paper reading seminar where one 
     </item>
     
     <item>
+      <title>Rewards for AGI</title>
+      <link>http://crystal.uta.edu/~park/post/rewards/</link>
+      <pubDate>Mon, 05 Aug 2019 00:00:00 -0500</pubDate>
+      
+      <guid>http://crystal.uta.edu/~park/post/rewards/</guid>
+      <description>Contents  Introduce the role of the rewards in reinforcement learning  Use the example of dog training Explain the dopamine Explain the  Introduce an extrinsic rewards  Classic rewards Used in reinforcement learning examples  Atari Alpha Go World model paper   Introduce an intrinsic rewards
+ Explain the limitation of the extrinsic rewards  Montezuma&amp;rsquo;s revenge  Explain the mechanism of the intrinsic rewards  How the curious or explorative behavior relates to the intrinsic rewards How to formulate the intrinsic rewards mathematically?</description>
+    </item>
+    
+    <item>
       <title>Soft Evolution</title>
       <link>http://crystal.uta.edu/~park/post/soft-evolution/</link>
       <pubDate>Mon, 05 Aug 2019 00:00:00 -0500</pubDate>
