@@ -4,6 +4,22 @@
     
     <url>
     
+      <loc>http://crystal.uta.edu/~park/post/a-scholar/</loc>
+      <lastmod>2019-09-12T00:00:00-05:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>http://crystal.uta.edu/~park/post/society-of-mind/</loc>
+      <lastmod>2019-09-12T00:00:00-05:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>http://crystal.uta.edu/~park/post/master-research/</loc>
       <lastmod>2019-08-06T10:38:56-05:00</lastmod>
     </url>
@@ -291,6 +307,15 @@
     
       <loc>http://crystal.uta.edu/~park/tags/agi/</loc>
       <lastmod>2019-09-11T10:50:54-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>http://crystal.uta.edu/~park/tags/poem/</loc>
+      <lastmod>2019-09-12T00:00:00-05:00</lastmod>
       <priority>0</priority>
     </url>
     

@@ -10,6 +10,58 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>A scholar</title>
+      <link>http://crystal.uta.edu/~park/post/a-scholar/</link>
+      <pubDate>Thu, 12 Sep 2019 00:00:00 -0500</pubDate>
+      
+      <guid>http://crystal.uta.edu/~park/post/a-scholar/</guid>
+      <description>
+
+&lt;h2 id=&#34;a-scholar&#34;&gt;A Scholar&lt;/h2&gt;
+
+&lt;p&gt;My job is thinking and talking.&lt;/p&gt;
+
+&lt;p&gt;I do reading and writting.&lt;/p&gt;
+
+&lt;p&gt;I like learning and teaching.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>A scholar</title>
+      <link>http://crystal.uta.edu/~park/post/society-of-mind/</link>
+      <pubDate>Thu, 12 Sep 2019 00:00:00 -0500</pubDate>
+      
+      <guid>http://crystal.uta.edu/~park/post/society-of-mind/</guid>
+      <description>
+
+&lt;h2 id=&#34;the-society-of-mind&#34;&gt;The society of Mind&lt;/h2&gt;
+
+&lt;p&gt;Listening to an old professor&lt;/p&gt;
+
+&lt;p&gt;who devoted his whole life&lt;/p&gt;
+
+&lt;p&gt;looking for the holy grail&lt;/p&gt;
+
+&lt;p&gt;couldn&amp;rsquo;t find it&lt;/p&gt;
+
+&lt;p&gt;handing over scattered clues&lt;/p&gt;
+
+&lt;p&gt;to young, ignorant yet ambitious students&lt;/p&gt;
+
+&lt;p&gt;like once he was&lt;/p&gt;
+
+&lt;p&gt;in the hope that allowed more time&lt;/p&gt;
+
+&lt;p&gt;he could see how minds work&lt;/p&gt;
+
+&lt;p&gt;knowing that his time is over.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://images-na.ssl-images-amazon.com/images/I/51N77XFh-wL._SX376_BO1,204,203,200_.jpg&#34; alt=&#34;The society of mind by Marvin Minksy&#34; /&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Advice for the master students who want to do reserach in my lab</title>
       <link>http://crystal.uta.edu/~park/post/master-research/</link>
       <pubDate>Tue, 06 Aug 2019 00:00:00 -0500</pubDate>
@@ -602,250 +654,6 @@ others conveys significant information. Two experiments were carried out to demo
       
       <guid>http://crystal.uta.edu/~park/project/example-external-project/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>AGI Research in HDILab</title>
-      <link>http://crystal.uta.edu/~park/post/research-in-hdilab/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 -0500</pubDate>
-      
-      <guid>http://crystal.uta.edu/~park/post/research-in-hdilab/</guid>
-      <description>
-
-&lt;p&gt;Hello,&lt;/p&gt;
-
-&lt;p&gt;My name is Deokgun Park and I lead Human Data Interaction Lab (HDILab) in the &lt;a href=&#34;https://cse.uta.edu/&#34; target=&#34;_blank&#34;&gt;Department of Computer Science &amp;amp; Engineering at the University of Texas at Arlington&lt;/a&gt;.
-In this article, I will explain the problems we are solving at HDILab. In Human Data Interaction Lab, we are studying &lt;strong&gt;artificial general intelligence (AGI)&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;p&gt;Many students already have an idea about artificial intelligence (AI). But artificial general intelligence or AGI might be a new term. So let&amp;rsquo;s start with what AGI is.&lt;/p&gt;
-
-&lt;h3 id=&#34;clarifying-ai-and-agi&#34;&gt;Clarifying AI and AGI&lt;/h3&gt;
-
-&lt;p&gt;Since Marvin Minsky and other researchers gathered at &lt;a href=&#34;https://en.wikipedia.org/wiki/Dartmouth_workshop&#34; target=&#34;_blank&#34;&gt;Dartmouth College in Hanover in 1956&lt;/a&gt;, the goal of AI was to build a machine that can do many tasks like humans. But after experiencing a few AI winters, the academic focus shifted to building models to perform a single application because it was more tractable. This approach has been frequently called machine learning (ML). It is said that one of the reason ML has been coined was to &lt;a href=&#34;https://en.wikipedia.org/wiki/AI_winter&#34; target=&#34;_blank&#34;&gt;avoid mentioning AI in the proposal during the AI winters&lt;/a&gt;. It was successful, and we achieved many advances in specific applications such as image classification, machine translation, self-driving car, or playing Go game. And the term AI became hot again.&lt;/p&gt;
-
-&lt;p&gt;But we still lack an idea about how we can build a general-purpose AI which appears in Hollywood movies or general public associates with. Because most of the current AI research is application-specific, we need another term for the original general purpose agent. It has been rephrased many times, including&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;strong AI&lt;/li&gt;
-&lt;li&gt;true AI&lt;/li&gt;
-&lt;li&gt;human-like AI&lt;/li&gt;
-&lt;li&gt;movie-like AI&lt;/li&gt;
-&lt;li&gt;lifelong learning&lt;/li&gt;
-&lt;li&gt;continual learning&lt;/li&gt;
-&lt;li&gt;meta learning or learning to learn&lt;/li&gt;
-&lt;li&gt;artificial general intelligence (AGI)&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;We will use AGI to refer this original AI because it tells the fundamental difference between the current mainstream AI research, which is application-specific.&lt;/p&gt;
-
-
-
-
-&lt;figure&gt;
-
-&lt;img src=&#34;./img/AI-vs-AGI.svg&#34; /&gt;
-
-
-
-&lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; class=&#34;numbered&#34;&gt;
-  &lt;h4&gt;AI vs AGI. AI started as a general purpose model, but later changed its meaning to mostly application specific models. We will use artificial general intelligence (AGI) to mean the original general purpose model.&lt;/h4&gt;
-  
-&lt;/figcaption&gt;
-
-&lt;/figure&gt;
-
-&lt;h3 id=&#34;how-to-test-agi&#34;&gt;How to test AGI&lt;/h3&gt;
-
-&lt;p&gt;Before we discuss how we can build AGI, let&amp;rsquo;s start with how we can test if we built AGI.  Because according to Peter Drucker or Lord Kelvin,&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;If you can&amp;rsquo;t measure it, you can&amp;rsquo;t improve it.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Alan Turing suggested &lt;a href=&#34;https://en.wikipedia.org/wiki/Computing_Machinery_and_Intelligence&#34; target=&#34;_blank&#34;&gt;a test to verify AGI&lt;/a&gt;. According to the &lt;strong&gt;Turing test&lt;/strong&gt;, also known as &lt;strong&gt;Imitation Game&lt;/strong&gt;, a human participant asks an agent hidden behind the wall to perform many tasks. If the human cannot discern whether the agent is truly a human or an artificial agent, then the artificial agent is assumed to achieve a human-level intelligence.&lt;/p&gt;
-
-
-
-
-&lt;figure&gt;
-
-&lt;img src=&#34;./img/exmachina.jpg&#34; width=&#34;30%&#34; /&gt;
-
-
-
-&lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; class=&#34;numbered&#34;&gt;
-  &lt;h4&gt;In the movie Ex Machina, you can see how Turing test is conducted.&lt;/h4&gt;
-  
-&lt;/figcaption&gt;
-
-&lt;/figure&gt;
-
-&lt;p&gt;While theoretically valid, it poses several problems in its practical application. First, it is too difficult for the current status of research. The human tester can use all the knowledge about the world to test the agent, yet it would be very costly and impossible to teach all the knowledge about the world to the artificial agent, while researchers struggle to discover how we can mimic human-like learning.  It is like asking a 1st grader to take SAT test.&lt;/p&gt;
-
-&lt;p&gt;Second, the test does not provide any idea about where the model can learn those knowledges required to take test. It is like testing students without giving them any textbooks or lectures.&lt;/p&gt;
-
-&lt;p&gt;Third, even for the same model and the same evaluator, the feedback will be different from today to tomorrow. The test is subjective and not reproducible.&lt;/p&gt;
-
-&lt;p&gt;Finally, it is prohibitively expensive to hire people to conduct a test. Humans may participate in annual Turing test competition, but during the hyperparameter tuning or iterative model refinement, it is difficult to get access to human testers.  For these reasons, it is not practically applicable in the current renaissance of the AI.&lt;/p&gt;
-
-&lt;p&gt;We propose an alternative test method for AGI. This method is based on the observation that even if we raise cats and dogs, treating them like human babies, they cannot learn to speak. The animals are capability-limited, and the human baby cannot learn to speak if it is separated from people speaking to it. It is environment-limited. Therefore we can think that the language acquisition is the function of the environment and the capability of the learning agent. In other words, if an agent can learn how to speak in a proper environment, we can say that it has the capability to do artificial general intelligence. We call it the Language Acquisition Test for AGI or &lt;strong&gt;Park&amp;rsquo;s test&lt;/strong&gt;.&lt;/p&gt;
-
-
-
-
-&lt;figure&gt;
-
-&lt;img src=&#34;./img/parktest.png&#34; width=&#34;100%&#34; /&gt;
-
-
-
-&lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; class=&#34;numbered&#34;&gt;
-  &lt;h4&gt;In Park&amp;rsquo;s test, the agent is said to have a human-level intelligence if it can learn language given the proper environment&lt;/h4&gt;
-  
-&lt;/figcaption&gt;
-
-&lt;/figure&gt;
-
-&lt;p&gt;To pass a Park&amp;rsquo;s test, we needs a capable model and a proper environment. Let&amp;rsquo;s look at environment first.&lt;/p&gt;
-
-&lt;h3 id=&#34;the-environment-for-the-language-acquisition&#34;&gt;The Environment for the Language Acquisition&lt;/h3&gt;
-
-&lt;p&gt;To conduct the Park&amp;rsquo;s AGI Test, an agent requires an interaction with the world to learn how to speak. One factor that enabled the recent advances in reinforcement learning was the use of the simulated environments such as Atari games or 3D first person shooting games such as VizDoom. Those environments can be used to build and test an agent that can optimize its behavior with little instructions while maximizing the reward signal as a goal to train an agent. However, environments and reward signals adopted in those studies are primitive and more suitable for the development of low-level intelligence which can be found in fish or bugs.&lt;/p&gt;
-
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th align=&#34;center&#34;&gt;&lt;/th&gt;
-&lt;th align=&#34;center&#34;&gt;&lt;/th&gt;
-&lt;th align=&#34;center&#34;&gt;&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td align=&#34;center&#34;&gt;&lt;video autoplay loop=&#34;loop&#34; width=&#34;200px&#34;&gt;&lt;source src=&#34;https://gym.openai.com/videos/2019-05-31--eRh4Fbp8G5/Breakout-v0/original.mp4&#34; type=&#34;video/mp4&#34; &gt;&lt;/video&gt;&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;&lt;video autoplay loop=&#34;loop&#34; style=&#34;&#34;&gt;&lt;source src=&#34;https://gym.openai.com/videos/2019-05-31--eRh4Fbp8G5/CarRacing-v0/original.mp4&#34; type=&#34;video/mp4&#34;&gt;&lt;/video&gt;&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;&lt;video autoplay loop=&#34;loop&#34; style=&#34;&#34;&gt;&lt;source src=&#34;https://gym.openai.com/videos/2019-05-31--eRh4Fbp8G5/roboschool:RoboschoolAtlasForwardWalk-v1/original.mp4&#34; type=&#34;video/mp4&#34;&gt;&lt;/video&gt;&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td align=&#34;center&#34;&gt;Atari Environment&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;Car Racing Environment&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;RoboSchool Environment&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-
-&lt;p&gt;If we want to build an agent with human-level of intelligence, we need to use an environment that can provide a reasonable sensory input and feedback that can teach an agent how to speak. One naive way to provide such an environment is using real people to provide the required responses or trainings. However, using real people has similar limitations with the Turing test. We will have to explore many models in a trial and error before we can finally build an AGI. In addition to the prohibitive cost of using human participants, human experimenters will become quickly tired of providing the same feedback again and again or providing different feedback to the same situation which does not lead to reproducible research.&lt;/p&gt;
-
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th&gt;Advanced Discussion: What is language?&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td&gt;Some would claim that the poor baby abandoned in jungle will still develop a language to communicate with other animal. Similarly there is an emergent communication pattern among collaborative robots. While true, we are interested in human language in this project especially for human robot interaction. The rationale is that we want the robot to learn human language not vice versa.&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-
-&lt;p&gt;There are a few prior researches in language acquisition. &lt;a href=&#34;https://arxiv.org/abs/1706.07230&#34; target=&#34;_blank&#34;&gt;Devendra Singh Chaplot and other researchers in the Carnegie Melon University&lt;/a&gt; used VizDoom environment to demonstrate how agent can learn semantic concepts using reinforcement learning. In their experiments, agents get rewards when they go to objects  according to the verbal direction such as &amp;ldquo;Go to short blue torch&amp;rdquo;. What is interesting is that during the training the agents experience verbal direction such as &amp;ldquo;Go to blue torch&amp;rdquo;, &amp;ldquo;Go to torch&amp;rdquo;, &amp;ldquo;Got to short red torch&amp;rdquo; and so on but never experience &amp;ldquo;short blue torch&amp;rdquo;. Even then during the test time, they can follow the direction to go to &amp;ldquo;short blue torch&amp;rdquo;. This implies that the agent can map the words such as &amp;ldquo;short&amp;rdquo;, &amp;ldquo;blue&amp;rdquo;, &amp;ldquo;torch&amp;rdquo; with the visual features in the objects. This is a step forward to solve &lt;a href=&#34;https://en.wikipedia.org/wiki/Symbol_grounding_problem&#34; target=&#34;_blank&#34;&gt;the symbol grounding problem&lt;/a&gt;.&lt;/p&gt;
-
-
-
-
-&lt;figure&gt;
-
-&lt;img src=&#34;./img/groundedlanguage.gif&#34; width=&#34;100%&#34; /&gt;
-
-
-
-&lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; class=&#34;numbered&#34;&gt;
-  &lt;h4&gt;Agents learns  language using reinforcement learning. Image by &lt;a href=&#34;https://github.com/devendrachaplot/DeepRL-Grounding&#34; target=&#34;_blank&#34;&gt;Devendra Singh Chaplot et al&lt;/a&gt;&lt;/h4&gt;
-  
-&lt;/figcaption&gt;
-
-&lt;/figure&gt;
-
-&lt;p&gt;But the concepts that can be learned in this way is limited. There are limitations due to the environments. We don&amp;rsquo;t learn by fetching objects according to the parent directions. It will take too long to learn all concepts this way. We need a better environments that can teach the language&lt;/p&gt;
-
-&lt;p&gt;When the transistor was first invented, people were excited to use it as an amplifier to build radio and radars. But the true power of the transistor was when it was arranged in a specific structure, it could build a logic gate. By arranging logic gates in a specific way, we could build a CPU, the true ultimate power of transistor.&lt;/p&gt;
-
-&lt;p&gt;The same goes with the connectionism. We know how one or two neural cell behaves exactly and we can simulate them. But most advancement came with the arrangement of this device in a specific ways, such as multi-layer perceptron (MLP), convolutional neural net (CNN), recurrent neural net (RNN), and generative adversarial network (GAN). In this sense, we are experimental computer scientist who seek the right structure mostly by trial and errors. Because of this nature, it is helpful to have an environment that can provide an easy, low-cost, and reproducible way to experiment.&lt;/p&gt;
-
-&lt;p&gt;In our lab, we would like to develop an environment for Park&amp;rsquo;s test. The key idea is that we will focus on the critical stage of the human development when humans learn how to speak as infants. This environment will contain a 3D replication of a room in the home with a few toys. There will be a mother character and a baby character. The mother character will be programmed manually using traditional game AI technology to take care of the baby and lead a conversation with the baby character which is often called a baby talk, child-directed speech (CDS), motherese or infant directed speech (IDS). IDS is a communication pattern, when a mother tries to teach language to an infant. The baby character will be the learning agent. The success of the test will be decided by whether the learning agents can acquire language and develop reasonable behavior comparable to the human developmental progress.&lt;/p&gt;
-
-
-
-
-&lt;figure&gt;
-
-&lt;img src=&#34;./img/env.svg&#34; width=&#34;100%&#34; /&gt;
-
-
-
-&lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; class=&#34;numbered&#34;&gt;
-  &lt;h4&gt;Previous environments have led the advancements of the reinforcement learning. We propose a novel environment for the language learning.&lt;/h4&gt;
-  
-&lt;/figcaption&gt;
-
-&lt;/figure&gt;
-
-&lt;h3 id=&#34;hierarchical-prediction-memory-hpm&#34;&gt;Hierarchical Prediction Memory (HPM)&lt;/h3&gt;
-
-&lt;p&gt;HDILab also studies the model that can learn the language in the environment described above.  Let&amp;rsquo;s start our discussion from the function and the mechanism.&lt;/p&gt;
-
-&lt;h4 id=&#34;function-and-mechanism&#34;&gt;Function and Mechanism&lt;/h4&gt;
-
-&lt;p&gt;The most difficult way to fly is to imitate the biological &lt;strong&gt;mechanism&lt;/strong&gt; of flying such as in birds or flies. The biological mechanism is highly evolved due to the long history of adaptation. And many of the complex mechanism is due to the biological limitation which does not apply to us. What we need to figure out is what those mechanism are actually doing or &lt;strong&gt;function&lt;/strong&gt;. The way human or horses run is &lt;em&gt;pushing the ground backward&lt;/em&gt;. The way birds fly is &lt;em&gt;pushing the air downward&lt;/em&gt;. This applies to the intelligence. The biological mechanism is very complex. It has been very optimized. It has to use biological lossy devices. So the mechanism is very complex. But we need to learn what is the function of the mechanism. It is in my opinion &lt;em&gt;prediction of vector sequence&lt;/em&gt;. Hierarchy helps to overcome the temporal limit by chunking. The essence of intelligence is &lt;em&gt;hierarchical prediction of vector sequence&lt;/em&gt;.&lt;/p&gt;
-
-&lt;p&gt;We conjecture that the essence of the intelligence is a hierarchical prediction.&lt;/p&gt;
-
-&lt;p&gt;Where the original connectivist has missed? The original connectivist thought the decision or pattern recognition as the core activity. However, this lead to the wrong formalization of the problem? In my opinion, prediction should be the core activity. Prediction includes the decision or pattern recognition, but the main difference is that it has the streaming input and streaming output.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Parallelspaces: Simultaneous Exploration of Feature and Data for Hypothesis Generation</title>
-      <link>http://crystal.uta.edu/~park/publication/parallelspace/</link>
-      <pubDate>Tue, 29 Mar 2016 10:40:11 -0500</pubDate>
-      
-      <guid>http://crystal.uta.edu/~park/publication/parallelspace/</guid>
-      <description>
-
-
-&lt;figure&gt;
-
-&lt;img src=&#34;./files/parallelspaces/parallelspaces_screen.jpg&#34; /&gt;
-
-
-
-&lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; &gt;
-  &lt;h4&gt;The MovieVis tool. Two groups in the movie space have been selected to compare corresponding user distribution. Two movies selected in the upper-center region—One flew Over the Cuckoos Nest (1975) and Amadeus (1984)–and are shown in blue color. Another two movies selected in a lower-center region—Phenomenon (1996) and Twister (1996)—are shown in orange. The highlighted users are those who liked all both pairs of movies (because the group mode is set to common). Based on the user space axes—gender for the horizontal and age for the vertical—we can see that while the movie One Flew Over the Cuckoo’s Nest and Amadeus were favored by male reviewers of all ages, the Phenomenon and Twister were liked by relatively younger male audiences.&lt;/h4&gt;
-  
-&lt;/figcaption&gt;
-
-&lt;/figure&gt;
-
-
-
-
-&lt;figure&gt;
-
-&lt;img src=&#34;./files/parallelspaces/parallelspaces_teaser.jpg&#34; /&gt;
-
-
-
-&lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; &gt;
-  &lt;h4&gt;On the left, we compare two movies, Toy Story (1995), in blue, and Scream (1996), in orange, according to the age, location and similarity criteria for users. Some notable observations are while the former is liked all around the U.S. by any age groups the latter is mostly popular in the eastern part and within a younger generation. On the right, we compare two users, a 19-year-old male student, in blue, and a 51-year-old male educator, in orange according to the average, release date, and similarity criteria for movies. We observe that the older user tends to rate older films highly. In addition, his average review tends to conform to the average ratings patterns of all users while the younger user seems to deviate from it.&lt;/h4&gt;
-  
-&lt;/figcaption&gt;
-
-&lt;/figure&gt;
-</description>
     </item>
     
   </channel>
