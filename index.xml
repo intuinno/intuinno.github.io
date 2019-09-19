@@ -10,6 +10,219 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Olfactory learning</title>
+      <link>http://crystal.uta.edu/~park/post/olfactory-learning/</link>
+      <pubDate>Thu, 19 Sep 2019 00:00:00 -0500</pubDate>
+      
+      <guid>http://crystal.uta.edu/~park/post/olfactory-learning/</guid>
+      <description>
+
+&lt;h1 id=&#34;olfactory-learning&#34;&gt;Olfactory learning&lt;/h1&gt;
+
+&lt;p&gt;Nowadays you hear artificial &lt;strong&gt;intelligence&lt;/strong&gt; or machine &lt;strong&gt;learning&lt;/strong&gt; frequently.&lt;/p&gt;
+
+&lt;p&gt;What is the difference between intelligence and learning?&lt;/p&gt;
+
+&lt;p&gt;General words such as intelligence and learning are difficult to define. Rather than trying to define, comparing the meanings can be helpful to understand both concepts.&lt;/p&gt;
+
+&lt;p&gt;Intelligence is the rules to active actuators according to the sensory input to improve one&amp;rsquo;s wellbeing. Learning is acquiring new rules after birth. In this sense, intelligence does not need learning.&lt;/p&gt;
+
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;./img/intelligence-vs-learning.png&#34; /&gt;
+
+
+
+&lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; &gt;
+  &lt;h4&gt;There can be intelligence without learning and intelligence with learning.&lt;/h4&gt;
+  
+&lt;/figcaption&gt;
+
+&lt;/figure&gt;
+
+&lt;p&gt;Bees that show intelligent behavior does not rely on learning. All their smart rules are encoded in the genes.
+Similarly my calculator is intelligent. But I don&amp;rsquo;t think they are learning.&lt;/p&gt;
+
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;http://www.walyou.com/img/video-games-texas-instruments-math-calculator-1.jpg&#34; /&gt;
+
+
+
+&lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; &gt;
+  &lt;h4&gt;This calculator is advertised as intelligent calculator, but it does not have the ability to learn new trick.&lt;/h4&gt;
+  
+&lt;/figcaption&gt;
+
+&lt;/figure&gt;
+
+&lt;p&gt;While trying to build an AI, humans tried first to infuse rules by hand. But soon they found there are two fundamental problems. First, there are too many rules. Not only the number, many rules was contradictory each other. Second problem was the symbol-grounding problem.&lt;/p&gt;
+
+&lt;p&gt;After some failure, we arrived at the consensus that to build human-level intelligence, machines needs to learn itself.
+Interestingly, this idea of learning machine appears in the Alan Turing&amp;rsquo;s seminal paper, &lt;em&gt;Computing machinery and intelligence&lt;/em&gt; (1950).&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Instead of trying to produce a programme to simulate the adult mind, why not rather try to produce one which simulates the child&amp;rsquo;s? If this were then subjected to an appropriate course of education one would obtain the adult brain. Presumably the child brain is something like a notebook as one buys it from the stationer&amp;rsquo;s. Rather little mechanism, and lots of blank sheets. (Mechanism and writing are from our point of view almost synonymous.) Our hope is that there is so little mechanism in the child brain that something like it can be easily programmed. The amount of work in the education we can assume, as a first approximation, to be much the same as for the human child.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;One way to think about the AI and AGI is where the &lt;strong&gt;general&lt;/strong&gt; part comes. General part comes from the ability to learn new skills.
+Therefore learning is a required condition of the AGI, too.&lt;/p&gt;
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;What is the sufficient condition for the AGI?&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;I think a language acquisition or &lt;strong&gt;learning&lt;/strong&gt; is a sufficent condition. Can an agent learn language by trial and error?   You can read &lt;a href=&#34;./post/research-in-hdilab/&#34; target=&#34;_blank&#34;&gt;more about this&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;Learning is very expensive.&lt;/p&gt;
+
+&lt;p&gt;Most animals cannot afford it.&lt;/p&gt;
+
+&lt;p&gt;If you make a mistake, you die. And there is no way to transfer your knowledge to descendants using genes.  Your exploration to the world cannot  benefit the survival of your genes. How dare animals begin learning?&lt;/p&gt;
+
+&lt;p&gt;Think of cars. Modern luxury cars have lots of complex modules such as adaptive cruise, ABS, regenerative braking, hybrid motor, all wheel drive, GPS navigation, 8 way sound system, memory seat, AC and heater and so on.  If anyone try to build a car one hundred years ago, will he consider all the complex modules of the modern cars? Probably not. He will only focus on how to rotate wheel without human manual muscle. That&amp;rsquo;s why the first cars had barely &lt;strong&gt;Minimum parts to implement a function&lt;/strong&gt;. They had a motor and battery connected to wheels. Or they had an steam engine.&lt;/p&gt;
+
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;https://upload.wikimedia.org/wikipedia/commons/5/5b/Fardier_a_vapeur.gif&#34; /&gt;
+
+
+
+&lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; &gt;
+  &lt;h4&gt;The first car accident&lt;/h4&gt;
+  
+&lt;/figcaption&gt;
+
+&lt;/figure&gt;
+
+&lt;p&gt;So if we look at modern human brain, there are lots of fancy complex modules interconnected.&lt;/p&gt;
+
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;https://ai2-s2-public.s3.amazonaws.com/figures/2017-08-08/2e25648359458f3658f3e55c88b5eeea1271c318/14-Figure1-1.png&#34; /&gt;
+
+
+
+&lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; &gt;
+  &lt;h4&gt;Components required for reaching and grasping. There are many modules for controling hand gesture.  Image from Schema theory by Michael A. Arbib (1998)&lt;/h4&gt;
+  
+&lt;/figcaption&gt;
+
+&lt;/figure&gt;
+
+&lt;p&gt;Then if we want to reverse-engineer learning, trying to copy from the human brain is trying to learn how to build a first car from the modern luxury cars.  Let&amp;rsquo;s properly assume you don&amp;rsquo;t know what CPU and memory are because you are from one hundred years ago. The modern cars have 50-100 CPUs. Can we make sense what&amp;rsquo;s going on here?&lt;/p&gt;
+
+&lt;p&gt;All of previous arguments are to claim that we need to look at the &lt;strong&gt;minimum parts to implement a function&lt;/strong&gt; to build a learning machine.&lt;/p&gt;
+
+&lt;p&gt;Olfactory system is a candidate for such a system.
+We belive it is the &lt;strong&gt;minimum parts&lt;/strong&gt; because it is oldest.
+How do we know it is oldest?
+Because it goes back to the lizard.&lt;/p&gt;
+
+&lt;p&gt;Many readers might got the idea when I mention that lizard. They can skip the next part. But for the rest who do not have a clue, let me introduce crash course on the brain evolution.&lt;/p&gt;
+
+&lt;p&gt;When we look at the brain there are many parts just too many parts. But if we simplify mercilessly, there are three major parts, hindbrain, limbic system, and neocortex.&lt;/p&gt;
+
+&lt;p&gt;Hindbrain takes care of basic tasks that should be automatic. No learning should occur here. We should not learn how to breathe or maintain body temperature. It should be built in. Otherwise our chance of survival will be too thin.  This came first in the evolution and it is deep inside.
+The last part, neocortex is where the human level intelligence is happening. It begins with the blank state and fills as we learn. This came last in the evolution and located in the surface or outside.&lt;/p&gt;
+
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;http://images.mini-ielts.com/images/11/29/the-triune-brain.png&#34; /&gt;
+
+
+
+&lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; &gt;
+  &lt;h4&gt;The Triune Brain clusters brain into three major parts as hindbrain, limbic system, and neocortex.&lt;/h4&gt;
+  
+&lt;/figcaption&gt;
+
+&lt;/figure&gt;
+
+&lt;p&gt;Limbic system is what is in the middle. It came second and located in the middle between hindbrain and neocortex. This simplication is called the &lt;strong&gt;triune brain&lt;/strong&gt;. Previously limbic system is claimed to be &lt;strong&gt;old mammalian&lt;/strong&gt; brain and it is believed to handle emotions. However, it is discovered in the common ancestors of reptiles and mammals.&lt;/p&gt;
+
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;https://upload.wikimedia.org/wikipedia/commons/d/d1/Blausen_0614_LimbicSystem.png&#34; /&gt;
+
+
+
+&lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; &gt;
+  &lt;h4&gt;The Limbic system is composed of olfactory sensor, hippocampus, and amygdala&lt;/h4&gt;
+  
+&lt;/figcaption&gt;
+
+&lt;/figure&gt;
+
+&lt;p&gt;It is composed of olfactory sensor, hippocampus, and amygdala.
+Olfactory sensor is simple chemical sensors.
+The neurons in the olfactory sensors fire according to the chemical input.
+Amygdala is taking control of emotions.
+You can simplify emotions as a change of body reactions to the same stimulus depending on the chemical concentration in the animal.&lt;br /&gt;
+Amygdala controls the release of the chemicals.
+In this sense, it is an &lt;strong&gt;actuator&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;To make situation ruthlessly simple, let&amp;rsquo;s say there are only two reactions, to approach or to avoid.
+(Of course there are others such as mating or fighting.)
+Let me clarify the same stimulus part to avoid confusion.
+Of course when we see food, we approach and when we see a tiger, we avoid.
+But let&amp;rsquo;s see you see an unidentified object, something you never seen or know.
+If your blood has more &lt;strong&gt;approach&lt;/strong&gt; chemical, you will approach it.
+While if your blood has more &lt;strong&gt;avoid&lt;/strong&gt;, vice versa.
+This thing, unidentified object, is important concept in the learning.
+Your gene may hard code the food and the predator.
+You don&amp;rsquo;t need learning to handle that case.
+But it is when you have a &lt;strong&gt;new stimulus&lt;/strong&gt; that requires learning.
+Which is a learned reponse and different response for the same stimulus.&lt;/p&gt;
+
+&lt;p&gt;As a concrete example, when a mouse hears a certain bell and gets the food, he associates approach with the bell sound.
+But if a poor mouse next cage gets the electrical shock to the same bell sound, he will associate the sound with &lt;strong&gt;avoid&lt;/strong&gt; reaction.&lt;/p&gt;
+
+&lt;p&gt;So we have a sensor and an actuator.
+What else we need to build a learning system?
+Learning system by definition has to have a mechanism to store input and connect or &lt;strong&gt;associate&lt;/strong&gt; appropriate actions.
+Hippocampus is the one who is taking care of the associative memory.&lt;/p&gt;
+
+&lt;p&gt;As a summary, the minimum parts to implement learning is a sensor, an actuator, and a memory.  Let&amp;rsquo;s call it a minimalistic learning module.&lt;/p&gt;
+
+&lt;p&gt;Do you have an experience that when you smell something, it reminds me of your home or childhood memory?
+It is because the olfacory sensors and hippocampus are very directly connected compared to complex routing in other modules in the brain.
+We guess that it was the first sensor that connected to learning module because the olfactory sensors are directly connected to the hippocampus while other systems are connected through thalamus. Thalamus is the information hub. There are many sensors coming in and coming out.&lt;/p&gt;
+
+&lt;p&gt;One interesting question to ask is why olfactory sensor was connected to this first learning machine.&lt;/p&gt;
+
+&lt;p&gt;The need to learn new food source might be an motivation. But why animals rely on the odor rather than the visual shape or sound?
+My guess is that chemical ordor has far lower dimension than other sensory input such as vision and auditory signals. To generalize over the visual system, we need far more processing and storage power. For example, a visual signal can be composed of 640 by 480 pixel value while odor signal can be characterized by 10 numerical values.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>My intellectual journey</title>
       <link>http://crystal.uta.edu/~park/post/intellectual-journey/</link>
       <pubDate>Wed, 18 Sep 2019 00:00:00 -0500</pubDate>
@@ -648,24 +861,6 @@ others conveys significant information. Two experiments were carried out to demo
 &lt;/figcaption&gt;
 
 &lt;/figure&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Deep Learning</title>
-      <link>http://crystal.uta.edu/~park/project/deep-learning/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 -0500</pubDate>
-      
-      <guid>http://crystal.uta.edu/~park/project/deep-learning/</guid>
-      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
-
-&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
-
-&lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
-
-&lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
-
-&lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
 </description>
     </item>
     
