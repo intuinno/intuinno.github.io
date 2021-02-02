@@ -12,14 +12,75 @@
     
     
     <item>
+      <title>What to do after reading a paper</title>
+      <link>http://crystal.uta.edu/~park/post/howto-read-paper/</link>
+      <pubDate>Mon, 01 Feb 2021 00:00:00 -0600</pubDate>
+      
+      <guid>http://crystal.uta.edu/~park/post/howto-read-paper/</guid>
+      <description>We read a lot of papers. This is my standarized procedure for reading a paper such that the insight from it can be kept and spread.</description>
+    </item>
+    
+    <item>
+      <title>Paper Summary: Online learning and generalization of parts-based image representations by non-negative sparse autoencoders</title>
+      <link>http://crystal.uta.edu/~park/post/nnsae/</link>
+      <pubDate>Wed, 05 Aug 2020 00:00:00 -0500</pubDate>
+      
+      <guid>http://crystal.uta.edu/~park/post/nnsae/</guid>
+      <description>This paper presents an online autoencoder that produces non-negative sparse embedding.</description>
+    </item>
+    
+    <item>
+      <title>Paper Summary: Universal Intelligence: A Definition of Machine Intelligence</title>
+      <link>http://crystal.uta.edu/~park/post/universal-intelligence/</link>
+      <pubDate>Wed, 05 Aug 2020 00:00:00 -0500</pubDate>
+      
+      <guid>http://crystal.uta.edu/~park/post/universal-intelligence/</guid>
+      <description>This paper defines intelligence as an agent&amp;rsquo;s ability to achieve goals in a wide range of environments. And authors present elegant mathematical formulation based on the concept of rewards and Kolmogorov complexity.</description>
+    </item>
+    
+    <item>
+      <title>Lecture Summary: AI-Horizons Colloquium by Yoshua Bengio</title>
+      <link>http://crystal.uta.edu/~park/post/yoshua-bengio/</link>
+      <pubDate>Fri, 22 May 2020 00:00:00 -0500</pubDate>
+      
+      <guid>http://crystal.uta.edu/~park/post/yoshua-bengio/</guid>
+      <description>This lecture summarizies the current challenge of Deep Learning and a few approaches by Yoshua Bengio.</description>
+    </item>
+    
+    <item>
+      <title>Paper Summary: An Immersive System for Browsing and Visualizing Surveillance Video</title>
+      <link>http://crystal.uta.edu/~park/post/housefly/</link>
+      <pubDate>Fri, 28 Feb 2020 00:00:00 -0600</pubDate>
+      
+      <guid>http://crystal.uta.edu/~park/post/housefly/</guid>
+      <description>This paper presents HouseFly, which is an immersive video analytics platform where 3 years of videos from multiple camera can be shown as immersive video.</description>
+    </item>
+    
+    <item>
+      <title>Paper Summary: A cortical sparse distributed coding model linking mini- and macrocolumn-scale functionality</title>
+      <link>http://crystal.uta.edu/~park/post/sparsey/</link>
+      <pubDate>Mon, 03 Feb 2020 00:00:00 -0600</pubDate>
+      
+      <guid>http://crystal.uta.edu/~park/post/sparsey/</guid>
+      <description>This paper presents Sparsey model which uses sparse distributed coding or representation (SDR) to build a hierarchical classifier. The main idea is using familarity to control the randomness of representation. But the simplication poses limited applicability.</description>
+    </item>
+    
+    <item>
+      <title>Paper Summary: AGI Preschool: A Framework for Evaluating Early-Stage Human-like AGIs</title>
+      <link>http://crystal.uta.edu/~park/post/preschool/</link>
+      <pubDate>Mon, 03 Feb 2020 00:00:00 -0600</pubDate>
+      
+      <guid>http://crystal.uta.edu/~park/post/preschool/</guid>
+      <description>The main idea is using an environment that resembles a preschool. I think it is an improvement over other tests such as Turing test, College Student test, or 8th grader test. But it still does not answer how the agent acquire communication skill using human language.</description>
+    </item>
+    
+    <item>
       <title>Paper Summary: Mapping the Landscape of Human-Level Artificial General Intelligence</title>
       <link>http://crystal.uta.edu/~park/post/mapping-the-landscape-of-human-level-agi.md/</link>
       <pubDate>Thu, 30 Jan 2020 00:00:00 -0600</pubDate>
       
       <guid>http://crystal.uta.edu/~park/post/mapping-the-landscape-of-human-level-agi.md/</guid>
-      <description>This is the paper review of the following paper.
- Adams, Sam, Itmar Arel, Joscha Bach, Robert Coop, Rod Furlan, Ben Goertzel, J. Storrs Hall et al. &amp;ldquo;Mapping the landscape of human-level artificial general intelligence.&amp;rdquo; AI magazine 33, no. 1 (2012): 25-42.
- The field of AGI is chaotic. For 70 years, there were many ups and downs. Still, we don&amp;rsquo;t have a consensus about how we can assess the human-level artificial general intelligence.</description>
+      <description>This paper shows an overview of AGI capabilities from developmental psychology, mathematical, physiological, and information processing perspectives. Also it discusses how to evaluate AGI using environments, tasks, and scenarios.</description>
     </item>
     
     <item>
@@ -28,7 +89,7 @@
       <pubDate>Fri, 06 Dec 2019 00:00:00 -0600</pubDate>
       
       <guid>http://crystal.uta.edu/~park/post/observational-learning/</guid>
-      <description>Human level intelligence test I propose a language acquisition as the test for the human-level intelligence. If we raise baby animals like a human baby, they will not learn human language. They are capability limited. If a human baby is raised in the jungle without any human interaction, they cannot acquire human language. They are environment limited. We can say that the language acquisition is the function of the capability and the environment.</description>
+      <description>Below I summarize my plan for building artificial general intelligence (AGI). I start with the test for AGI, and then goes into environments and models for it.</description>
     </item>
     
     <item>
@@ -37,10 +98,7 @@
       <pubDate>Thu, 19 Sep 2019 00:00:00 -0500</pubDate>
       
       <guid>http://crystal.uta.edu/~park/post/olfactory-learning/</guid>
-      <description>Olfactory learning Nowadays you hear artificial intelligence or machine learning frequently.
-What is the difference between intelligence and learning?
-General words such as intelligence and learning are difficult to define. Rather than trying to define, comparing the meanings can be helpful to understand both concepts.
-Intelligence is the rules to active actuators according to the sensory input to improve one&amp;rsquo;s wellbeing. Learning is acquiring new rules after birth. In this sense, intelligence does not need learning.</description>
+      <description>Intelligence is the rules to actuate actuators according to sensory input to improve one&amp;rsquo;s well-being. Learning is acquiring new rules after birth. Learning requires sensors, actuators, and memory. Olfactory learning is the first learning that can give insight to the minimum parts for learning.</description>
     </item>
     
     <item>
@@ -49,9 +107,7 @@ Intelligence is the rules to active actuators according to the sensory input to 
       <pubDate>Wed, 18 Sep 2019 00:00:00 -0500</pubDate>
       
       <guid>http://crystal.uta.edu/~park/post/intellectual-journey/</guid>
-      <description>Below is adopted from forward in my Ph.D disseration.
- A man&amp;rsquo;s character is his fate. - Heraclitus
- It all began with the naıve and lazy man’s dream. I wanted interesting information to come to me even though I didn’t know if such information existed, and I didn’t search for it. I am lazy but addicted to information. I am also a Maximizer. According to the book The Paradox of Choice: Why More Is Less by Barry Schwartz, a Maximizer is the kind of person who scans all the available cereals in the supermarket and tries to select the best one.</description>
+      <description>I was lazy and news-addict that I wanted news story that suits my interest flows towards me. I started with recommender system but soon found that it cannot deal with the delicacy of human language. I studied visual analytics to combine human intelligence with machine learning for the text analysis. But still found it unsatisfactory. Now I am studying grounded language which lead to artificial general intelligence research.</description>
     </item>
     
     <item>
@@ -60,9 +116,7 @@ Intelligence is the rules to active actuators according to the sensory input to 
       <pubDate>Thu, 12 Sep 2019 00:00:00 -0500</pubDate>
       
       <guid>http://crystal.uta.edu/~park/post/a-scholar/</guid>
-      <description>My job is thinking and talking.
-I do reading and writting.
-I like learning and teaching.</description>
+      <description>A poem about my job</description>
     </item>
     
     <item>
@@ -71,16 +125,7 @@ I like learning and teaching.</description>
       <pubDate>Thu, 12 Sep 2019 00:00:00 -0500</pubDate>
       
       <guid>http://crystal.uta.edu/~park/post/society-of-mind/</guid>
-      <description>Listening to an old professor
-who devoted his whole life
-looking for the holy grail
-couldn&amp;rsquo;t find it
-handing over scattered clues
-to young, ignorant yet ambitious students
-like once he was
-in the hope that allowed more time
-he could finally see how minds work
-knowing that his time is over.</description>
+      <description>A poem about the society of mind (book) by Marvin Minsky</description>
     </item>
     
     <item>
@@ -89,9 +134,7 @@ knowing that his time is over.</description>
       <pubDate>Tue, 06 Aug 2019 00:00:00 -0500</pubDate>
       
       <guid>http://crystal.uta.edu/~park/post/master-research/</guid>
-      <description>I get many emails from master students who are interested in reserach.
- I would like to get research experience in my lab. May I join your lab as a master student?
- Below you can find my advice. TLDR, if you plan to pursue PhD after your master, it might be a good idea to experience research in my lab. If you plan to industry career, it might not.</description>
+      <description>If you plan to pursue PhD after your master, it might be a good idea to experience research in my lab. If you plan to industry career, it might not.</description>
     </item>
     
     <item>
@@ -100,8 +143,7 @@ knowing that his time is over.</description>
       <pubDate>Tue, 06 Aug 2019 00:00:00 -0500</pubDate>
       
       <guid>http://crystal.uta.edu/~park/post/graduate-school/</guid>
-      <description>Recently, I got an email from a smart undergraduate student who was interested in research. I think his situation might be a common case so here I added my reply in the hope that this can be helpful to other students. Below is the modified email message.
- I have been talking with few graduate recruiters and found out that graduate schools don’t offer scholarship unless I am doing PhD or thesis (which I had no idea what that meant).</description>
+      <description>If you are not sure, getting a SW job is okay. If you study AI by yourself for one or two years, you might consider applying for PhD program.</description>
     </item>
     
     <item>
@@ -110,9 +152,7 @@ knowing that his time is over.</description>
       <pubDate>Tue, 06 Aug 2019 00:00:00 -0500</pubDate>
       
       <guid>http://crystal.uta.edu/~park/post/how-to-use-your-advisor/</guid>
-      <description>Recently, I got an email from a student from HDILab. I think his situation might be a common case so here I added my reply in the hope that this can be helpful to other students. Below is the modified email message from the student.
- Hello Dr.Park,
-I am trying to implement carracing. I am using a virtualenv python3.5.4. I am trying to run extract.bash using $sudo bash extract.</description>
+      <description>If you have a technical problem. Solve it on your own while producing shareable outcome. If you have a research idea, your advisor can help you evaluate whether it is intractable, already done, or trivial.</description>
     </item>
     
     <item>
@@ -121,8 +161,7 @@ I am trying to implement carracing. I am using a virtualenv python3.5.4. I am tr
       <pubDate>Tue, 06 Aug 2019 00:00:00 -0500</pubDate>
       
       <guid>http://crystal.uta.edu/~park/post/hdilab-culture/</guid>
-      <description>Below is HDILab culture. A culture is a principle about how we do everyday things. I hope that our culture shape our group in a productive way.
-We learn by teaching. Every week we will have a paper reading seminar where one student will teach a paper to other lab members. A pizza and a diet coke will be provided. You will have a chance to announce what you are working on nowadays in a friendly environment 30 minutes before the seminar.</description>
+      <description>In HDILab, we learn by teaching. Do not study or work but create a sharable output.  Be true to yourself.</description>
     </item>
     
     <item>
@@ -131,8 +170,7 @@ We learn by teaching. Every week we will have a paper reading seminar where one 
       <pubDate>Mon, 05 Aug 2019 00:00:00 -0500</pubDate>
       
       <guid>http://crystal.uta.edu/~park/post/soft-evolution/</guid>
-      <description>Life evolves. The speed of evolution depends on the mechanism of the evolution. The first evolution was based on the random mutation of genes. It is basically trial and error. But the diversity of the life forms it generated is awesome. I would call it hard evolution. We, humans, are one of the successful life forms with mosquitoes and cockroaches.
-Human adopted a new strategy. It was building a more flexible general purpose brain to adapt to the environment.</description>
+      <description>The first evolution mechanism was based on the DNA. The second evolution mechanism was based on the brain. The third  evolution mechanism will be based on algorithms</description>
     </item>
     
     <item>
@@ -141,8 +179,7 @@ Human adopted a new strategy. It was building a more flexible general purpose br
       <pubDate>Mon, 05 Aug 2019 00:00:00 -0500</pubDate>
       
       <guid>http://crystal.uta.edu/~park/post/rewards/</guid>
-      <description>Contents  Introduce the role of the rewards in reinforcement learning  Use the example of dog training Explain the dopamine Explain the  Introduce an extrinsic rewards  Classic rewards Used in reinforcement learning examples  Atari Alpha Go World model paper   Introduce an intrinsic rewards
- Explain the limitation of the extrinsic rewards  Montezuma&amp;rsquo;s revenge  Explain the mechanism of the intrinsic rewards  How the curious or explorative behavior relates to the intrinsic rewards How to formulate the intrinsic rewards mathematically?</description>
+      <description>Extrinsic rewards is for the animal or bug level of intelligence. Intrinsic rewards or curiosity enables efficient navigation in the vast exploration space. Social rewards enable imitation or gated learning which reduces the exploration space.</description>
     </item>
     
     <item>
@@ -151,9 +188,7 @@ Human adopted a new strategy. It was building a more flexible general purpose br
       <pubDate>Wed, 20 Apr 2016 00:00:00 -0500</pubDate>
       
       <guid>http://crystal.uta.edu/~park/post/research-in-hdilab/</guid>
-      <description>Hello,
-My name is Deokgun Park and I lead Human Data Interaction Lab (HDILab) in the Department of Computer Science &amp;amp; Engineering at the University of Texas at Arlington. In this article, I will explain the problems we are solving at HDILab. In Human Data Interaction Lab, we are studying artificial general intelligence (AGI).
-Many students already have an idea about artificial intelligence (AI). But artificial general intelligence or AGI might be a new term.</description>
+      <description>Artificial General Intelligence (AGI) Research at Human Data Interaction Lab (HDILab)</description>
     </item>
     
   </channel>

@@ -6,10 +6,19 @@
     <description>Recent content in student advice on Deokgun Park</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 06 Aug 2019 00:00:00 -0500</lastBuildDate>
+    <lastBuildDate>Mon, 01 Feb 2021 00:00:00 -0600</lastBuildDate>
     
 	<atom:link href="http://crystal.uta.edu/~park/tags/student-advice/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>What to do after reading a paper</title>
+      <link>http://crystal.uta.edu/~park/post/howto-read-paper/</link>
+      <pubDate>Mon, 01 Feb 2021 00:00:00 -0600</pubDate>
+      
+      <guid>http://crystal.uta.edu/~park/post/howto-read-paper/</guid>
+      <description>We read a lot of papers. This is my standarized procedure for reading a paper such that the insight from it can be kept and spread.</description>
+    </item>
     
     <item>
       <title>Advice for the master students who want to do reserach in my lab</title>
@@ -17,9 +26,7 @@
       <pubDate>Tue, 06 Aug 2019 00:00:00 -0500</pubDate>
       
       <guid>http://crystal.uta.edu/~park/post/master-research/</guid>
-      <description>I get many emails from master students who are interested in reserach.
- I would like to get research experience in my lab. May I join your lab as a master student?
- Below you can find my advice. TLDR, if you plan to pursue PhD after your master, it might be a good idea to experience research in my lab. If you plan to industry career, it might not.</description>
+      <description>If you plan to pursue PhD after your master, it might be a good idea to experience research in my lab. If you plan to industry career, it might not.</description>
     </item>
     
     <item>
@@ -28,8 +35,7 @@
       <pubDate>Tue, 06 Aug 2019 00:00:00 -0500</pubDate>
       
       <guid>http://crystal.uta.edu/~park/post/graduate-school/</guid>
-      <description>Recently, I got an email from a smart undergraduate student who was interested in research. I think his situation might be a common case so here I added my reply in the hope that this can be helpful to other students. Below is the modified email message.
- I have been talking with few graduate recruiters and found out that graduate schools don’t offer scholarship unless I am doing PhD or thesis (which I had no idea what that meant).</description>
+      <description>If you are not sure, getting a SW job is okay. If you study AI by yourself for one or two years, you might consider applying for PhD program.</description>
     </item>
     
     <item>
@@ -38,9 +44,7 @@
       <pubDate>Tue, 06 Aug 2019 00:00:00 -0500</pubDate>
       
       <guid>http://crystal.uta.edu/~park/post/how-to-use-your-advisor/</guid>
-      <description>Recently, I got an email from a student from HDILab. I think his situation might be a common case so here I added my reply in the hope that this can be helpful to other students. Below is the modified email message from the student.
- Hello Dr.Park,
-I am trying to implement carracing. I am using a virtualenv python3.5.4. I am trying to run extract.bash using $sudo bash extract.</description>
+      <description>If you have a technical problem. Solve it on your own while producing shareable outcome. If you have a research idea, your advisor can help you evaluate whether it is intractable, already done, or trivial.</description>
     </item>
     
     <item>
@@ -49,8 +53,7 @@ I am trying to implement carracing. I am using a virtualenv python3.5.4. I am tr
       <pubDate>Tue, 06 Aug 2019 00:00:00 -0500</pubDate>
       
       <guid>http://crystal.uta.edu/~park/post/hdilab-culture/</guid>
-      <description>Below is HDILab culture. A culture is a principle about how we do everyday things. I hope that our culture shape our group in a productive way.
-We learn by teaching. Every week we will have a paper reading seminar where one student will teach a paper to other lab members. A pizza and a diet coke will be provided. You will have a chance to announce what you are working on nowadays in a friendly environment 30 minutes before the seminar.</description>
+      <description>In HDILab, we learn by teaching. Do not study or work but create a sharable output.  Be true to yourself.</description>
     </item>
     
     <item>
@@ -59,9 +62,7 @@ We learn by teaching. Every week we will have a paper reading seminar where one 
       <pubDate>Wed, 20 Apr 2016 00:00:00 -0500</pubDate>
       
       <guid>http://crystal.uta.edu/~park/post/research-in-hdilab/</guid>
-      <description>Hello,
-My name is Deokgun Park and I lead Human Data Interaction Lab (HDILab) in the Department of Computer Science &amp;amp; Engineering at the University of Texas at Arlington. In this article, I will explain the problems we are solving at HDILab. In Human Data Interaction Lab, we are studying artificial general intelligence (AGI).
-Many students already have an idea about artificial intelligence (AI). But artificial general intelligence or AGI might be a new term.</description>
+      <description>Artificial General Intelligence (AGI) Research at Human Data Interaction Lab (HDILab)</description>
     </item>
     
   </channel>

@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Deokgun Park on Deokgun Park</title>
@@ -6,8 +5,845 @@
     <description>Recent content in Deokgun Park on Deokgun Park</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 20 Apr 2016 00:00:00 -0500</lastBuildDate>
+    <lastBuildDate>Mon, 01 Feb 2021 00:00:00 -0600</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>What to do after reading a paper</title>
+      <link>http://crystal.uta.edu/~park/post/howto-read-paper/</link>
+      <pubDate>Mon, 01 Feb 2021 00:00:00 -0600</pubDate>
+      
+      <guid>http://crystal.uta.edu/~park/post/howto-read-paper/</guid>
+      <description>
+
+&lt;p&gt;We read a lot of papers. I thought it would be beneficial if I document how I organize the summary.
+Sometimes, I am in a hurry and read a lot of papers before summarizing them.
+This results sometimes in anxiety and even worse what you learned will be easily lost.
+By following standarized procedure for reading papers, I hope I can overcome this.&lt;/p&gt;
+
+&lt;h3 id=&#34;my-procedure-2-0-updated-2-1-2011&#34;&gt;My procedure 2.0 (Updated 2/1/2011)&lt;/h3&gt;
+
+&lt;ol&gt;
+&lt;li&gt;After you read the paper, move it to one drive.&lt;/li&gt;
+&lt;li&gt;If you have hand-written annotations in the printed paper, replicate it on the file.&lt;/li&gt;
+&lt;li&gt;Add the print to the binder.&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;Add new entry on the &lt;a href=&#34;https://www.notion.so/intuinno/49bedcbdfd944e43b4b02c7798269edd?v=ceb7c38f8373441cbf4dce44183fe17c&#34; target=&#34;_blank&#34;&gt;paper references database in HLAI wiki&lt;/a&gt;. HLAI wiki is built using notion service.&lt;/li&gt;
+&lt;li&gt;If there is interesting images, add them to the wiki page.&lt;/li&gt;
+&lt;li&gt;Add comments in the wiki page. A few place holders will be following.
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Summary&lt;/strong&gt; What is this paper about?&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Good&lt;/strong&gt; What are good points?&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Bad&lt;/strong&gt; What are my criticism?&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Implication&lt;/strong&gt; How I can use this work? What will be different from my approach?&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Future Readings&lt;/strong&gt; Include some more references&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;(Optional) If the paper is highly relevant and you might write about it in other documents (papers, grants), or there is a comment worth sharing with the rest of the world, write a blog post in the homepage. Here is &lt;a href=&#34;http://crystal.uta.edu/~park/post/nnsae/&#34; target=&#34;_blank&#34;&gt;an example post&lt;/a&gt;.&lt;br /&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;strong&gt;2/1/2021 Update&lt;/strong&gt;
+Previously, I used mind mapping to see overview of the paper. But as the number of papers grow, it was difficult to see it in the mindmaps (&lt;a href=&#34;https://www.mindmeister.com/1405726945/references&#34; target=&#34;_blank&#34;&gt;mindmeister&lt;/a&gt;, &lt;a href=&#34;https://atlas.mindmup.com/intuinno/artificial_general_intelligence/index.html&#34; target=&#34;_blank&#34;&gt;mindmup&lt;/a&gt;). Thus I switched to notion for the management. Also writing summary posts takes too much time while I still believe it is helpful. Thus I created a default pass for normal papers and an optional pass for highly important papers. Below is my original procedure for the record.&lt;/p&gt;
+
+&lt;h3 id=&#34;my-procedure-original&#34;&gt;My procedure (Original)&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;After you read the paper, move it to google drive.&lt;/li&gt;
+&lt;li&gt;If you have annotation with pen and highlighting marker, replicate it on the file.&lt;/li&gt;
+&lt;li&gt;Add the reference to &lt;a href=&#34;https://www.mindmeister.com/1405726945/references&#34; target=&#34;_blank&#34;&gt;the reference mindmap&lt;/a&gt;. I embedded the mindmap in the post.&lt;/li&gt;
+&lt;li&gt;If there is an interesting pictures, save photos to the google drive Paper figures folders and attach it into the mindmap.
+
+&lt;ul&gt;
+&lt;li&gt;You might change the filename of the captured image such that you can upload it to homepage.&lt;/li&gt;
+&lt;li&gt;Copy those figures to homepage/static/img folder.&lt;br /&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Start summarizing the paper in the mindmap. A few place holders will be following.
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Summary&lt;/strong&gt; What is this paper about?&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Good&lt;/strong&gt; What are good points?&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Bad&lt;/strong&gt; What are my criticism?&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Implication&lt;/strong&gt; How I can use this work? What will be different from my approach?&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Future Readings&lt;/strong&gt; Include some more references&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;After summarizing them, add those summary in the homepage review post. Here is &lt;a href=&#34;http://crystal.uta.edu/~park/post/mapping-the-landscape-of-human-level-agi.md/&#34; target=&#34;_blank&#34;&gt;an example post&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;Finally, if the paper is worth sharing, add the paper to HDILab journal with the link to the summary post such that it can be shared.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Below is my mindmap for the related papers to artificial general intelligence.
+&lt;iframe width=&#34;600&#34; height=&#34;400&#34; frameborder=&#34;0&#34; src=&#34;https://www.mindmeister.com/maps/public_map_shell/1405726945/references?width=600&amp;height=400&amp;z=auto&amp;live_update=1&amp;no_logo=1&#34; scrolling=&#34;no&#34; style=&#34;overflow: hidden; margin-bottom: 5px;&#34;&gt;Your browser is not able to display frames. Please visit &lt;a href=&#34;https://www.mindmeister.com/1405726945/references&#34; target=&#34;_blank&#34;&gt;References&lt;/a&gt; on MindMeister.&lt;/iframe&gt;&lt;div class=&#34;mb-5&#34;&gt;&lt;a href=&#34;https://www.mindmeister.com/1405726945/references&#34; target=&#34;_blank&#34;&gt;References&lt;/a&gt; by &lt;a href=&#34;https://www.mindmeister.com/users/channel/42813067&#34; target=&#34;_blank&#34;&gt;Deokgun Park&lt;/a&gt;&lt;/div&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Paper Summary: Online learning and generalization of parts-based image representations by non-negative sparse autoencoders</title>
+      <link>http://crystal.uta.edu/~park/post/nnsae/</link>
+      <pubDate>Wed, 05 Aug 2020 00:00:00 -0500</pubDate>
+      
+      <guid>http://crystal.uta.edu/~park/post/nnsae/</guid>
+      <description>
+
+&lt;p&gt;This is the paper review of &lt;a href=&#34;https://www.sciencedirect.com/science/article/pii/S0893608012001451?casa_token=WYDIO2ntGhQAAAAA:B29Tp8xM_QevE28SHvAOVdn8nXVPCaGSOdZ90BY4vAI-YXUv4gYbknpJt_-TLjiWB7ki2pHHe4M&#34; target=&#34;_blank&#34;&gt;the following paper&lt;/a&gt;.&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Lemme, Andre, René Felix Reinhart, and Jochen Jakob Steil. &amp;ldquo;Online learning and generalization of parts-based image representations by non-negative sparse autoencoders.&amp;rdquo; Neural Networks 33 (2012): 194-203.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;This paper presents a variation of autoencoder (AE) models. It is estimated that the human visual cortex uses basis functions to transform an input image to sparse representation&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;.&lt;br /&gt;
+Autoencoders seem to be good models for the process because they can produce embedding representation with different dimensions from the original signal. Training of the model is also easy because we don&amp;rsquo;t need labels for the inputs but use the difference from the original input and the recovered input from embedding as an error function.&lt;/p&gt;
+
+&lt;p&gt;There are many variations for the autoencoders, including variational autoencoder (VAE) and sparse AE. VAE is for the interpretability. Conceptually, the high-dimensional space of the embedding can have an arbitrarily complex pattern. There can be many undefined spaces.   For example, let&amp;rsquo;s say there are four dimensions for embedding and it happens to represent a cat with [0.5 0.5 0.5 0.5 0.8] and a dog with [0.5 0.5 0.5 0.5 0.2]. But there can be no meaning between 0.2 and 0.8 for the last dimension. It becomes especially problematic when you want to generate some data by randomly sampling from embedding space. It will be embarrassing if there are no meaningful data to most of the embedding space. VAE solves this problem by adding the constraint that the embedding values should follow a gaussian normal distribution. Technically, you add additional loss term for KL divergence between the distribution of embedding values and gaussian distribution.  You can see an online demo of generating an image from Doom by changing latent dimensions &lt;a href=&#34;https://worldmodels.github.io/&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Another meaningful variation is that making the embedding sparse. Here we want only a small portion of embeddings to be nonzero while standard AE and VAE generate dense representation. Why do we want sparse representation? Sparsity has many benefits.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;It is easier to interpret. You can think of each nonzero value as the feature present in the data. For interpretability, non-negativity helps, too. What will be the meaning of the negative yellow? Or negative car? My favorite representation is a sparse binary representation, which maximizes the interpretability.&lt;/li&gt;
+&lt;li&gt;It is more biologically plausible. At any given point, about two percents of the neural cells are active. Of course, AI does not need to use the same mechanism as the rockets, helicopters, or jet airplanes do not use the flipping mechanism to fly as birds do.&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;According to Olshausen and Field (2004), it can minimize the chance for destructive cross talk.&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;According to Ranzato, Boureau, and LeCun (2008), it improves the linear separability.&lt;br /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;L1 loss called lasso loss is commonly used to build a sparse model. Andrew Ng used the KL divergence between a binominal distribution and the activation frequency of embedding values.  It has one additional parameter that allows us to set the activation probability. Therefore, we can set the activation probability of embedding at two percent that is about the same as how frequently the biological neural cells activate.&lt;/p&gt;
+
+&lt;p&gt;This paper presents a non-negative sparse autoencoder (NNSAE). Compared to other AE variants, NNSAE has the following benefits for my heterarchical prediction memory (HPM).&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Non-negative&lt;/li&gt;
+&lt;li&gt;Sparse&lt;/li&gt;
+&lt;li&gt;Online&lt;/li&gt;
+&lt;li&gt;Sparsity adds a built-in regulation to prevent overfitting&lt;/li&gt;
+&lt;li&gt;Local&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Non-negative matrix factorization (NMF) has been used to get non-negative embedding. However, this method relies on iterative fitting and does not work well with streaming inputs. NNSAE uses a larger update rate for negative weights than positive weights. It penalizes the negative weights and forces the weights to be positive.  The logistic activation function has been used to make the output values between zero and one. In NNSAE, the logistic activation function is shifted such that only a certain percentage of the cells are activated. The below figure explains this concept visually.&lt;/p&gt;
+
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;./img/NNSAE1.png&#34; width=&#34;100%&#34; /&gt;
+
+
+
+&lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; class=&#34;numbered&#34;&gt;
+  &lt;h4&gt;This figure explains how NNSAE generates a sparse code by shifting sigmoid function by parameter a and b. As can be seen in right figure, the shifted sigmoid generates a sparse code given gaussian input.&lt;/h4&gt;
+  
+&lt;/figcaption&gt;
+
+&lt;/figure&gt;
+
+&lt;p&gt;The sparsity constraint of the model enforces the regularization. In the synthetic toy dataset, where the ground-truth basis dimension is 18, we can see that the additional hidden dimensions are not used, as we can see when we use embedding dimensions larger than 18.&lt;/p&gt;
+
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;./img/NNSAE4.png&#34; width=&#34;100%&#34; /&gt;
+
+
+
+&lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; class=&#34;numbered&#34;&gt;
+  &lt;h4&gt;This sysnthetic dataset has 18 basis. As we can see in (d) and (e), when there are more hidden units, the model only uses 18 basis and does not use the remainder.&lt;/h4&gt;
+  
+&lt;/figcaption&gt;
+
+&lt;/figure&gt;
+
+&lt;p&gt;Similarly, for MNIST and CBCL face dataset, we can see that the number of used neurons does not explode beyond as the standard AE and sparsity is met.&lt;/p&gt;
+
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;./img/NNSAE5.png&#34; width=&#34;100%&#34; /&gt;
+
+
+
+&lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; class=&#34;numbered&#34;&gt;
+  &lt;h4&gt;In (a) and (b), we can see that the number of used neurons for hidden unit saturates, even though the number of hidden units increase. In &amp;copy;, we can see the standard AE uses all the basis, while the NNSAE uses only subset of basis and the remainder is near zero as seen in (d).&lt;/h4&gt;
+  
+&lt;/figcaption&gt;
+
+&lt;/figure&gt;
+
+&lt;p&gt;As the algorithm is online, we can change the dataset in the middle of the training and expect the model to adapt to the new dataset, as can be seen below.&lt;/p&gt;
+
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;./img/NNSAE2.png&#34; width=&#34;100%&#34; /&gt;
+
+
+
+&lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; class=&#34;numbered&#34;&gt;
+  &lt;h4&gt;The algorithm is online, therefore when we switch the dataset, it adapts to new dataset.&lt;/h4&gt;
+  
+&lt;/figcaption&gt;
+
+&lt;/figure&gt;
+
+&lt;h2 id=&#34;use-of-nnsae-for-hpm&#34;&gt;Use of NNSAE for HPM&lt;/h2&gt;
+
+&lt;p&gt;I conjecture that each module predicts what will come as an input for the next time step. It is similar to AE that we can train the model minimizing the difference between the current input and recovered output. However, it becomes difficult to predict far in the future. I want to overcome this limitation by having a hierarchy of layers predicting the next time step. Each layer predicts the next time step and aggregates the four-time steps. This aggregated input is then reduced to the dimension of single input using NNSAE. The upper layer feeds back this information to the lower layer. Therefore lower layers have two inputs. One is the actual input, and the other is context.&lt;/p&gt;
+
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;./img/HPM2.png&#34; width=&#34;100%&#34; /&gt;
+
+
+
+&lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; class=&#34;numbered&#34;&gt;
+  &lt;h4&gt;The diagram for HPM model&lt;/h4&gt;
+  
+&lt;/figcaption&gt;
+
+&lt;/figure&gt;
+
+&lt;p&gt;As a concrete example in the language modeling application, let&amp;rsquo;s say that you have a stream of characters. You might have three layers working on different time scales. The lowest layer L1 gets the characters encoded as sparse binary codes. In my experiment, I used 512 as the embedding size and only 10 bits, which is about two percents are on, and the rest is off.  L1 tries to predict the next character by using a multilayer perceptron (MLP). But inherently, you cannot predict the next character given only the current character. For example, &amp;ldquo;a&amp;rdquo; or &amp;ldquo;h&amp;rdquo; can follow &amp;ldquo;c&amp;rdquo; as &amp;ldquo;cat&amp;rdquo; or &amp;ldquo;choice&amp;rdquo;. Context from the upper layer helps here. For L1, context from L2 contains information about the last four characters. Therefore L1 can predict the next characters better. Now, L1 sends a bottom-up feedforward signal by compressing embedding for four characters into 512 bits with ten on bits. This function is called &amp;ldquo;pooling,&amp;rdquo; and I used NNSAE for implementing the pooler.&lt;/p&gt;
+
+&lt;p&gt;The below figure shows my language model&amp;rsquo;s performance trained over a short text file and a large text file.&lt;/p&gt;
+
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;./img/NNSAE6.png&#34; width=&#34;100%&#34; /&gt;
+
+
+
+&lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; class=&#34;numbered&#34;&gt;
+  &lt;h4&gt;The performance of NNSAE for the character level language modeling. We used three layers. Each layer has a predictor and a pooler. Pooler uses NNSAE.&lt;/h4&gt;
+  
+&lt;/figcaption&gt;
+
+&lt;/figure&gt;
+
+&lt;p&gt;While the performance of the pooler or NNSAE is satisfactory, the predictor performance is not. Below are some of my future strategy to make the predictor faster and better.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Deep Sparse Rectifier Neural Networks by Xavier Glorot, Antoine Bordes, Yoshua Bengio.&lt;/li&gt;
+&lt;li&gt;Sparse deep belief net model for visual area V2 by Honglak Lee, Chaitanya, Ekanadham,  Andrew Ng&lt;/li&gt;
+&lt;li&gt;Synergies between Intrinsic and Synaptic Plasticity in Individual Model Neurons by Jochen Triesch&lt;/li&gt;
+&lt;li&gt;Echo State Networks&lt;/li&gt;
+&lt;li&gt;L1 Loss&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Below is my mindmap for the related papers to artificial general intelligence.
+&lt;iframe width=&#34;600&#34; height=&#34;400&#34; frameborder=&#34;0&#34; src=&#34;https://www.mindmeister.com/maps/public_map_shell/1405726945/references?width=600&amp;height=400&amp;z=auto&amp;live_update=1&amp;no_logo=1&#34; scrolling=&#34;no&#34; style=&#34;overflow: hidden; margin-bottom: 5px;&#34;&gt;Your browser is not able to display frames. Please visit &lt;a href=&#34;https://www.mindmeister.com/1405726945/references&#34; target=&#34;_blank&#34;&gt;References&lt;/a&gt; on MindMeister.&lt;/iframe&gt;&lt;div class=&#34;mb-5&#34;&gt;&lt;a href=&#34;https://www.mindmeister.com/1405726945/references&#34; target=&#34;_blank&#34;&gt;References&lt;/a&gt; by &lt;a href=&#34;https://www.mindmeister.com/users/channel/42813067&#34; target=&#34;_blank&#34;&gt;Deokgun Park&lt;/a&gt;&lt;/div&gt;&lt;/p&gt;
+&lt;div class=&#34;footnotes&#34;&gt;
+
+&lt;hr /&gt;
+
+&lt;ol&gt;
+&lt;li id=&#34;fn:1&#34;&gt;Olshausen, Bruno A., and David J. Field. &amp;ldquo;Sparse coding with an overcomplete basis set: A strategy employed by V1?.&amp;rdquo; Vision research 37.23 (1997): 3311-3325.
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:1&#34;&gt;&lt;sup&gt;^&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Paper Summary: Universal Intelligence: A Definition of Machine Intelligence</title>
+      <link>http://crystal.uta.edu/~park/post/universal-intelligence/</link>
+      <pubDate>Wed, 05 Aug 2020 00:00:00 -0500</pubDate>
+      
+      <guid>http://crystal.uta.edu/~park/post/universal-intelligence/</guid>
+      <description>
+
+&lt;p&gt;This is the paper review of &lt;a href=&#34;https://link.springer.com/content/pdf/10.1007/s11023-007-9079-x.pdf&#34; target=&#34;_blank&#34;&gt;the following paper&lt;/a&gt;.&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Legg, Shane, and Marcus Hutter. &amp;ldquo;Universal intelligence: A definition of machine intelligence.&amp;rdquo; Minds and machines 17.4 (2007): 391-444.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;While I was working on new paper on the language acquisition test, I needed a definition of intelligence. I had my own simple informal definition as an ability to behave in a beneficial way according to the sensory input. Though I am happy with my definition, academia is all about not reinventing the wheel and giving a proper credit to original authors.&lt;/p&gt;
+
+&lt;p&gt;At first I was worried because intelligence is an abstract concept and there have been a lot of ideas in the history of AI and psychology. R. J. Sternberg said that&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Viewed narrowly, there seems to be almost as many definitions of intelligence as there were experts asked to define it.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Some pose practical stance that the definition is not important as long as we can recognize it when we see. Chris Eliasmith suggested that &lt;strong&gt;cognition&lt;/strong&gt; is to researchers what &lt;strong&gt;pornography&lt;/strong&gt; was to justice Potter Stewart in his book&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;.&lt;br /&gt;
+Potter Stewart said&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;I shall not today attempt further to define &lt;strong&gt;pornography&lt;/strong&gt; and perhaps I could never succeed in intelligibly doing so. But I know it when I see it.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;We could replace &lt;strong&gt;cognition&lt;/strong&gt; with &lt;strong&gt;intelligence&lt;/strong&gt; without loss of generality.&lt;/p&gt;
+
+&lt;p&gt;Therefore when I found the paper by Shane Legg and Marcus Hutter, it was quite pleasant relief. Authors surveyed many definitions from the literature. Actually there is a companion paper&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:2&#34;&gt;&lt;a href=&#34;#fn:2&#34;&gt;2&lt;/a&gt;&lt;/sup&gt; which shows the collection of the definitions of intelligence. In that paper, they collected 71 definitions from the dictionary, psychologist, and AI researchers.&lt;/p&gt;
+
+&lt;p&gt;Based on this survey, they propose an informal definition of intelligence as following.&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Intelligence&lt;/strong&gt; measures an agent&amp;rsquo;s ability to achieve goals in a wide range of environments.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;What is nice about this definition is that this definition is &lt;strong&gt;universal&lt;/strong&gt; meaning that it can be applied to humans, animals, and computer systems. Historically, intelligence is the term to describe human intelligence especially in the context of human intelligence test. Therefore many definitions and tests are anthropocentric. Many definitions also try to list the specific elements of the intelligence. It is like for definition of speed, listing the elements of vehicle such as engine, tire, and suspension and so on.
+One such example is following:&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;&amp;ldquo;Intelligence is a very general mental capability that, among other things, involves the ability to reason, plan, solve problems, think abstractly, comprehend complex ideas, learn quickly and learn from experience. &amp;ldquo;&lt;/em&gt; &lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:3&#34;&gt;&lt;a href=&#34;#fn:3&#34;&gt;3&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Here the ability to reason, plan, solve problems, think abstracly, etc. are all examples of the components for intelligence. Especially &lt;em&gt;learning&lt;/em&gt; is a major component, where many people think essential for intelligence. But authors insist that learning is just one possible strategy to achieve goals in a wide range of environments even though it is an important and widely adopted in human and animals. And I agree with this view. For example, a worm can respond to various sensory input to achieve goals. But the individual agent does not learn but the species as a whole optimizes the neural circuitry with genetic evolution.&lt;/p&gt;
+
+&lt;p&gt;Another common pattern is shifting the problem to other abstract terms such as thinkging, creativity, consiousness or imagination. The follwoing examples shows this pattern:&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;The ability to carry on abstract thinking. (L. M. Terman)&lt;/p&gt;
+
+&lt;p&gt;The capacity for knowledge, and knowledge possessed. (V.A.C. Henmon)&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;The authors also try to derive a formal mathematical definition from the informal definition. Authors builds on the reinforcement learning (RL) framework of environment, agent, reward, observation, and action.
+The following figure shows a typical setup in the RL.&lt;/p&gt;
+
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;./img/agent-environment-reward.png&#34; width=&#34;100%&#34; /&gt;
+
+
+
+&lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; class=&#34;numbered&#34;&gt;
+  &lt;h4&gt;Environment provides the observation and reward and the agents processes it to select appropriate actions&lt;/h4&gt;
+  
+&lt;/figcaption&gt;
+
+&lt;/figure&gt;
+
+&lt;p&gt;Given an environment $\mu$ and agent $\pi$, the expected future value is the sum of discounted rewards into the infinite future where $r_i$ is the reward in cycle i of a given hstory, $\gamma$ is the discount rate, and $\Gamma$ is the normalizing constant $\Gamma := \sum_{i=1}^{\infty}\gamma^i$.&lt;/p&gt;
+
+&lt;p&gt;$$V^{\pi}_{\mu}(\gamma):=\frac{1}{\Gamma}\mathbf E\left(\sum_{i=1}^{\infty}\gamma^ir_i\right) $$&lt;/p&gt;
+
+&lt;p&gt;This is the expected total reward for one environment. How we can represent diverse environment? More challenging question is how we can quantify an easy environment and a complex environment. Also how should we assign an weight to the performance (expected reward) for easy and difficult environment?&lt;/p&gt;
+
+&lt;p&gt;The main idea authors suggest is that the complexity of environments can be expressed with Kolmogorov complexity of the binary string that describes the environment.&lt;/p&gt;
+
+&lt;p&gt;$$ K(x) := {min}_p \{ l(p): U(p) = x \} $$&lt;/p&gt;
+
+&lt;p&gt;You can think of the binary string p as the program to simulate the environment for the reference universal Turing machine U. Kolmogorov complexity is then the minimum length of the program that runs in Turing machine U.  Generally if the length of program is short, the program is simple. And in this case, the fact that we have to find the minimum length makes the computation intractable for non-trivial case.  You can think Kolomgorov complexity is similar with minimum description length (MDL) for program.&lt;/p&gt;
+
+&lt;p&gt;When there are many environments, what is the probability distribution for the environment? One idea is that the probability of the existence of environment $p_{\mu}$ might be inversely proportional to the exponential of the length or $p_{\mu} \propto 2^{-K(\mu)}$. You might imagine randomly appending 0 or 1 to binary string to build a program. Therefore we can express intelligence as the expected performance of agent $\pi$ with respect to the probability of environment $ 2^{-K(\mu)}$ over the space of all environments E.&lt;/p&gt;
+
+&lt;p&gt;$$ \Gamma(\pi) := \sum_{\mu \in E}2^{-K(\mu)}V^{\pi}_{\mu}$$&lt;/p&gt;
+
+&lt;p&gt;Authors define this as the &lt;em&gt;universal intelligence&lt;/em&gt; of the agent $\pi$.
+Authors then compare the intelligence of following agents.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;A random agent&lt;/li&gt;
+&lt;li&gt;A very specialized agent&lt;/li&gt;
+&lt;li&gt;A general but simple agent&lt;/li&gt;
+&lt;li&gt;A simple agent with more history&lt;/li&gt;
+&lt;li&gt;A simple forward looking agent&lt;/li&gt;
+&lt;li&gt;A very intelligent agent&lt;/li&gt;
+&lt;li&gt;A super intelligent agent&lt;/li&gt;
+&lt;li&gt;A Human&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;It is quite nice to see that a very specialized agent gets lower intelligence score than a general but simple agent. Later the authors surveys the tests for the intelligence because the definition and the test are closely related in many cases. The list of tests are also useful for my research.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Turing test and derivatives: Common criticism is that Turing test is not &lt;em&gt;necessary&lt;/em&gt; to establish intelligence. Because the required knowledge level is too high, it cannot offer much guidance to the AI research. Also it depends on the human judges who are not reliable and reproducible for repeated tests.&lt;/li&gt;
+&lt;li&gt;Compression tests: Compression can also represent the intelligence. An example would be summarizing papers, describing movies and so on.&lt;/li&gt;
+&lt;li&gt;Linguistic Complexity: HAL project propose to &amp;ldquo;measure a system&amp;rsquo;s level of conversational ability by using techniques developed to measure the linguistic ability of children such as vocabulary size, length of utterances, response types, syntactic complexity and so on.&lt;/li&gt;
+&lt;li&gt;Multiple Cognitive Abilities: Toddler turing test tries to build a young child in a similar set up to Turing test. A2I2 project tries to test performance of a small mammal. I would need to check this tests.&lt;/li&gt;
+&lt;li&gt;Competitive Games: The goal is to build an AI that can do well on multiple games. This approach is popular nowadays.&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;Collection of Psychometric Tests: This aims to pass the intelligence test for human such as Wechsler adult intelligence scale.&lt;/li&gt;
+&lt;li&gt;C-Test: It is similar concept to universal intelligence. But the test environment is limited to sequence prediction and sequence abduction tasks. Using Levin complexity, we can measure the complexity of the each problems.&lt;/li&gt;
+&lt;li&gt;Smith&amp;rsquo;s Test: An algorithm generates a series of problems for an agent. When the answer is wrong, the agent might try another answer to the same problem.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;And authors suggest useful properties for tests of machine intelligence and score each tests according to the properties. Below is the summary.&lt;/p&gt;
+
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;./img/tests-for-ai.png&#34; width=&#34;100%&#34; /&gt;
+
+
+
+&lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; class=&#34;numbered&#34;&gt;
+  &lt;h4&gt;Comparison of various tests for machine intelligence.&lt;/h4&gt;
+  
+&lt;/figcaption&gt;
+
+&lt;/figure&gt;
+
+&lt;p&gt;Please note that Kolomogorov complexity is intractable for non-trivial case, therefore universal intelligence is a definition not test.&lt;/p&gt;
+
+&lt;p&gt;If we apply this metric to the Language acquisition test, I think the following can be claimed.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Valid&lt;/strong&gt;: debatable because it only measures language acquisition but we claim it is the core of human-level intelligence&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Informative&lt;/strong&gt;: debatable for we provide many scores written as vectors.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Wide Range&lt;/strong&gt;: No&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;General&lt;/strong&gt;: No. because we target for human-level intelligence.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Dynamic&lt;/strong&gt;: Yes because the agent learn and adapt over time&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Unbiased&lt;/strong&gt;: No because SEDRo is biased to human in western culture.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Fundamental&lt;/strong&gt;: Yes&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Formal&lt;/strong&gt;: No because it is difficult to judge whether an agent has acquired language or not.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Objective&lt;/strong&gt;: No because we have to rely on the human judges.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Fully Defined&lt;/strong&gt;: No. The environment and the objective is not fully defined.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Universal&lt;/strong&gt;: No. It is anthropocentric.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Practical&lt;/strong&gt;: Yes because we are using simulator.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Test vs Def&lt;/strong&gt;: Test.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Finally in the paper, the authors response to common criticisms. Among those, I liked how they respond to &amp;ldquo;Blockhead&amp;rdquo; argument and &amp;ldquo;Chinese room&amp;rdquo; argument. To introduce those arguments to the readers, &amp;ldquo;Blockhead&amp;rdquo; argument is that a machine seems to be intelligent to pass the Turing test, but it it is in fact no more than just a big look-up table of questions and answers. This machine with simple look-up table does not seems to be intelligent, isn&amp;rsquo;t it? The &amp;ldquo;Chinese room&amp;rdquo; argument is similar. The agent in the room responds to the questions in chinese. But the agent cannot understand chinese character. But it has a big book of Chinese phrasebooks with questions and matching answers. Therefore when the agent is given the question in the chinese letter, the agent will simply search the book for the same phrase and write answer and send it back. Even though the agent pass the Turing test, does the agent &lt;em&gt;understand&lt;/em&gt; chinese?&lt;/p&gt;
+
+&lt;p&gt;The authors claim that as long as the agent shows high $\Gamma$ value, the internal working does not matter.&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;&amp;hellip; it is not even clear to us how to define &lt;em&gt;understandings&lt;/em&gt; if its presence has no measurable effects. &amp;hellip; if &lt;em&gt;understanding&lt;/em&gt; does have a measurable impact on an agent&amp;rsquo;s performance in some well defined situations, then it is of interest to us. In which case, because $\Gamma$ measures performance in all well defined situations, it follows that $\Gamma$ is in part a measure of how much understanding an agent has.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Personally I think these arguments are harmful influence of philosophers to engineering discipline. I agree with authors. So far, I have talked about the contents of the paper and what I liked in the paper. Now let&amp;rsquo;s talk about my criticism.&lt;/p&gt;
+
+&lt;h2 id=&#34;my-criticism&#34;&gt;My criticism&lt;/h2&gt;
+
+&lt;p&gt;While I agree with their informal definition, my main criticism lies in their formal definition. I think it has a faulty assumption that rewards are equivalent to the goals. Reward system is just one of a trick to achieve goals.&lt;/p&gt;
+
+&lt;p&gt;Intelligence is the concept that originated from biological agent. Therefore goals are natural to explain in perspective of biological agent. Generally we can say that the goal is to spread gene. Intelligence is one of strategy to achieve this goal. What are other strategies? Virus or bacteria have the strategy for lowering the cost of replication by hijacking to other system. Plant or phytoplankton choose the strategy of being self sufficient in addition to the lowering the cost of replication. Intelligence is more expensive strategy than these. Intelligence is selecting the behavior that will increase the chance of spreading gene according to the sensory input.  This requires sensory system and central nerve system (CNS) or brain to process sensory information and control the actuators accordingly.&lt;/p&gt;
+
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;./img/intelligence-sense-act-think.png&#34; width=&#34;100%&#34; /&gt;
+
+
+
+&lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; class=&#34;numbered&#34;&gt;
+  &lt;h4&gt;Non-Intelligent vs Intelligent biological agents. Please note intelligence requires the sensory system and neural information processing system&lt;/h4&gt;
+  
+&lt;/figcaption&gt;
+
+&lt;/figure&gt;
+
+&lt;p&gt;However, at first there are different levels in intelligence strategy. Agents such as earthworms have simple brains. It has hardcoded the mapping from sensory system to the corresponding actions using simple look-up table. This lookup table is updated with evolution. Therefore while there was no learning in individual agent, the species as a whole improved this hardcoded function. A good example will be an earthworm. Charles Darwin studied earthworms for over 30 years in his house and his book &lt;em&gt;The formation of vegetable mould, throuth the action of worms&lt;/em&gt; sold more copies than &lt;em&gt;the origin of species&lt;/em&gt;&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:4&#34;&gt;&lt;a href=&#34;#fn:4&#34;&gt;4&lt;/a&gt;&lt;/sup&gt;. Earthworms have light receptors and vibration sensors. They move according to the light condition or the vibration caused by the moles.  While this is drastic improvement over the random spreading of the phytoplankton, the problem with this approach is that adaptation is very slow because the update to the neural circuit happens through evolution.&lt;/p&gt;
+
+&lt;p&gt;The next level in the intelligence arms race is individual-level learning. Relying on evolution is too slow. If an individual agent can learn new rules such as a new type of food, it can surely increase the probability of successful gene spreading.  However, to enable learning at the individual level, two functional modules are required.&lt;/p&gt;
+
+&lt;p&gt;The first is a memory to store newly developed rules. I conjecture the neocortex mainly serves this memory function. The second module is a reward system to judge the merit of the state. We stated that the goal of a biological agent is to spread genes. However, the correct assessment is not possible at the individual agent level. For example, an agent laid many eggs in a hostile environment that no descendant will survive. Still, the agent cannot know this because it succumbed before this happened. Therefore we need a function to indicate whether the current stimulus or state is good or bad. A reward system fills this gap by providing a proxy signal to approximate the probability of achieving goals. If an agent eats food, the stomach and blood glucose level information enter the reward center, and it generated a positive reward signal meaning this will be perhaps good for achieving goals. The signal indicates the new rule is good and needs to be stored in the memory. Later at a similar state, the newly added rule will be executed, which is the process of learning.&lt;/p&gt;
+
+&lt;p&gt;However, this implies that the environment does not provide a reward. Instead, it is an agent that produces a reward signal, which is the estimate of the current state by the agent about how valuable it is to achieve the ultimate goals.
+A dollar bill can be rewarding for some cultures but might not generate any reward to the tribal human who has never seen any money before. As for another example, when we eat three burgers for lunch, the reward for first and third burger will be different, even though it is the same object for the sake of the environment.&lt;/p&gt;
+
+&lt;p&gt;Therefore, the diagram Figure 1 should be updated as following.&lt;/p&gt;
+
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;./img/revised-agent-environment.png&#34; width=&#34;100%&#34; /&gt;
+
+
+
+&lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; class=&#34;numbered&#34;&gt;
+  &lt;h4&gt;Revised relationship of the agent and environment. Environment provides an observation. Some observation is used for the reward system in the agent. The resulting reward signal and the sensory information is fed into the control system.&lt;/h4&gt;
+  
+&lt;/figcaption&gt;
+
+&lt;/figure&gt;
+
+&lt;p&gt;Many different factors affect the value of the current state, such as physical fatigue, appetite, sex, or safety. A tired agent may crave both rest and sex at the same time. It looks like estimating the final value of the current state considering various factors itself is the challenging problem, and nature is again using evolution to experiment with the optimal reward function.&lt;/p&gt;
+
+&lt;p&gt;Admittedly, authors are aware of this issue. Below are quotes from the discussions.&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Strictly speaking, reward is an interpretation of the state of the environment. In this case, the environment is the universe, and clearly the universe does not have any notion of reward for particular agents. In humans this interpretation is internal, for example, that is experienced when you touch something hot. In which case, maybe it should really be a part of the agent rather than the environment? &amp;hellip;
+A more accurate framework would consist of an agent, an environment and a separate goal system that interpreted the state of the environment and rewarded the agent appropriately.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Finally, I conjecture that human-level intelligence is not achievable with the maximizing the reward approach. I am planning to explain this in my new paper. The key idea is that while learning with reward is better than using evolution to improve your brain, it is still limited because the biological agent must experience the stimulus to learn it first hand. However, if you think about the hostile nature, learning with direct experience is a dangerous strategy, and what you can learn is limited.  For example, a rabbit cannot try random action in front of the lion. It will be too late, and the rabbit&amp;rsquo;s experience cannot be transferred to other rabbits. Human-level intelligence tries to overcome this limitation by learning from others&amp;rsquo; experiences with language. Language learning is related to the reward.  As a summary, below is my hypothetical level of intelligence diagram.&lt;/p&gt;
+
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;./img/three-level-of-intelligence.png&#34; width=&#34;100%&#34; /&gt;
+
+
+
+&lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; class=&#34;numbered&#34;&gt;
+  &lt;h4&gt;The three level of intelligence.&lt;/h4&gt;
+  
+&lt;/figcaption&gt;
+
+&lt;/figure&gt;
+
+&lt;p&gt;Below is my mindmap for the related papers to artificial general intelligence.
+&lt;iframe width=&#34;600&#34; height=&#34;400&#34; frameborder=&#34;0&#34; src=&#34;https://www.mindmeister.com/maps/public_map_shell/1405726945/references?width=600&amp;height=400&amp;z=auto&amp;live_update=1&amp;no_logo=1&#34; scrolling=&#34;no&#34; style=&#34;overflow: hidden; margin-bottom: 5px;&#34;&gt;Your browser is not able to display frames. Please visit &lt;a href=&#34;https://www.mindmeister.com/1405726945/references&#34; target=&#34;_blank&#34;&gt;References&lt;/a&gt; on MindMeister.&lt;/iframe&gt;&lt;div class=&#34;mb-5&#34;&gt;&lt;a href=&#34;https://www.mindmeister.com/1405726945/references&#34; target=&#34;_blank&#34;&gt;References&lt;/a&gt; by &lt;a href=&#34;https://www.mindmeister.com/users/channel/42813067&#34; target=&#34;_blank&#34;&gt;Deokgun Park&lt;/a&gt;&lt;/div&gt;&lt;/p&gt;
+&lt;div class=&#34;footnotes&#34;&gt;
+
+&lt;hr /&gt;
+
+&lt;ol&gt;
+&lt;li id=&#34;fn:1&#34;&gt;&lt;em&gt;How to Build a Brain: A Neural architecture for biological cognition&lt;/em&gt;.
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:1&#34;&gt;&lt;sup&gt;^&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&#34;fn:2&#34;&gt;Legg, Shane, and Marcus Hutter. &amp;ldquo;A collection of definitions of intelligence.&amp;rdquo; Frontiers in Artificial Intelligence and applications 157 (2007): 17. &lt;a href=&#34;https://core.ac.uk/download/pdf/156626191.pdf&#34; target=&#34;_blank&#34;&gt;link&lt;/a&gt;
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:2&#34;&gt;&lt;sup&gt;^&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&#34;fn:3&#34;&gt;Gottfredson, L. S. (1997). Mainstream science on intelligence: An editorial with 52 signatories, history, and bibliography. Intelligence, 24(1), 13-23
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:3&#34;&gt;&lt;sup&gt;^&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&#34;fn:4&#34;&gt;Making sense of earthworm senses from Earthwormwatch.org. &lt;a href=&#34;https://www.earthwormwatch.org/blogs/making-sense-earthworm-senses&#34; target=&#34;_blank&#34;&gt;link&lt;/a&gt;
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:4&#34;&gt;&lt;sup&gt;^&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Lecture Summary: AI-Horizons Colloquium by Yoshua Bengio</title>
+      <link>http://crystal.uta.edu/~park/post/yoshua-bengio/</link>
+      <pubDate>Fri, 22 May 2020 00:00:00 -0500</pubDate>
+      
+      <guid>http://crystal.uta.edu/~park/post/yoshua-bengio/</guid>
+      <description>
+
+&lt;p&gt;This is the review of &lt;a href=&#34;https://www.youtube.com/watch?v=s3AUUYUXsP8&#34; target=&#34;_blank&#34;&gt;the following video&lt;/a&gt;.&lt;/p&gt;
+
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;//www.youtube.com/embed/s3AUUYUXsP8&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+
+&lt;blockquote&gt;
+&lt;p&gt;AI Horizons Colloquium, Beyond IID: Meta-Learning Disentangled Causal Variables and How the World Works by Yoshua Bengio, September 17, 2019, Cambridge&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;IBM has less reputation in the new renessance of AI research compared to its younger competitors such as Google and Facebook. To  make the competition meaningful, IBM invested a lot of money with MIT, another big brand name that does not have a strong hold in AI. Don&amp;rsquo;t get me wrong. MIT and IBM had a lot of work in the old AI day&amp;rsquo;s. But their contribution has diminished over the repeated AI winters and when the new AI renessance came with deep learning, they had a slow start. Let&amp;rsquo;s see how this goes.
+This lecture is from AI Horizons Colloquium by IBM MIT AI research lab.&lt;/p&gt;
+
+&lt;p&gt;Yoshua Bengio is &lt;strong&gt;like a beacon that calls talented researchers around the world&lt;/strong&gt; and &lt;strong&gt;feels like having 400-500 graduate students that his new work appears in the archive every week&lt;/strong&gt;  according to Geoffrey Hinton.
+What is remarkable about him is that even though he was one of the people who brough the deep learning, he acknowledges its limitation and tries to overcome.
+There are many fragmented community who studies Artificial General Intelligence (AGI).
+It is easy for them to begin with the limitation of current deep learning.
+What is ironical is that there are very high chance that Yoshua Bengio&amp;rsquo;s group will achieve the AGI, too.
+It is because of two things. First, his group is well supported and has lots of resources in terms of the talent.
+Second, his group has a strong background in the mathematics which might be essential for the development of the &lt;strong&gt;universal algorithm&lt;/strong&gt;.
+Compared to his group, other AGI researchers such as Jeff Hawkins or Ben Goertzel looks like an independent inventor competiting with a Fortune 500 company.&lt;/p&gt;
+
+&lt;p&gt;His lecture focuses on the roadmaps to the AGI even though he never mentions it.
+His lecture contained many lessons for models and environments that our group is pursuing.&lt;/p&gt;
+
+&lt;h3 id=&#34;environments-side&#34;&gt;Environments side&lt;/h3&gt;
+
+&lt;p&gt;We don&amp;rsquo;t have a good simulator of the real world especially involving humans.&lt;/p&gt;
+
+&lt;p&gt;And it is crucial that environment changes continuosly because the changes in the distribution give us what is the underlying causal structure.&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Nature does not shuffle environments, we shouldn&amp;rsquo;t.
+L. Bottou ICML keynote&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Those problems are what our group tries to solve.&lt;/p&gt;
+
+&lt;h3 id=&#34;model-side-dim&#34;&gt;Model side (DIM)&lt;/h3&gt;
+
+&lt;p&gt;His group is about models, so there are much more works going on that side.&lt;/p&gt;
+
+&lt;h4 id=&#34;deep-infomax-dim&#34;&gt;Deep InfoMax (DIM)&lt;/h4&gt;
+
+&lt;p&gt;This is interesting twist on the intrinsic rewards formulation. Simple intrinsic reward fomulation begins with predicting next state.
+However, using maximum likelihood estimator (MLE) does not work well. Rather by maximizing the mutual information from current state and next state can be an alternative fomulation.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Hjelm, R. Devon, et al. &amp;ldquo;Learning deep representations by mutual information estimation and maximization.&amp;rdquo; arXiv preprint arXiv:1808.06670 (2018).&lt;/li&gt;
+&lt;li&gt;Anand, Ankesh, et al. &amp;ldquo;Unsupervised state representation learning in atari.&amp;rdquo; Advances in Neural Information Processing Systems. 2019.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&#34;attention-as-the-feedback&#34;&gt;Attention as the feedback&lt;/h4&gt;
+
+&lt;p&gt;According to my opinion, the feedback from top-down is one of the most fundamental missing parts in the current fomulation of artificial neural net.
+But maybe the attention can be thought as the feedback signal where higher layer attends  a subset of lower layer.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Bengio, Yoshua. &amp;ldquo;The consciousness prior.&amp;rdquo; arXiv preprint arXiv:1709.08568 (2017).&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&#34;iid-and-disentangling-causal-variables&#34;&gt;IID and Disentangling Causal variables&lt;/h4&gt;
+
+&lt;p&gt;We need higher level independence such as objects from perception. However, constructing higher level representation is challenging.&lt;/p&gt;
+
+&lt;p&gt;One aspect of finding higher level representation is that they are independently controllable from other things. So actions to the world can guide the representation finding.&lt;/p&gt;
+
+&lt;p&gt;Another aspect of causal structure is if we map the independence well, we can update only the subset of network but if we mixed the independence, small change in the distribution leads to the update of the whole network because they are entangled.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Bengio, Yoshua, et al. &amp;ldquo;A meta-transfer objective for learning to disentangle causal mechanisms.&amp;rdquo; arXiv preprint arXiv:1901.10912 (2019).&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Even though there are no mathematical formula in the lecture, you will need a solid background on many mathematical concepts such as mutual information, generative adversarial network, probabilistic graphical model.&lt;/p&gt;
+
+&lt;p&gt;Below is my mindmap for the related papers to artificial general intelligence.&lt;/p&gt;
+
+&lt;p&gt;&lt;iframe width=&#34;600&#34; height=&#34;400&#34; frameborder=&#34;0&#34; src=&#34;https://www.mindmeister.com/maps/public_map_shell/1411415072/agi?width=600&amp;height=400&amp;z=auto&#34; scrolling=&#34;no&#34; style=&#34;overflow: hidden; margin-bottom: 5px;&#34;&gt;Your browser is not able to display frames. Please visit &lt;a href=&#34;https://www.mindmeister.com/1411415072/agi&#34; target=&#34;_blank&#34;&gt;AGI&lt;/a&gt; on MindMeister.&lt;/iframe&gt;&lt;div class=&#34;mb-5&#34;&gt;&lt;a href=&#34;https://www.mindmeister.com/1411415072/agi&#34; target=&#34;_blank&#34;&gt;AGI&lt;/a&gt; by &lt;a href=&#34;https://www.mindmeister.com/users/channel/42813067&#34; target=&#34;_blank&#34;&gt;Deokgun Park&lt;/a&gt;&lt;/div&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Paper Summary: An Immersive System for Browsing and Visualizing Surveillance Video</title>
+      <link>http://crystal.uta.edu/~park/post/housefly/</link>
+      <pubDate>Fri, 28 Feb 2020 00:00:00 -0600</pubDate>
+      
+      <guid>http://crystal.uta.edu/~park/post/housefly/</guid>
+      <description>
+
+&lt;p&gt;This is the paper review of &lt;a href=&#34;https://dl.acm.org/doi/abs/10.1145/1873951.1874002&#34; target=&#34;_blank&#34;&gt;the following paper&lt;/a&gt;.&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;DeCamp, Philip, George Shaw, Rony Kubat, and Deb Roy. &amp;ldquo;An immersive system for browsing and visualizing surveillance video.&amp;rdquo; In Proceedings of the 18th ACM international conference on Multimedia, pp. 371-380. 2010.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&#34;summary&#34;&gt;Summary&lt;/h3&gt;
+
+&lt;p&gt;I found this paper while searching for the case where there were longitudinal video recording of the infants. There were two previous works. One is &lt;a href=&#34;https://cogdev.sitehost.iu.edu/homeview.html&#34; target=&#34;_blank&#34;&gt;the HomeView project&lt;/a&gt; by Chen Yu and Linda Smith.  In HomeView project, they installed a action cam in the hat of the infants and recorded 6 hours per day for years for multiple families. The other is the &lt;a href=&#34;https://www.media.mit.edu/cogmac/projects/hsp.html&#34; target=&#34;_blank&#34;&gt;Human Speechome Project&lt;/a&gt; by the Deb Roy. Human Speechome project is a project by MIT professor Deb Roy that he installed multiple cameras and mics around his house and recorded 9,000 hours of video of his son from the birth to 3 years. You can see the image sample in the Figure 1.&lt;/p&gt;
+
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;./img/housefly-system.png&#34; width=&#34;100%&#34; /&gt;
+
+
+
+&lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; class=&#34;numbered&#34;&gt;
+  &lt;h4&gt;They built 3D cad model of house by hand. And installed a wide angle fisheye camera per room. And reconstruct it as 3D immersive video.&lt;/h4&gt;
+  
+&lt;/figcaption&gt;
+
+&lt;/figure&gt;
+
+&lt;p&gt;This paper is how we can generate 3D immersive video from the fisheye camera recording.
+There is also a &lt;a href=&#34;https://www.ted.com/talks/deb_roy_the_birth_of_a_word?language=en&#34; target=&#34;_blank&#34;&gt;Ted talk by Deb Roy&lt;/a&gt; which has 3M views. The presentation skill is very good. It is a role model for presentation of HCI work. I recommend watching it.
+He wanted to use this data for the how human develops an intelligence and use this lesson for the training of his robot Tracy. You can read more about in &lt;a href=&#34;https://www.wired.com/2007/04/truman/&#34; target=&#34;_blank&#34;&gt;this Wired article&lt;/a&gt;.
+Unfortunately, he is not there yet.  He used the data for following purpose.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;He found how the visual experience and the first words are correlated.&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;And he also used this technique to analyze the video of large mall for analytics.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Read here for more extensive list of the findings &lt;a href=&#34;https://www.media.mit.edu/cogmac/projects/hsp.html&#34; target=&#34;_blank&#34;&gt;link&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;good-points&#34;&gt;Good points&lt;/h3&gt;
+
+&lt;p&gt;For me, this work is inspiring because it is an example that recording of full house is possible.  Main challenge will be recruiting participants. Anyway, someone did it before.&lt;/p&gt;
+
+&lt;p&gt;Second, it led me to more recent work by reading papers citing this work.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Browsing Group First-Person Videos with 3D visualization &lt;a href=&#34;https://dl.acm.org/doi/abs/10.1145/3279778.3279783&#34; target=&#34;_blank&#34;&gt;link&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Virtual-Real Fusion with Dynamic Scene from videos &lt;a href=&#34;https://ieeexplore.ieee.org/abstract/document/7756128&#34; target=&#34;_blank&#34;&gt;link&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Third, a calibration interface might be useful to merge multiple coordinates from multiple depth camera.&lt;/p&gt;
+
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;./img/housefly-calibration.png&#34; width=&#34;100%&#34; /&gt;
+
+
+
+&lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; class=&#34;numbered&#34;&gt;
+  &lt;h4&gt;We can use manual calibration to increase the accuracy when merging point clouds from multiple camera&lt;/h4&gt;
+  
+&lt;/figcaption&gt;
+
+&lt;/figure&gt;
+
+&lt;h3 id=&#34;bad-points&#34;&gt;Bad points&lt;/h3&gt;
+
+&lt;p&gt;First it maps to only 3D building not character or furniture. We can understand this because he used one fish eye camera per room. This saves the number of camera. It was about 15 years ago. So we can understand it. The 3d immersive video using single camera is impressive.&lt;/p&gt;
+
+&lt;p&gt;Second, the data is not public. It is the same problem with the HomeView project. This data might be helpful for the AI research as Deb Roy explains in the Wired article. But the privacy issue makes it impossible to share this data as the public asset.&lt;/p&gt;
+
+&lt;p&gt;I should be clear that bad points leads to the opportunity. Building upon his great work, we will add following small improvement.&lt;/p&gt;
+
+&lt;h3 id=&#34;implication&#34;&gt;Implication&lt;/h3&gt;
+
+&lt;p&gt;First, we will use multiple LIDAR camera per rooms to remove occlusion and create a complete 3D model.&lt;/p&gt;
+
+&lt;p&gt;Second, we will try to make a public dataset.&lt;/p&gt;
+
+&lt;p&gt;Finally, I am surveying 3D volumetric video a lot. We might write a survey paper about reconstructing 3D video from video recording to summarize our search.&lt;/p&gt;
+
+&lt;h2 id=&#34;further-reading&#34;&gt;Further Reading&lt;/h2&gt;
+
+&lt;ol&gt;
+&lt;li&gt;HomeView Project &lt;a href=&#34;(https://cogdev.sitehost.iu.edu/homeview.html)&#34; target=&#34;_blank&#34;&gt;link&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Human Speechome Project Ted talk &lt;a href=&#34;https://www.ted.com/talks/deb_roy_the_birth_of_a_word?language=en&#34; target=&#34;_blank&#34;&gt;link&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Wired article about human speechome project &lt;a href=&#34;https://www.wired.com/2007/04/truman/&#34; target=&#34;_blank&#34;&gt;link&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Browsing Group First-Person Videos with 3D visualization &lt;a href=&#34;https://dl.acm.org/doi/abs/10.1145/3279778.3279783&#34; target=&#34;_blank&#34;&gt;link&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Virtual-Real Fusion with Dynamic Scene from videos &lt;a href=&#34;https://ieeexplore.ieee.org/abstract/document/7756128&#34; target=&#34;_blank&#34;&gt;link&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Below is my mindmap for the related papers to artificial general intelligence.
+&lt;iframe width=&#34;600&#34; height=&#34;400&#34; frameborder=&#34;0&#34; src=&#34;https://www.mindmeister.com/maps/public_map_shell/1405726945/references?width=600&amp;height=400&amp;z=auto&amp;live_update=1&amp;no_logo=1&#34; scrolling=&#34;no&#34; style=&#34;overflow: hidden; margin-bottom: 5px;&#34;&gt;Your browser is not able to display frames. Please visit &lt;a href=&#34;https://www.mindmeister.com/1405726945/references&#34; target=&#34;_blank&#34;&gt;References&lt;/a&gt; on MindMeister.&lt;/iframe&gt;&lt;div class=&#34;mb-5&#34;&gt;&lt;a href=&#34;https://www.mindmeister.com/1405726945/references&#34; target=&#34;_blank&#34;&gt;References&lt;/a&gt; by &lt;a href=&#34;https://www.mindmeister.com/users/channel/42813067&#34; target=&#34;_blank&#34;&gt;Deokgun Park&lt;/a&gt;&lt;/div&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Paper Summary: A cortical sparse distributed coding model linking mini- and macrocolumn-scale functionality</title>
+      <link>http://crystal.uta.edu/~park/post/sparsey/</link>
+      <pubDate>Mon, 03 Feb 2020 00:00:00 -0600</pubDate>
+      
+      <guid>http://crystal.uta.edu/~park/post/sparsey/</guid>
+      <description>&lt;p&gt;This is the paper review of &lt;a href=&#34;https://www.frontiersin.org/articles/10.3389/fnana.2010.00017/full&#34; target=&#34;_blank&#34;&gt;the following paper&lt;/a&gt;.&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Rinkus, Gerard J. &amp;ldquo;A cortical sparse distributed coding model linking mini-and macrocolumn-scale functionality.&amp;rdquo; Frontiers in neuroanatomy 4 (2010): 17.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;I found this paper while searching for the sparse coding implementation.
+His work claimed 91% performance on MNIST and 67% on &lt;a href=&#34;http://www.wisdom.weizmann.ac.il/~vision/SpaceTimeActions.html&#34; target=&#34;_blank&#34;&gt;Weizmann event dataset&lt;/a&gt;.
+While this result is weaker than the state of the art result (around 99%), the following aspects were interesting.&lt;/p&gt;
+
+&lt;p&gt;First, Sparsey model uses sparse distributed representation (SDR) rather than dense representation.
+Second, Sparsey model does not use any of optimization including gradient back propagation. It can do one-shot learning meaning that only one example is required for learning.
+Actually, the weights between neurons are binary and they are set by single occurence in Hebbian manner.
+These two attributes are what I were considering required for my model.
+Only comparable model is HTM by Numenta.
+However, HTM does not have any performance evaluation result with popular dataset except a few synthetic toy dataset.&lt;/p&gt;
+
+&lt;p&gt;The main algorithm transforms binary inputs into sparse distributed representation.&lt;/p&gt;
+
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;./img/sparsey.png&#34; width=&#34;100%&#34; /&gt;
+
+
+
+&lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; class=&#34;numbered&#34;&gt;
+  &lt;h4&gt;The sparsey algorithm produces sparse distributed representation (SDR) from the binary inputs. If the input patterns are very similar to previous patterns, the resulting SDR code will be almost same to previous codes while novel patterns will result in novel code.&lt;/h4&gt;
+  
+&lt;/figcaption&gt;
+
+&lt;/figure&gt;
+
+&lt;p&gt;The key insight is that the algorithm uses the familarity or novelty measure to control randomness of the resulting code.
+As a result, a well-known code or familar codes result in same representation as the previous case while the novel code results in the different code.
+The author calls it similar inputs map to similar codes (&lt;strong&gt;SISC&lt;/strong&gt;).&lt;/p&gt;
+
+&lt;p&gt;There were many neuroscience references which will be useful for my future research.
+For example, cells in the minicolumn possesses simiar receptive field characteristic or tuning.
+This fact is also utilized in the HTM and cloned HMM.
+The cells in the column shares the same inputs.&lt;/p&gt;
+
+&lt;p&gt;Also SDR is used in the cells as can be shown in below figure.
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;./img/sdr.png&#34; width=&#34;100%&#34; /&gt;
+
+
+
+&lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; class=&#34;numbered&#34;&gt;
+  &lt;h4&gt;The Calcium images of L2/3 of rat visual cortex reveals sparse distributed representation (SDR). Images from Ohki et al (2005).&lt;/h4&gt;
+  
+&lt;/figcaption&gt;
+
+&lt;/figure&gt;&lt;/p&gt;
+
+&lt;p&gt;One big question for me is that if we define SISC as the binary bit overlap, the incoming input already possess the SISC property.
+While the algorithm creates more sparse version of the binary input, how the sparse representation can be utilized is a big question.&lt;/p&gt;
+
+&lt;p&gt;Is the simplication the core process the cortical columns are doing?
+In my opinion, the prediction is the main task.
+After several hierarchy, the mnist digits might be separated to constant representation, but it does not tells about how the motion should be generated.&lt;/p&gt;
+
+&lt;p&gt;As a conclusion, this paper provides a good rationale behind the use of SDR verus dense or local code.
+But the model is not good for my purpose. I will look at the logistic regression with Lasso regularization as the next candidate.&lt;/p&gt;
+
+&lt;p&gt;Below is my mindmap for the related papers to artificial general intelligence.
+&lt;iframe width=&#34;600&#34; height=&#34;400&#34; frameborder=&#34;0&#34; src=&#34;https://www.mindmeister.com/maps/public_map_shell/1405726945/references?width=600&amp;height=400&amp;z=auto&amp;live_update=1&amp;no_logo=1&#34; scrolling=&#34;no&#34; style=&#34;overflow: hidden; margin-bottom: 5px;&#34;&gt;Your browser is not able to display frames. Please visit &lt;a href=&#34;https://www.mindmeister.com/1405726945/references&#34; target=&#34;_blank&#34;&gt;References&lt;/a&gt; on MindMeister.&lt;/iframe&gt;&lt;div class=&#34;mb-5&#34;&gt;&lt;a href=&#34;https://www.mindmeister.com/1405726945/references&#34; target=&#34;_blank&#34;&gt;References&lt;/a&gt; by &lt;a href=&#34;https://www.mindmeister.com/users/channel/42813067&#34; target=&#34;_blank&#34;&gt;Deokgun Park&lt;/a&gt;&lt;/div&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Paper Summary: AGI Preschool: A Framework for Evaluating Early-Stage Human-like AGIs</title>
+      <link>http://crystal.uta.edu/~park/post/preschool/</link>
+      <pubDate>Mon, 03 Feb 2020 00:00:00 -0600</pubDate>
+      
+      <guid>http://crystal.uta.edu/~park/post/preschool/</guid>
+      <description>&lt;p&gt;This is the paper review of &lt;a href=&#34;https://www.atlantis-press.com/proceedings/agi09/1826&#34; target=&#34;_blank&#34;&gt;the following paper&lt;/a&gt;.&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Goertzel, Ben, and Vladimir Bugaj. &amp;ldquo;AGI preschool: a framework for evaluating early-stage human-like AGIs.&amp;rdquo; In Proceedings of the 2nd Conference on Artificiel General Intelligence (2009). Atlantis Press, 2009.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;How we can evaluate the artificial general intelligence(AGI) is an open challenge in the community as suggested in &lt;a href=&#34;http://crystal.uta.edu/~park/post/mapping-the-landscape-of-human-level-agi.md/&#34; target=&#34;_blank&#34;&gt;this paper&lt;/a&gt;.
+We can start with the imitation test sometimes called &lt;a href=&#34;https://www.jstor.org/stable/2251299?seq=1#metadata_info_tab_contents&#34; target=&#34;_blank&#34;&gt;Turing test&lt;/a&gt;.
+However, it is too difficult.
+We are struggling to find the basic principle of learning but the Turing test requires an adult level of knowledge.
+We can use all the knowledge in the world to trick the bot.
+Also because the agent in the Turing test is imitating the humans, there are many tricks that can fool humans into believing.
+For example, &lt;a href=&#34;https://en.wikipedia.org/wiki/ELIZA&#34; target=&#34;_blank&#34;&gt;Eliza&lt;/a&gt; imitates an psychotherapist who keeps asking a question, and the recent winner from Loebner Prize mimics &lt;a href=&#34;https://www.theguardian.com/technology/2014/jun/08/super-computer-simulates-13-year-old-boy-passes-turing-test&#34; target=&#34;_blank&#34;&gt;a russian teenager who learns English to fool the judges&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Other tests such as College Student test is adopted to block these loopholes.
+However, one major limitation of this approach is that they don&amp;rsquo;t deal about how these agents acquire these skills.&lt;/p&gt;
+
+&lt;p&gt;Ben Goertzel and Stephan Vladimir Bugaj suggests an alternative framework for AGI testing resembling preschool.
+It has similar curriculum for human including linguistic, social, logical-mathematical, nonverval communication, spatial-visual, object manipulation, social skills.&lt;/p&gt;
+
+&lt;p&gt;It is an advanced framework compared to other scenarios that it includes how they can acquire those skills.
+But in my opinion, it is still too challenging.
+We need to focus more earlier period, especially from inception to 24 months.&lt;/p&gt;
+
+&lt;p&gt;To solve the challenge of social learning they propose to use VR technology where a human participant controls avatar.
+And they suggest to use the physics engine to simulate realistic object manipulation.&lt;/p&gt;
+
+&lt;p&gt;After they pass the AGI preschool, the roadmap to more capable AGI is apparent.
+That they can build AGI grade school, secondary school, and so on.&lt;/p&gt;
+
+&lt;p&gt;My main criticism is that they are taking verbal and non-verbal communication as given.
+For example, to test AGI they suggest following tests.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Write a set of instructions; speak on a subject&lt;/li&gt;
+&lt;li&gt;analyse how a machine works&lt;/li&gt;
+&lt;li&gt;review a musical work&lt;/li&gt;
+&lt;li&gt;create a mime to explain something&lt;/li&gt;
+&lt;li&gt;coach or counsel another&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Actually, language acquisition is the main challenge that needs to be tackled even before AGI preschool.&lt;/p&gt;
+
+&lt;p&gt;Below is my mindmap for the related papers to artificial general intelligence.
+&lt;iframe width=&#34;600&#34; height=&#34;400&#34; frameborder=&#34;0&#34; src=&#34;https://www.mindmeister.com/maps/public_map_shell/1405726945/references?width=600&amp;height=400&amp;z=auto&amp;live_update=1&amp;no_logo=1&#34; scrolling=&#34;no&#34; style=&#34;overflow: hidden; margin-bottom: 5px;&#34;&gt;Your browser is not able to display frames. Please visit &lt;a href=&#34;https://www.mindmeister.com/1405726945/references&#34; target=&#34;_blank&#34;&gt;References&lt;/a&gt; on MindMeister.&lt;/iframe&gt;&lt;div class=&#34;mb-5&#34;&gt;&lt;a href=&#34;https://www.mindmeister.com/1405726945/references&#34; target=&#34;_blank&#34;&gt;References&lt;/a&gt; by &lt;a href=&#34;https://www.mindmeister.com/users/channel/42813067&#34; target=&#34;_blank&#34;&gt;Deokgun Park&lt;/a&gt;&lt;/div&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Paper Summary: Mapping the Landscape of Human-Level Artificial General Intelligence</title>
@@ -514,464 +1350,6 @@ Studying alone is actually harder than you might think. You will be busy for the
 &lt;p&gt;Regards&lt;/p&gt;
 
 &lt;p&gt;Deokgun&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>How to use your advisor</title>
-      <link>http://crystal.uta.edu/~park/post/how-to-use-your-advisor/</link>
-      <pubDate>Tue, 06 Aug 2019 00:00:00 -0500</pubDate>
-      
-      <guid>http://crystal.uta.edu/~park/post/how-to-use-your-advisor/</guid>
-      <description>
-
-&lt;p&gt;Recently, I got an email from a student from HDILab.  I think his situation might be a common case so here I added my reply in the hope that this can be helpful to other students. Below is the modified email message from the student.&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;Hello Dr.Park,&lt;/p&gt;
-
-&lt;p&gt;I am trying to implement carracing. I am using a virtualenv python3.5.4. I am trying to run extract.bash using $sudo bash extract.bash. However, it returns&lt;/p&gt;
-
-&lt;p&gt;” File “extract.py”, line 8, in &lt;module&gt;
-   import gym
-ImportError: No module named gym” when extract.bash is trying to run extract.py.&lt;/p&gt;
-
-&lt;p&gt;The problem is I installed gym and box2d-py too, and yet it shows the import error.&lt;/p&gt;
-
-&lt;p&gt;$ which pip
-/home/aishwarya/WorldModelsExperiments/carracing/venv/bin/pip&lt;/p&gt;
-
-&lt;p&gt;$ which python&lt;br /&gt;
-/home/aishwarya/WorldModelsExperiments/carracing/venv/bin/python&lt;/p&gt;
-
-&lt;p&gt;I’ve also tried the solutions given in here and in here&lt;/p&gt;
-
-&lt;p&gt;Can you please help me out with this issue.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Below you can find my advice. TLDR, if you have a technical problem. Solve it on your own while producing shareable outcome. If you have a research idea, your advisor can help you evaluate whether it is intractable, already done, or trivial.&lt;/p&gt;
-
-&lt;h3 id=&#34;my-answer-to-the-student&#34;&gt;My answer to the student&lt;/h3&gt;
-
-&lt;p&gt;Hi, Tomas (Name changed for privacy)&lt;/p&gt;
-
-&lt;p&gt;I don&amp;rsquo;t know about this. You should check Google or ask other person&amp;rsquo;s in the lab. I think Jane and John might know.&lt;/p&gt;
-
-&lt;p&gt;Don&amp;rsquo;t worry. Debugging this kind issue is common. I myself always deal with this issue. One of the reason, I cannot help is that the reason can be diverse. It is case by case. Therefore it is more important important to know how to deal with these kind of issues than the actual specific solution.  There will be hardly anyone who can solve your technical problem with a clear answer. If you have one you are lucky. But still if you ask to much questions to him, you are actually costing a precious resource to the group which is a bad news for you.  Below are some general advices.&lt;/p&gt;
-
-&lt;ol&gt;
-&lt;li&gt;&lt;p&gt;Use slack general channel. If you send email to one person, the chance is low that  your busy and ignorant professor can help you. If you use slack to post your issue to the entire group, some competent students might help you.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Make environment simple.
-90 Percent of these issues are package version collision.  Virtual env helps but not perfect. In old days I used to format frequently. That&amp;rsquo;s why I use one disk for system and one disk for home directory. Nowadays learning how to use docker will pay you back well in the long run.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Try to learn generalizable lesson and share it. Most of time, you just fix and forget. You might try stack overflow or Google solution until you fix it. The problem with this approach is that the time you spent on solving this issue does not produce any credit for your work.  While I also sometimes do that, the correct way to handle an issue is that &lt;strong&gt;&lt;em&gt;first understand the reason of the issue&lt;/em&gt;&lt;/strong&gt; and &lt;strong&gt;&lt;em&gt;create a technical note or blogs&lt;/em&gt;&lt;/strong&gt; that explains the issue and the solution.  Many people in the lab can benefit your contribution and your technical blog will help building your professional reputation. You need to be accustomed to solve these kinds of issues. It is like growing your muscles.&lt;/p&gt;&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;h3 id=&#34;how-to-use-your-advisor&#34;&gt;How to use your advisor&lt;/h3&gt;
-
-&lt;p&gt;If your advisor cannot help you solve your technical issues, where can I use him? One area is when you have a research question. As a graduate student, you will always think the research question or the topic for the next paper. There can be two major pitfalls for setting the research topic.  An academic work is about finding a knowledge that none has found before. There can be two reasons why nobody has done it before.&lt;/p&gt;
-
-&lt;p&gt;First, it can be too difficult to do or trivial but not meaningful.  When we think a new idea, I can bet there will be more than 10 people who have thought the same thing. Still the finding the solution might be too difficult.
-Time machine, teleportation, or thinking machines are those areas. Those are technologies that people wish but it is very hard to make a progress in those area.  Or more commonly, your topic is slightly general and there can be many approaches to it. However, the topic might be well-known in the community and almost all low hanging fruits are taken already and what remains might be too challenging.&lt;/p&gt;
-
-&lt;p&gt;Second, your problem might be too narrow or trivial or already solved before.
-Your advisor is like a guide to the Mt. Everest or a chaperone to the party. He has an experience and background knowledge about the research community.&lt;br /&gt;
-Therefore getting a cross check of your idea can be a good use of your advisor.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>The HDILab culture</title>
-      <link>http://crystal.uta.edu/~park/post/hdilab-culture/</link>
-      <pubDate>Tue, 06 Aug 2019 00:00:00 -0500</pubDate>
-      
-      <guid>http://crystal.uta.edu/~park/post/hdilab-culture/</guid>
-      <description>
-
-&lt;p&gt;Below is HDILab culture. A culture is a principle about how we do everyday things. I hope that our culture shape our group in a productive way.&lt;/p&gt;
-
-&lt;h3 id=&#34;we-learn-by-teaching&#34;&gt;We learn by teaching.&lt;/h3&gt;
-
-&lt;p&gt;Every week we will have a paper reading seminar where one student will teach a paper to other lab members. A pizza and a diet coke will be provided. You will have a chance to announce what you are working on nowadays in a friendly environment 30 minutes before the seminar. Currently the seminar starts on Wednesday 12:30pm.&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;After you have done lab seminar, add the slides and all materials into the Google drive here. The goal here is to make it easier for a new lab member to follow what we have done so far.&lt;/li&gt;
-&lt;li&gt;Also write one paragraph abstract for the seminar to summarize what you teach.&lt;/li&gt;
-&lt;li&gt;Add your call sign so that we can know who did the seminar.  Students should answer the questions from colleagues.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&#34;team-play&#34;&gt;Team play&lt;/h3&gt;
-
-&lt;p&gt;There are focused hours in the lab where students are supposed to be at the same space and time. The main idea is to have an informal chat, update, questions and answers. The focused hours are currently held Mon, Tue, Wed 10am-2pm at ERB 205.
-Don’t be late.
-If you think you will be late, report it to the slack.&lt;/p&gt;
-
-&lt;h3 id=&#34;sharable-output&#34;&gt;Sharable output&lt;/h3&gt;
-
-&lt;p&gt;Students are required to maintain a lab journal and project journal
-Lab journal is for the general purpose work and project journal is for the project related progress. For example,&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;I set up the new server or hardware for the-&amp;gt; hdilab journal&lt;/li&gt;
-&lt;li&gt;I organized the inventory -&amp;gt; hdilab journal&lt;br /&gt;&lt;/li&gt;
-&lt;li&gt;I replicated the world model -&amp;gt; daivid journal&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Every work should be recorded and reproducible.
-Basically journal is for yourself. But write it well when others have to find something you did. When you accumulate enough work and progress, make them shareable and transferable chunk into three places:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;journal how-to technical note
-When you create a new technical note leave a author call sign such as #deokgun so that I can find who wrote what.
-If you need to update it, add a call sign and date after the original author.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;pre&gt;&lt;code&gt;Example 
-Created: #deokgun 01/08/2019
-Updated: #sanjay 01/09/2019 
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Personal homepage blog article&lt;/li&gt;
-&lt;li&gt;Github readme.md&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;One common mistake for the new member is writing a technical note about a topic that is already covered in previous technical note from other members. This is problematic in the two sense. First, it means that you did not search or read other&amp;rsquo;s technical note. A value of the technical note is how many times it is read by others. If no one reads others&amp;rsquo; technical note, the value of our journal will be nothing. Second, you are creating an additional burden for the future readers looking for a solution for the topic. In that sense, you are creating a noise if you are creating a redundant article. So what we should do when we found that the topic that we would like to wrtie is available.  Check the original post and if you have an additional content, just update the original post.  If you are sure that you can write a better one by rewriting, replace the original post. The original post should be archived to the old technical note and referenced by the new article.&lt;/p&gt;
-
-&lt;p&gt;We share the open source code and how-to manual as a final output.
-We use GitHub as the main archive
-As a rule of thumb, I expect 50% of everyone’s time will be spent writing what you have done.&lt;/p&gt;
-
-&lt;h4 id=&#34;how-to-write-a-journal&#34;&gt;How to write a journal&lt;/h4&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Make the outline neat&lt;/li&gt;
-&lt;li&gt;If you click the View-&amp;gt; Show Document Outline button, it will show you the document outline. Make sure your writing follows the header rule.
-There is a shortcut key for selecting the paragraph level.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;pre&gt;&lt;code&gt;cmd + alt + 1 makes the top level heading
-cmd + alt + 2 makes the second level heading
-cmd + alt + 0 makes the content paragraph, which is not shown in outline. 
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;ul&gt;
-&lt;li&gt;The &lt;strong&gt;Things to do next part&lt;/strong&gt; is important. Your professor reads it often.  Keep it tidy. When something is done, remove. &lt;strong&gt;Update it everyday&lt;/strong&gt;. When you are given new goal, write it there.  Make the thing you are working on now, the first item. Order them in the priority.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&#34;communication-is-half-of-your-job&#34;&gt;Communication is half of your job.&lt;/h3&gt;
-
-&lt;p&gt;Your impact will be the multiplication of research and communication of the result.
-Try to report the progress whenever there is a progress
-Don&amp;rsquo;t wait until your boss ask your progress. Tell him what you are working on now.
- If you meet a barrier or decide to change direction, report it.
-When I ask you to do something, I usually expect to hear the progress report in a one or two days.&lt;/p&gt;
-
-&lt;h3 id=&#34;being-true-to-ourselves&#34;&gt;Being true to ourselves&lt;/h3&gt;
-
-&lt;p&gt;You cannot deceive yourself. Being true to yourself is, in my opinion, a very good long-term strategy. For example, if you don’t know during the seminar, acknowledge that you don’t know and ask questions until you understand. Don’t be embarrassed or give up by social pressure. Academy is a few places where being true to yourself is tolerated.&lt;/p&gt;
-
-&lt;p&gt;Other good question to ask yourself is whether you are enjoying the research. Actually according to my experience, research is not for everyone. Probably about 5 persons out of 100 suit the academic life. Because of this, it is perfectly okay if you feel that the graduate study is not what you want to do. I recommend to get a SW engineering job in that case, which actually pays you better and provides better work-life balance. You might feel like a failure to quit the research at first, but if you are true to yourself, you may find it as one of the best decisions of your life later.&lt;/p&gt;
-
-&lt;p&gt;Similarly I will release you out of the lab if I think that you are not a good fit for the lab as early as possible. How I make that decision? First, I have to acknowledge that it is very difficult decision for me, too. It is not only emotionally difficult but intellectually difficult. Because nobody knows the future, one day the student I fired may get a Nobel prize.&lt;/p&gt;
-
-&lt;p&gt;I have to follow the lab culture which is my principle. For me, there are three characteristics for the academic career.&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;First is &lt;strong&gt;curiosity&lt;/strong&gt;. The desire to know or find the truth is our strongest motivation and rewards.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Second is the &lt;strong&gt;self-starting&lt;/strong&gt;. This one is related to curiosity. Because you want to know something, you start researching about it. This is usually observed when the student comes to me and ask an advice for something. It is the opposite of waiting for the order from me.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Third is the persistence. The journey is long and the rewards are sparse. If you are not persistent, chances are you give up. &lt;strong&gt;Persistence is measured by the shareable output.&lt;/strong&gt; According to my experience, quantity is more important than the quality for measuring persistence. It means if you are producing lots of so-so blog article or technical note and low quality draft of academic papers, you have the persistence. Think about growing academic muscle by writing everyday.&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Evolution: Hard, Soft, and Computational?</title>
-      <link>http://crystal.uta.edu/~park/post/soft-evolution/</link>
-      <pubDate>Mon, 05 Aug 2019 00:00:00 -0500</pubDate>
-      
-      <guid>http://crystal.uta.edu/~park/post/soft-evolution/</guid>
-      <description>
-
-&lt;p&gt;Life evolves. The speed of evolution depends on the mechanism of the evolution. The first evolution was based on the random mutation of genes. It is basically trial and error. But the diversity of the life forms it generated is awesome. I would call it &lt;strong&gt;hard evolution&lt;/strong&gt;. We, humans, are one of the successful life forms with mosquitoes and cockroaches.&lt;/p&gt;
-
-&lt;p&gt;Human adopted a new strategy. It was building a more flexible general purpose brain to adapt to the environment. Other life forms also have the brain. But its function was more rigid or hard encoded. You can think how the pocket calculator compares with the smartphone. Both have a similar electronic components namely CPU, memory and I/O devices.&lt;/p&gt;
-
-&lt;p&gt;Using the general brain, we can do many things that was not possible. But the essential function is learning. In hard evolution, the special variation that worked well leaves the genes. However, in &lt;strong&gt;soft evolution&lt;/strong&gt;, we can learn from others. It basically allows exponential trial and errors. Nobody can experience all the diverse experience in the world given limited time and energy. Still we can learn from others first using verbal language. This allowed us to transfer knowledge from nearby people. The written language allowed it to go beyond the limitation of the space and time of the verbal language. Now what is beautiful about the soft evolution is that the time it takes to evolve has reduced dramatically. The soft evolution happens in the brain circuitry during the life time of the agent while in the hard evolution, the life time of the agent was a single unit of progress.&lt;/p&gt;
-
-&lt;p&gt;Because of this general flexible brain, we are born with a rather blank state compared to other animals such as cats and dogs. (Of course there are still many innate circuitry which I will talk later about.) And it takes relatively long time to have a reasonably working program. Interestingly as the amount of the information to function well in the society increases the time it takes to be independent is also increasing. Now it is common in the first world that it takes about 20 to 30 years before one can be independent from their parents.&lt;/p&gt;
-
-&lt;p&gt;I said the brain is born as a basically blank state. But still there are innate mechanism to help learn from the parents. Think of the truly blank state agent. We got a continuous stream of image and sound. How we can make sense of the these images? For example, parents talking to the baby might look like a skin colored chunk with a few holes that are constantly moving. One hole continuously changes shape and make a sound (hint: mouth). How can we learn this chunk of image is a mom and the sound is the language which is different from random noise from the street? Epistemology is an old branch of philosophy devoted to this problem.&lt;/p&gt;
-
-&lt;p&gt;I think the innate mechanism is essential for the new born baby to make sense of the world. Let me give you an example. &lt;a href=&#34;https://science.sciencemag.org/content/198/4312/75&#34; target=&#34;_blank&#34;&gt;Andrew Meltzoff and Keith Moore found that a baby who was about 7 hours since the birth can still mimic the tongue movements&lt;/a&gt;. It is quite surprising when we think about all the skills to do this. First, the baby has to recognize the human face. Then he has to map the human face he never seen to his face that he never seen himself. Finally the baby has to control the tongue to imitate the expression.&lt;/p&gt;
-
-
-
-
-&lt;figure&gt;
-
-&lt;img src=&#34;./img/imitation-in-baby.png&#34; /&gt;
-
-
-
-&lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; class=&#34;numbered&#34;&gt;
-  &lt;h4&gt;New born baby can imitate the random facial expression. This capabilities an innate mechanism to help learn from others. We should learn from relevant objects such as people and care givers and not from irrelevant objects such as cars or doors.  &lt;a href=&#34;https://science.sciencemag.org/content/sci/198/4312/75.full.pdf&#34; target=&#34;_blank&#34;&gt;Image from Science 1977&lt;/a&gt;&lt;/h4&gt;
-  
-&lt;/figcaption&gt;
-
-&lt;/figure&gt;
-
-&lt;p&gt;I believe this imitation capability is essential to learn from others. Given blank state, we should not fill this blank with random noise but relevant contents. What will be the relevant contents for the new born baby. Most likely it will be from the parents and caregivers. The imitation mechanism has already filtered irrelevant objects in the world and focused on the human facial expression and followed its motion. This limits the vast space of the exploration to meaningful trajectory that was suggested by human.&lt;/p&gt;
-
-&lt;h3 id=&#34;lessons-for-the-agi&#34;&gt;Lessons for the AGI&lt;/h3&gt;
-
-&lt;p&gt;In the famous &lt;a href=&#34;https://storage.googleapis.com/deepmind-media/dqn/DQNNaturePaper.pdf&#34; target=&#34;_blank&#34;&gt;DQN paper&lt;/a&gt;, there are experiments for the Atari games. Among many games that showed superhuman performance by the artificial agent, there was one game that showed very poor performance called &lt;strong&gt;Montezuma&amp;rsquo;s revenge&lt;/strong&gt;.&lt;/p&gt;
-
-
-&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;//www.youtube.com/embed/0yI2wJ6F8r0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-
-
-&lt;p&gt;This &lt;a href=&#34;https://www.theverge.com/2016/6/9/11893002/google-ai-deepmind-atari-montezumas-revenge&#34; target=&#34;_blank&#34;&gt;blog explains why the Montezuma&amp;rsquo;s revenge game is particularly challenging&lt;/a&gt;. In a summary, there are too many things that have to be done sequentially such as getting the key, avoid the monster, and go back to the door. The random behavior by the agent cannot explore the vast exploration space in a limited time. In 100 Million iterations, the agent can access only the second stage. This shows the limitation of the random trial and error. I said other animals cannot learn. But I was wrong. They can learn. For example, dogs can learn new trick. They learn by trial and error. They associate behaviors with positive rewards or treats. But things you can learn from this approach is limited.&lt;/p&gt;
-
-&lt;p&gt;I think there are three components for the artificial general intelligence. The first is a model. For example, in my &lt;strong&gt;HPM&lt;/strong&gt; theory, the agent predicts the next sensory input with the help from the hierarchy to do the higher-order prediction (chunking). The second is an environment. It provides a source of information. The problem is there are vast space for exploration. Finally there will be many smart tricks such as imitation or &lt;a href=&#34;http://ilabs.washington.edu/kuhl/pdf/Kuhl_2007.pdf&#34; target=&#34;_blank&#34;&gt;social mechanism to focus on the human interaction during language acquisition&lt;/a&gt; to reduce this search space effectively by social learning. Our lab tries to build an &lt;a href=&#34;http://crystal.uta.edu/~park/post/research-in-hdilab/&#34; target=&#34;_blank&#34;&gt;environment that can provide a testbed for such social mechanism&lt;/a&gt; and study the models.&lt;/p&gt;
-
-&lt;p&gt;Finally, what will be the next step for the evolution? It will be how we can overcome the limitation of the biological brain cell. The brain cell is relatively slow and degradable. The number of cells are limited by how large our head can be to enable the birth and feed required energy to run big brain. If we can use our electronic components as a device, it will achieve a step-up in the evolution speed. But more importantly, I think the true power of the next evolution is when the artificial intelligence agent upgrades its own structure. This upgrades will be beyond the human&amp;rsquo;s ability to follow which is called &lt;strong&gt;technical singularity&lt;/strong&gt;. Some would call it &lt;a href=&#34;https://www.nature.com/articles/nrg1921&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;computational evolution&lt;/strong&gt;&lt;/a&gt;.&lt;/p&gt;
-
-
-
-
-&lt;figure&gt;
-
-&lt;img src=&#34;./img/evolution.svg&#34; /&gt;
-
-
-
-&lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; class=&#34;numbered&#34;&gt;
-  &lt;h4&gt;The evolution of the intelligence&lt;/h4&gt;
-  
-&lt;/figcaption&gt;
-
-&lt;/figure&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Rewards for AGI</title>
-      <link>http://crystal.uta.edu/~park/post/rewards/</link>
-      <pubDate>Mon, 05 Aug 2019 00:00:00 -0500</pubDate>
-      
-      <guid>http://crystal.uta.edu/~park/post/rewards/</guid>
-      <description>
-
-&lt;h2 id=&#34;contents&#34;&gt;Contents&lt;/h2&gt;
-
-&lt;ol&gt;
-&lt;li&gt;Introduce  the role of the rewards in reinforcement learning
-
-&lt;ol&gt;
-&lt;li&gt;Use the example of dog training&lt;/li&gt;
-&lt;li&gt;Explain the dopamine&lt;/li&gt;
-&lt;li&gt;Explain the&lt;/li&gt;
-&lt;/ol&gt;&lt;/li&gt;
-&lt;li&gt;Introduce an extrinsic rewards
-
-&lt;ol&gt;
-&lt;li&gt;Classic rewards&lt;/li&gt;
-&lt;li&gt;Used in reinforcement learning examples
-
-&lt;ol&gt;
-&lt;li&gt;Atari&lt;/li&gt;
-&lt;li&gt;Alpha Go&lt;/li&gt;
-&lt;li&gt;World model paper&lt;/li&gt;
-&lt;/ol&gt;&lt;/li&gt;
-&lt;/ol&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Introduce an intrinsic rewards&lt;/p&gt;
-
-&lt;ol&gt;
-&lt;li&gt;Explain the limitation of the extrinsic rewards
-
-&lt;ol&gt;
-&lt;li&gt;Montezuma&amp;rsquo;s revenge&lt;/li&gt;
-&lt;/ol&gt;&lt;/li&gt;
-&lt;li&gt;Explain the mechanism of the intrinsic rewards
-
-&lt;ol&gt;
-&lt;li&gt;How the curious or explorative behavior relates to the intrinsic rewards&lt;/li&gt;
-&lt;li&gt;How to formulate the intrinsic rewards mathematically?&lt;/li&gt;
-&lt;li&gt;&lt;/li&gt;
-&lt;li&gt;Model-free vs model-based reinforcement learning&lt;/li&gt;
-&lt;li&gt;Intrinsic rewards examples
-
-&lt;ol&gt;
-&lt;li&gt;Introduce paper by Stanford&lt;/li&gt;
-&lt;li&gt;World Discovery Model paper&lt;/li&gt;
-&lt;/ol&gt;&lt;/li&gt;
-&lt;/ol&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Introduce the limitation of the intrinsic rewards&lt;/p&gt;
-
-&lt;ol&gt;
-&lt;li&gt;&lt;p&gt;The search space is too vast for a single agent learn by exploration&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Example: Radnom permutation of alphabet to generate a meaningful sequenc.&lt;/li&gt;
-&lt;li&gt;Example: Musical note&lt;br /&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Explain the higher order Markov chains&lt;/p&gt;&lt;/li&gt;
-&lt;/ol&gt;&lt;/li&gt;
-&lt;/ol&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Introduce the social rewards&lt;/p&gt;
-
-&lt;ol&gt;
-&lt;li&gt;Introduce the imprint&lt;/li&gt;
-&lt;li&gt;Introduce how the baby learns
-
-&lt;ol&gt;
-&lt;li&gt;Learn by imitation&lt;/li&gt;
-&lt;li&gt;Joint attention&lt;/li&gt;
-&lt;li&gt;Gated learning&lt;/li&gt;
-&lt;/ol&gt;&lt;/li&gt;
-&lt;li&gt;Theory based mathematically driven algorithm vs quick dirty rule based system&lt;/li&gt;
-&lt;/ol&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Future research direction&lt;/p&gt;
-
-&lt;ol&gt;
-&lt;li&gt;Models that take into account the innate mechanisms&lt;/li&gt;
-&lt;li&gt;Environments that can test the models with social rewards&lt;/li&gt;
-&lt;/ol&gt;&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;Reward plays a key role in the reinforcement learning.&lt;/p&gt;
-
-&lt;p&gt;In this post, I will explain three types of the rewards that can shape the intelligent behavior.&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Extrinsic rewards&lt;/strong&gt;: A reward triggered by the external entity.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Intrinsic rewards&lt;/strong&gt;: A reward that can be generated by the agent himself.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Social rewards&lt;/strong&gt;: A rewards that can be generated by the social activities&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&#34;extrinsic-rewards&#34;&gt;Extrinsic rewards&lt;/h3&gt;
-
-&lt;p&gt;Extrinsic rewards means the positive or negative reward triggered by the external entity. A concrete example is the
-Previously rewards meant mostly extrinsic rewards.&lt;/p&gt;
-
-&lt;h3 id=&#34;intrinsic-rewards&#34;&gt;Intrinsic rewards&lt;/h3&gt;
-
-&lt;h3 id=&#34;social-rewards&#34;&gt;Social rewards&lt;/h3&gt;
-
-&lt;p&gt;A search space to generate a meaningful space is very vast and only very few are meaningful. But we can learn from others the meaningful sequence which reduces the search space&lt;/p&gt;
-
-&lt;p&gt;This can be expressed with music note.&lt;/p&gt;
-
-&lt;p&gt;Should we use reward mechanism or reflex mechanism?&lt;/p&gt;
-
-&lt;p&gt;Imprint is an example of reflex mechanism. Because we have the freedom to follow or not, I think reward mechanism makes more sense.&lt;/p&gt;
-
-&lt;h2 id=&#34;references&#34;&gt;References&lt;/h2&gt;
-
-&lt;ol&gt;
-&lt;li&gt;Jones, Susan S. (2012-12-10). &amp;ldquo;Human Toddlers&amp;rsquo; Attempts to Match Two Simple Behaviors Provide No Evidence for an Inherited, Dedicated Imitation Mechanism&amp;rdquo;. PLOS ONE. 7 (12): e51326. Bibcode:2012PLoSO&amp;hellip;751326J. doi:10.1371/journal.pone.0051326. ISSN 1932-6203. PMC 3519587. PMID 23251500&lt;/li&gt;
-&lt;li&gt;Jones, Susan S. (2009-08-27). &amp;ldquo;The development of imitation in infancy&amp;rdquo;. Philosophical Transactions of the Royal Society B: Biological Sciences. 364 (1528): 2325–2335. doi:10.1098/rstb.2009.0045. ISSN 0962-8436. PMC 2865075. PMID 19620104.&lt;/li&gt;
-&lt;li&gt;Rowland, D.C., Yanovich, Y. and Kentros, C.G. (2011). A stable hippocampal representation of a space requires its direct experience. Proceedings of the National Academy of Sciences. 108(35). 14654-14658.  -&amp;gt; An evidence for Gated language&lt;/li&gt;
-&lt;li&gt;CONSPEC and CONLERN: a two-process theory of infant face recognition.
-J Morton, MH Johnson - Psychological review, 1991 - psycnet.apa.org
-Evidence from newborns leads to the conclusion that infants are born with some information
-about the structure of faces. This structural information, termed CONSPEC, guides the
-preference for facelike patterns found in newborn infants. CONSPEC is contrasted with a&lt;br /&gt;&lt;/li&gt;
-&lt;li&gt;Newborns&amp;rsquo; preferential tracking of face-like stimuli and its subsequent decline
-MH Johnson, S Dziurawiec, H Ellis, J Morton - Cognition, 1991 - Elsevier
-Abstract Goren, Sarty, and Wu (1975) claimed that newborn infants will follow a slowly
-moving schematic face stimulus with their head and eyes further than they will folow
-scrambled faces or blank stimuli. Despite the far-reaching theoretical importance of this …&lt;/li&gt;
-&lt;li&gt;How the brain processes social information: searching for the social brain
-TR Insel, RD Fernald - Annu. Rev. Neurosci., 2004 - annualreviews.org
-▪ Abstract Because information about gender, kin, and social status are essential for
-reproduction and survival, it seems likely that specialized neural mechanisms have evolved
-to process social information. This review describes recent studies of four aspects of social&lt;/li&gt;
-&lt;li&gt;Eye contact detection in humans from birth
-T Farroni, G Csibra, F Simion… - Proceedings of the …, 2002 - National Acad Sciences
-Making eye contact is the most powerful mode of establishing a communicative link between
-humans. During their first year of life, infants learn rapidly that the looking behaviors of
-others conveys significant information. Two experiments were carried out to demonstrate …&lt;/li&gt;
-&lt;/ol&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Atom: A Grammar for Unit Visualizations</title>
-      <link>http://crystal.uta.edu/~park/publication/atom/</link>
-      <pubDate>Wed, 26 Sep 2018 21:53:11 -0500</pubDate>
-      
-      <guid>http://crystal.uta.edu/~park/publication/atom/</guid>
-      <description>
-
-
-&lt;figure&gt;
-
-&lt;img src=&#34;./img/atom.jpg&#34; /&gt;
-
-
-
-&lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; &gt;
-  &lt;h4&gt;Sequence of layout operations to generate a unit column chart for survivors of the Titanic by passenger class.&lt;/h4&gt;
-  
-&lt;/figcaption&gt;
-
-&lt;/figure&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Example Page</title>
-      <link>http://crystal.uta.edu/~park/tutorial/example/</link>
-      <pubDate>Sun, 09 Sep 2018 00:00:00 -0500</pubDate>
-      
-      <guid>http://crystal.uta.edu/~park/tutorial/example/</guid>
-      <description>
-
-&lt;p&gt;In this tutorial, I&amp;rsquo;ll share my top 10 tips for getting started with Academic:&lt;/p&gt;
-
-&lt;h2 id=&#34;tip-1&#34;&gt;Tip 1&lt;/h2&gt;
-
-&lt;p&gt;&amp;hellip;&lt;/p&gt;
-
-&lt;h2 id=&#34;tip-2&#34;&gt;Tip 2&lt;/h2&gt;
-
-&lt;p&gt;&amp;hellip;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>ConceptVector: Text Visual Analytics via Interactive Lexicon Building Using Word Embedding</title>
-      <link>http://crystal.uta.edu/~park/publication/conceptvector/</link>
-      <pubDate>Sun, 28 Jan 2018 22:17:58 -0500</pubDate>
-      
-      <guid>http://crystal.uta.edu/~park/publication/conceptvector/</guid>
-      <description>
-
-
-&lt;figure&gt;
-
-&lt;img src=&#34;./img/conceptvector.jpg&#34; /&gt;
-
-
-
-&lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; &gt;
-  &lt;h4&gt;The CommentIQ UI showing toggleable visualizations such as scatterplot, map, and timeline (left) that enable overview and filtering of comments, as well as an adjustable ranking based on various weighted quality criteria (right).ConceptVector supports interactive construction of lexicon-based concepts. Here the user creates a new unipolar concept (1) by adding initial keywords related to &lt;em&gt;tidal flooding&lt;/em&gt; (2). The system recommends related words along with their semantic groupings (3), also shown in a scatterplot (4), revealing word- and cluster-level relationships. Irrelevant words can be specified to improve recommendation quality (5). Concepts (9) can then be used to rank document corpora (10). Document scores can be visualized in a scatterplot based on concepts such as &lt;em&gt;tidal flooding&lt;/em&gt; and &lt;em&gt;money&lt;/em&gt; (7). Users can further refine concepts based on results (8).&lt;/h4&gt;
-  
-&lt;/figcaption&gt;
-
-&lt;/figure&gt;
 </description>
     </item>
     

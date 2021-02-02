@@ -6,7 +6,7 @@
     <description>Recent content in Homes on Deokgun Park</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 20 Apr 2016 00:00:00 -0500</lastBuildDate>
+    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 -0500</lastBuildDate>
     
 	<atom:link href="http://crystal.uta.edu/~park/home/index.xml" rel="self" type="application/rss+xml" />
     
@@ -17,7 +17,7 @@
       <pubDate>Wed, 20 Apr 2016 00:00:00 -0500</pubDate>
       
       <guid>http://crystal.uta.edu/~park/home/about/</guid>
-      <description>Biography Dr. Deokgun Park is an assistant professor of Computer Science and Engineering Department at the University of Texas at Arlington (UTA). His research focuses on open-ended tasks for text mining with two complementary approaches. In visual analytics (VA) approach, he studies how computational methods can scale up human’s ability to perform such tasks. And in artificial general intelligence (AGI) approach, he investigates the fundamental principle of neural information system such that a machine can acquire human language in a human-like way in a simulated environment.</description>
+      <description>Biography Dr. Deokgun Park is an assistant professor of Computer Science and Engineering Department at the University of Texas at Arlington. His research focuses on open-ended tasks for human-level artificial intelligence (HLAI). He investigates the fundamental principle of neural information processing system such that a machine can acquire human language in a human-like way in a simulated environment. He leads the Human Data Interaction Lab (UTA), which studies the models and the testbed for HLAI.</description>
     </item>
     
     <item>
@@ -26,7 +26,7 @@
       <pubDate>Sun, 15 Oct 2017 00:00:00 -0500</pubDate>
       
       <guid>http://crystal.uta.edu/~park/home/recruit/</guid>
-      <description>I am looking for students interested in artificial general intelligence (AGI) research. Please read the following article before contacting me. </description>
+      <description>You can read the following article for the research in HDILab. </description>
     </item>
     
     <item>

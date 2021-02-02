@@ -1,0 +1,755 @@
+<!DOCTYPE html>
+<html lang="en-us">
+<head>
+
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="generator" content="Source Themes Academic 2.4.0">
+  <meta name="generator" content="Hugo 0.55.6" />
+  <meta name="author" content="Deokgun Park">
+
+  
+  
+  
+  
+    
+  
+  <meta name="description" content="This paper presents an online autoencoder that produces non-negative sparse embedding.  ">
+
+  
+  <link rel="alternate" hreflang="en-us" href="http://crystal.uta.edu/~park/post/nnsae/">
+
+  
+
+
+  
+
+  
+  
+  
+  <meta name="theme-color" content="#0095eb">
+  
+
+  
+  
+  
+  
+    
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha256-eSi1q2PG6J7g7ib17yAaWMcrr5GrtohYChqibrV7PBE=" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/academicons/1.8.6/css/academicons.min.css" integrity="sha256-uFVgMKfistnJAfoCUQigIl+JfUaP47GrRKjf6CTPVmw=" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.3.1/css/all.css" integrity="sha384-mzrmE5qonljUremFsqc01SB46JvROS7bZs3IO2EmfFsd15uHvIt+Y8vEf7N7fWAU" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.2.5/jquery.fancybox.min.css" integrity="sha256-ygkqlh3CYSUri3LhQxzdcm0n1EQvH2Y+U5S2idbLtxs=" crossorigin="anonymous">
+
+    
+    
+    
+      
+    
+    
+      
+      
+        
+          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/styles/github.min.css" crossorigin="anonymous">
+        
+      
+    
+
+    
+
+    
+
+  
+
+  
+  
+  <link rel="stylesheet" href=//fonts.googleapis.com/css?family=Montserrat:400,700|Roboto:400,400italic,700|Roboto+Mono>
+  
+
+  <link rel="stylesheet" href="../../styles.css">
+  
+  <link rel="stylesheet" href="../../css/vue.css">
+  
+
+  
+  
+    <script>
+      window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+      ga('create', 'UA-145119349-1', 'auto');
+      
+      ga('require', 'eventTracker');
+      ga('require', 'outboundLinkTracker');
+      ga('require', 'urlChangeTracker');
+      ga('send', 'pageview');
+    </script>
+    <script async src="//www.google-analytics.com/analytics.js"></script>
+    
+    <script async src="https://cdnjs.cloudflare.com/ajax/libs/autotrack/2.4.1/autotrack.js" integrity="sha512-HUmooslVKj4m6OBu0OgzjXXr+QuFYy/k7eLI5jdeEy/F4RSgMn6XRWRGkFi5IFaFgy7uFTkegp3Z0XnJf3Jq+g==" crossorigin="anonymous"></script>
+    
+  
+  
+
+  
+  <link rel="alternate" href="http://crystal.uta.edu/~park/index.xml" type="application/rss+xml" title="Deokgun Park">
+  <link rel="feed" href="http://crystal.uta.edu/~park/index.xml" type="application/rss+xml" title="Deokgun Park">
+  
+
+  <link rel="manifest" href="../../site.webmanifest">
+  <link rel="icon" type="image/png" href="../../img/icon.png">
+  <link rel="apple-touch-icon" type="image/png" href="../../img/icon-192.png">
+
+  <link rel="canonical" href="http://crystal.uta.edu/~park/post/nnsae/">
+
+  <meta property="twitter:card" content="summary_large_image">
+  
+  <meta property="twitter:site" content="@intuinno">
+  <meta property="twitter:creator" content="@intuinno">
+  
+  <meta property="og:site_name" content="Deokgun Park">
+  <meta property="og:url" content="http://crystal.uta.edu/~park/post/nnsae/">
+  <meta property="og:title" content="Paper Summary: Online learning and generalization of parts-based image representations by non-negative sparse autoencoders | Deokgun Park">
+  <meta property="og:description" content="This paper presents an online autoencoder that produces non-negative sparse embedding.  ">
+  
+  
+    
+  <meta property="og:image" content="http://crystal.uta.edu/~park/img/profile.jpg">
+  <meta property="og:locale" content="en-us">
+  
+  <meta property="article:published_time" content="2020-08-05T00:00:00-05:00">
+  
+  <meta property="article:modified_time" content="2021-02-01T19:33:00-06:00">
+  
+
+  
+
+  
+
+  <title>Paper Summary: Online learning and generalization of parts-based image representations by non-negative sparse autoencoders | Deokgun Park</title>
+
+</head>
+<body id="top" data-spy="scroll" data-target="#TableOfContents" data-offset="71" >
+
+<nav class="navbar navbar-light fixed-top navbar-expand-lg py-0" id="navbar-main">
+  <div class="container">
+
+    
+      <a class="navbar-brand" href="../../">Deokgun Park</a>
+      
+      <button type="button" class="navbar-toggler" data-toggle="collapse"
+              data-target="#navbar" aria-controls="navbar" aria-expanded="false" aria-label="Toggle navigation">
+        <span><i class="fas fa-bars"></i></span>
+      </button>
+      
+
+    
+    <div class="collapse navbar-collapse" id="navbar">
+
+      
+      
+      <ul class="navbar-nav ml-auto">
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link" href="../../#about">
+            
+            <span>Home</span>
+            
+          </a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link" href="../../#publications">
+            
+            <span>Publications</span>
+            
+          </a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link" href="../../#posts">
+            
+            <span>Posts</span>
+            
+          </a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link" href="../../#teaching">
+            
+            <span>Teaching</span>
+            
+          </a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link" href="../../#talks">
+            
+            <span>Talks</span>
+            
+          </a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link" href="../../files/cv.pdf">
+            
+            <span>CV</span>
+            
+          </a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link" href="../../#contact">
+            
+            <span>Contact</span>
+            
+          </a>
+        </li>
+
+        
+        
+
+      
+
+        
+
+        
+      </ul>
+
+    </div>
+  </div>
+</nav>
+
+
+<article class="article" itemscope itemtype="http://schema.org/Article">
+
+  
+
+
+  <div class="article-container">
+    <h1 itemprop="name">Paper Summary: Online learning and generalization of parts-based image representations by non-negative sparse autoencoders</h1>
+
+    
+
+<div class="article-metadata">
+
+  
+  
+  
+  <div>
+    
+    <span itemscope itemprop="author" itemtype="http://schema.org/Person">
+      <span itemprop="name">Deokgun Park</span>
+    </span>
+    
+  </div>
+  
+
+  <span class="article-date">
+    
+        Last updated on
+    
+    <meta content="2020-08-05 00:00:00 -0500 CDT" itemprop="datePublished">
+    <time datetime="2021-02-01 19:33:00 -0600 CST" itemprop="dateModified">
+      Feb 1, 2021
+    </time>
+  </span>
+  <span itemscope itemprop="publisher" itemtype="http://schema.org/Person">
+    <meta itemprop="name" content="Deokgun Park">
+  </span>
+
+  
+
+  
+  
+
+  
+
+  
+  
+<div class="share-box" aria-hidden="true">
+  <ul class="share">
+    <li>
+      <a class="twitter"
+         href="https://twitter.com/intent/tweet?text=Paper%20Summary%3a%20Online%20learning%20and%20generalization%20of%20parts-based%20image%20representations%20by%20non-negative%20sparse%20autoencoders&amp;url=http%3a%2f%2fcrystal.uta.edu%2f~park%2fpost%2fnnsae%2f"
+         target="_blank" rel="noopener">
+        <i class="fab fa-twitter"></i>
+      </a>
+    </li>
+    <li>
+      <a class="facebook"
+         href="https://www.facebook.com/sharer.php?u=http%3a%2f%2fcrystal.uta.edu%2f~park%2fpost%2fnnsae%2f"
+         target="_blank" rel="noopener">
+        <i class="fab fa-facebook-f"></i>
+      </a>
+    </li>
+    <li>
+      <a class="linkedin"
+         href="https://www.linkedin.com/shareArticle?mini=true&amp;url=http%3a%2f%2fcrystal.uta.edu%2f~park%2fpost%2fnnsae%2f&amp;title=Paper%20Summary%3a%20Online%20learning%20and%20generalization%20of%20parts-based%20image%20representations%20by%20non-negative%20sparse%20autoencoders"
+         target="_blank" rel="noopener">
+        <i class="fab fa-linkedin-in"></i>
+      </a>
+    </li>
+    <li>
+      <a class="weibo"
+         href="http://service.weibo.com/share/share.php?url=http%3a%2f%2fcrystal.uta.edu%2f~park%2fpost%2fnnsae%2f&amp;title=Paper%20Summary%3a%20Online%20learning%20and%20generalization%20of%20parts-based%20image%20representations%20by%20non-negative%20sparse%20autoencoders"
+         target="_blank" rel="noopener">
+        <i class="fab fa-weibo"></i>
+      </a>
+    </li>
+    <li>
+      <a class="email"
+         href="mailto:?subject=Paper%20Summary%3a%20Online%20learning%20and%20generalization%20of%20parts-based%20image%20representations%20by%20non-negative%20sparse%20autoencoders&amp;body=http%3a%2f%2fcrystal.uta.edu%2f~park%2fpost%2fnnsae%2f">
+        <i class="fas fa-envelope"></i>
+      </a>
+    </li>
+  </ul>
+</div>
+
+
+  
+
+</div>
+
+
+    <div class="article-style" itemprop="articleBody">
+      
+
+<p>This is the paper review of <a href="https://www.sciencedirect.com/science/article/pii/S0893608012001451?casa_token=WYDIO2ntGhQAAAAA:B29Tp8xM_QevE28SHvAOVdn8nXVPCaGSOdZ90BY4vAI-YXUv4gYbknpJt_-TLjiWB7ki2pHHe4M" target="_blank">the following paper</a>.</p>
+
+<blockquote>
+<p>Lemme, Andre, René Felix Reinhart, and Jochen Jakob Steil. &ldquo;Online learning and generalization of parts-based image representations by non-negative sparse autoencoders.&rdquo; Neural Networks 33 (2012): 194-203.</p>
+</blockquote>
+
+<p>This paper presents a variation of autoencoder (AE) models. It is estimated that the human visual cortex uses basis functions to transform an input image to sparse representation<sup class="footnote-ref" id="fnref:1"><a href="#fn:1">1</a></sup>.<br />
+Autoencoders seem to be good models for the process because they can produce embedding representation with different dimensions from the original signal. Training of the model is also easy because we don&rsquo;t need labels for the inputs but use the difference from the original input and the recovered input from embedding as an error function.</p>
+
+<p>There are many variations for the autoencoders, including variational autoencoder (VAE) and sparse AE. VAE is for the interpretability. Conceptually, the high-dimensional space of the embedding can have an arbitrarily complex pattern. There can be many undefined spaces.   For example, let&rsquo;s say there are four dimensions for embedding and it happens to represent a cat with [0.5 0.5 0.5 0.5 0.8] and a dog with [0.5 0.5 0.5 0.5 0.2]. But there can be no meaning between 0.2 and 0.8 for the last dimension. It becomes especially problematic when you want to generate some data by randomly sampling from embedding space. It will be embarrassing if there are no meaningful data to most of the embedding space. VAE solves this problem by adding the constraint that the embedding values should follow a gaussian normal distribution. Technically, you add additional loss term for KL divergence between the distribution of embedding values and gaussian distribution.  You can see an online demo of generating an image from Doom by changing latent dimensions <a href="https://worldmodels.github.io/" target="_blank">here</a>.</p>
+
+<p>Another meaningful variation is that making the embedding sparse. Here we want only a small portion of embeddings to be nonzero while standard AE and VAE generate dense representation. Why do we want sparse representation? Sparsity has many benefits.</p>
+
+<ul>
+<li>It is easier to interpret. You can think of each nonzero value as the feature present in the data. For interpretability, non-negativity helps, too. What will be the meaning of the negative yellow? Or negative car? My favorite representation is a sparse binary representation, which maximizes the interpretability.</li>
+<li>It is more biologically plausible. At any given point, about two percents of the neural cells are active. Of course, AI does not need to use the same mechanism as the rockets, helicopters, or jet airplanes do not use the flipping mechanism to fly as birds do.<br /></li>
+<li>According to Olshausen and Field (2004), it can minimize the chance for destructive cross talk.<br /></li>
+<li>According to Ranzato, Boureau, and LeCun (2008), it improves the linear separability.<br /></li>
+</ul>
+
+<p>L1 loss called lasso loss is commonly used to build a sparse model. Andrew Ng used the KL divergence between a binominal distribution and the activation frequency of embedding values.  It has one additional parameter that allows us to set the activation probability. Therefore, we can set the activation probability of embedding at two percent that is about the same as how frequently the biological neural cells activate.</p>
+
+<p>This paper presents a non-negative sparse autoencoder (NNSAE). Compared to other AE variants, NNSAE has the following benefits for my heterarchical prediction memory (HPM).</p>
+
+<ul>
+<li>Non-negative</li>
+<li>Sparse</li>
+<li>Online</li>
+<li>Sparsity adds a built-in regulation to prevent overfitting</li>
+<li>Local</li>
+</ul>
+
+<p>Non-negative matrix factorization (NMF) has been used to get non-negative embedding. However, this method relies on iterative fitting and does not work well with streaming inputs. NNSAE uses a larger update rate for negative weights than positive weights. It penalizes the negative weights and forces the weights to be positive.  The logistic activation function has been used to make the output values between zero and one. In NNSAE, the logistic activation function is shifted such that only a certain percentage of the cells are activated. The below figure explains this concept visually.</p>
+
+
+
+
+<figure>
+
+<img src="../../img/NNSAE1.png" width="100%" />
+
+
+
+<figcaption data-pre="Figure " data-post=":" class="numbered">
+  <h4>This figure explains how NNSAE generates a sparse code by shifting sigmoid function by parameter a and b. As can be seen in right figure, the shifted sigmoid generates a sparse code given gaussian input.</h4>
+  
+</figcaption>
+
+</figure>
+
+<p>The sparsity constraint of the model enforces the regularization. In the synthetic toy dataset, where the ground-truth basis dimension is 18, we can see that the additional hidden dimensions are not used, as we can see when we use embedding dimensions larger than 18.</p>
+
+
+
+
+<figure>
+
+<img src="../../img/NNSAE4.png" width="100%" />
+
+
+
+<figcaption data-pre="Figure " data-post=":" class="numbered">
+  <h4>This sysnthetic dataset has 18 basis. As we can see in (d) and (e), when there are more hidden units, the model only uses 18 basis and does not use the remainder.</h4>
+  
+</figcaption>
+
+</figure>
+
+<p>Similarly, for MNIST and CBCL face dataset, we can see that the number of used neurons does not explode beyond as the standard AE and sparsity is met.</p>
+
+
+
+
+<figure>
+
+<img src="../../img/NNSAE5.png" width="100%" />
+
+
+
+<figcaption data-pre="Figure " data-post=":" class="numbered">
+  <h4>In (a) and (b), we can see that the number of used neurons for hidden unit saturates, even though the number of hidden units increase. In &copy;, we can see the standard AE uses all the basis, while the NNSAE uses only subset of basis and the remainder is near zero as seen in (d).</h4>
+  
+</figcaption>
+
+</figure>
+
+<p>As the algorithm is online, we can change the dataset in the middle of the training and expect the model to adapt to the new dataset, as can be seen below.</p>
+
+
+
+
+<figure>
+
+<img src="../../img/NNSAE2.png" width="100%" />
+
+
+
+<figcaption data-pre="Figure " data-post=":" class="numbered">
+  <h4>The algorithm is online, therefore when we switch the dataset, it adapts to new dataset.</h4>
+  
+</figcaption>
+
+</figure>
+
+<h2 id="use-of-nnsae-for-hpm">Use of NNSAE for HPM</h2>
+
+<p>I conjecture that each module predicts what will come as an input for the next time step. It is similar to AE that we can train the model minimizing the difference between the current input and recovered output. However, it becomes difficult to predict far in the future. I want to overcome this limitation by having a hierarchy of layers predicting the next time step. Each layer predicts the next time step and aggregates the four-time steps. This aggregated input is then reduced to the dimension of single input using NNSAE. The upper layer feeds back this information to the lower layer. Therefore lower layers have two inputs. One is the actual input, and the other is context.</p>
+
+
+
+
+<figure>
+
+<img src="../../img/HPM2.png" width="100%" />
+
+
+
+<figcaption data-pre="Figure " data-post=":" class="numbered">
+  <h4>The diagram for HPM model</h4>
+  
+</figcaption>
+
+</figure>
+
+<p>As a concrete example in the language modeling application, let&rsquo;s say that you have a stream of characters. You might have three layers working on different time scales. The lowest layer L1 gets the characters encoded as sparse binary codes. In my experiment, I used 512 as the embedding size and only 10 bits, which is about two percents are on, and the rest is off.  L1 tries to predict the next character by using a multilayer perceptron (MLP). But inherently, you cannot predict the next character given only the current character. For example, &ldquo;a&rdquo; or &ldquo;h&rdquo; can follow &ldquo;c&rdquo; as &ldquo;cat&rdquo; or &ldquo;choice&rdquo;. Context from the upper layer helps here. For L1, context from L2 contains information about the last four characters. Therefore L1 can predict the next characters better. Now, L1 sends a bottom-up feedforward signal by compressing embedding for four characters into 512 bits with ten on bits. This function is called &ldquo;pooling,&rdquo; and I used NNSAE for implementing the pooler.</p>
+
+<p>The below figure shows my language model&rsquo;s performance trained over a short text file and a large text file.</p>
+
+
+
+
+<figure>
+
+<img src="../../img/NNSAE6.png" width="100%" />
+
+
+
+<figcaption data-pre="Figure " data-post=":" class="numbered">
+  <h4>The performance of NNSAE for the character level language modeling. We used three layers. Each layer has a predictor and a pooler. Pooler uses NNSAE.</h4>
+  
+</figcaption>
+
+</figure>
+
+<p>While the performance of the pooler or NNSAE is satisfactory, the predictor performance is not. Below are some of my future strategy to make the predictor faster and better.</p>
+
+<ul>
+<li>Deep Sparse Rectifier Neural Networks by Xavier Glorot, Antoine Bordes, Yoshua Bengio.</li>
+<li>Sparse deep belief net model for visual area V2 by Honglak Lee, Chaitanya, Ekanadham,  Andrew Ng</li>
+<li>Synergies between Intrinsic and Synaptic Plasticity in Individual Model Neurons by Jochen Triesch</li>
+<li>Echo State Networks</li>
+<li>L1 Loss</li>
+</ul>
+
+<p>Below is my mindmap for the related papers to artificial general intelligence.
+<iframe width="600" height="400" frameborder="0" src="https://www.mindmeister.com/maps/public_map_shell/1405726945/references?width=600&height=400&z=auto&live_update=1&no_logo=1" scrolling="no" style="overflow: hidden; margin-bottom: 5px;">Your browser is not able to display frames. Please visit <a href="https://www.mindmeister.com/1405726945/references" target="_blank">References</a> on MindMeister.</iframe><div class="mb-5"><a href="https://www.mindmeister.com/1405726945/references" target="_blank">References</a> by <a href="https://www.mindmeister.com/users/channel/42813067" target="_blank">Deokgun Park</a></div></p>
+<div class="footnotes">
+
+<hr />
+
+<ol>
+<li id="fn:1">Olshausen, Bruno A., and David J. Field. &ldquo;Sparse coding with an overcomplete basis set: A strategy employed by V1?.&rdquo; Vision research 37.23 (1997): 3311-3325.
+ <a class="footnote-return" href="#fnref:1"><sup>^</sup></a></li>
+</ol>
+</div>
+
+    </div>
+
+    
+
+
+<div class="article-tags">
+  
+  <a class="badge badge-light" href="../../tags/agi/">agi</a>
+  
+  <a class="badge badge-light" href="../../tags/research/">research</a>
+  
+  <a class="badge badge-light" href="../../tags/model/">model</a>
+  
+  <a class="badge badge-light" href="">paper review</a>
+  
+</div>
+
+
+
+
+    
+    
+    <div class="article-widget">
+      <div class="hr-light"></div>
+      <h3>Related</h3>
+      <ul>
+        
+        <li><a href="../../post/universal-intelligence/">Paper Summary: Universal Intelligence: A Definition of Machine Intelligence</a></li>
+        
+        <li><a href="../../post/sparsey/">Paper Summary: A cortical sparse distributed coding model linking mini- and macrocolumn-scale functionality</a></li>
+        
+        <li><a href="../../post/yoshua-bengio/">Lecture Summary: AI-Horizons Colloquium by Yoshua Bengio</a></li>
+        
+        <li><a href="../../post/housefly/">Paper Summary: An Immersive System for Browsing and Visualizing Surveillance Video</a></li>
+        
+        <li><a href="../../post/preschool/">Paper Summary: AGI Preschool: A Framework for Evaluating Early-Stage Human-like AGIs</a></li>
+        
+      </ul>
+    </div>
+    
+
+    
+
+    
+
+
+  </div>
+</article>
+
+<div class="container">
+  <footer class="site-footer">
+  
+
+  <p class="powered-by">
+    
+
+    Powered by the
+    <a href="https://sourcethemes.com/academic/" target="_blank" rel="noopener">Academic theme</a> for
+    <a href="https://gohugo.io" target="_blank" rel="noopener">Hugo</a>.
+
+    
+    <span class="float-right" aria-hidden="true">
+      <a href="#" id="back_to_top">
+        <span class="button_icon">
+          <i class="fas fa-chevron-up fa-2x"></i>
+        </span>
+      </a>
+    </span>
+    
+  </p>
+</footer>
+
+</div>
+
+
+<div id="modal" class="modal fade" role="dialog">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title">Cite</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        <pre><code class="tex hljs"></code></pre>
+      </div>
+      <div class="modal-footer">
+        <a class="btn btn-outline-primary my-1 js-copy-cite" href="#" target="_blank">
+          <i class="fas fa-copy"></i> Copy
+        </a>
+        <a class="btn btn-outline-primary my-1 js-download-cite" href="#" target="_blank">
+          <i class="fas fa-download"></i> Download
+        </a>
+        <div id="modal-error"></div>
+      </div>
+    </div>
+  </div>
+</div>
+
+    
+
+    
+    
+    <script type="text/x-mathjax-config">
+      MathJax.Hub.Config({
+        CommonHTML: { linebreaks: { automatic: true } },
+        tex2jax: { inlineMath: [ ['$', '$'], ['\\(','\\)'] ], displayMath: [ ['$$','$$'], ['\\[', '\\]'] ], processEscapes: false },
+        TeX: { noUndefined: { attributes: { mathcolor: 'red', mathbackground: '#FFEEEE', mathsize: '90%' } } },
+        messageStyle: 'none'
+      });
+    </script>
+    
+
+    
+    
+    
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js" integrity="sha512-+NqPlbbtM1QqiK8ZAo4Yrj2c4lNQoGv8P79DPtKzj++l5jnN39rHA/xsqn8zE9l0uSoxaCdrOgFs6yjyfbBxSg==" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.imagesloaded/4.1.3/imagesloaded.pkgd.min.js" integrity="sha512-umsR78NN0D23AzgoZ11K7raBD+R6hqKojyBZs1w8WvYlsI+QuKRGBx3LFCwhatzBunCjDuJpDHwxD13sLMbpRA==" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha256-VsEqElsCHSGmnmHXGQzvoWjWwoznFSZc6hs7ARLRacQ=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.isotope/3.0.4/isotope.pkgd.min.js" integrity="sha512-VDBOIlDbuC4VWxGJNmuFRQ0Li0SKkDpmGyuhAG5LTDLd/dJ/S0WMVxriR2Y+CyPL5gzjpN4f/6iqWVBJlht0tQ==" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.2.5/jquery.fancybox.min.js" integrity="sha256-X5PoE3KU5l+JcX+w09p/wHl9AzK333C4hJ2I9S5mD4M=" crossorigin="anonymous"></script>
+
+      
+        
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/highlight.min.js" integrity="sha256-/BfiIkHlHoVihZdc6TFuj7MmJ0TWcWsMXkeDFwhi0zw=" crossorigin="anonymous"></script>
+        
+      
+
+      
+      
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.4/MathJax.js?config=TeX-AMS_CHTML-full" integrity="sha256-GhM+5JHb6QUzOQPXSJLEWP7R73CbkisjzK5Eyij4U9w=" crossorigin="anonymous" async></script>
+      
+    
+
+    <script src="../../js/hugo-academic.js"></script>
+    
+
+    
+    
+
+    
+    
+    
+
+    
+    
+    <script>hljs.initHighlightingOnLoad();</script>
+    
+
+    
+    
+    <script>
+      const search_index_filename = "/index.json";
+      const i18n = {
+        'placeholder': "Search...",
+        'results': "Search Results",
+        'no_results': "No results found"
+      };
+      const content_type = {
+        'post': "Posts",
+        'project': "Projects",
+        'publication' : "Publications",
+        'talk' : "Talks"
+        };
+    </script>
+    
+
+    
+    
+
+    
+    
+    <script id="search-hit-fuse-template" type="text/x-template">
+      <div class="search-hit" id="summary-{{key}}">
+      <div class="search-hit-content">
+        <div class="search-hit-name">
+          <a href="{{relpermalink}}">{{title}}</a>
+          <div class="article-metadata search-hit-type">{{type}}</div>
+          <p class="search-hit-description">{{snippet}}</p>
+        </div>
+      </div>
+      </div>
+    </script>
+    
+
+    
+    
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/fuse.js/3.2.1/fuse.min.js" integrity="sha256-VzgmKYmhsGNNN4Ph1kMW+BjoYJM2jV5i4IlFoeZA9XI=" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/mark.js/8.11.1/jquery.mark.min.js" integrity="sha256-4HLtjeVgH0eIB3aZ9mLYF6E8oU5chNdjU6p6rrXpl9U=" crossorigin="anonymous"></script>
+    <script src="../../js/search.js"></script>
+    
+
+    
+    
+
+  </body>
+</html>
+
