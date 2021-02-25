@@ -17,7 +17,7 @@
       <pubDate>Wed, 20 Apr 2016 00:00:00 -0500</pubDate>
       
       <guid>http://crystal.uta.edu/~park/home/about/</guid>
-      <description>Biography Dr. Deokgun Park is an assistant professor of Computer Science and Engineering Department at the University of Texas at Arlington. His research focuses on open-ended tasks for human-level artificial intelligence (HLAI). He investigates the fundamental principle of neural information processing system such that a machine can acquire human language in a human-like way in a simulated environment. He leads the Human Data Interaction Lab (UTA), which studies the models and the testbed for HLAI.</description>
+      <description>Biography Dr. Deokgun Park is an assistant professor of Computer Science and Engineering Department at the University of Texas at Arlington. Dr. Park’s research objective is to program human-level artificial intelligence (HLAI). He investigates the fundamental principle of neural information processing system such that a machine can acquire human language in a human-like way in a simulated environment. He leads the Human Data Interaction Lab (UTA), which studies the models and the testbed for HLAI.</description>
     </item>
     
     <item>
@@ -26,7 +26,16 @@
       <pubDate>Sun, 15 Oct 2017 00:00:00 -0500</pubDate>
       
       <guid>http://crystal.uta.edu/~park/home/recruit/</guid>
-      <description>You can read the following article for the research in HDILab. </description>
+      <description>I don&amp;rsquo;t have any funded graduate positions now. But if you are still interested in my lab, please read the following article for the research in HDILab before sending any emails. </description>
+    </item>
+    
+    <item>
+      <title>Research</title>
+      <link>http://crystal.uta.edu/~park/home/projects/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0500</pubDate>
+      
+      <guid>http://crystal.uta.edu/~park/home/projects/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -44,6 +53,24 @@
       <pubDate>Wed, 20 Apr 2016 00:00:00 -0500</pubDate>
       
       <guid>http://crystal.uta.edu/~park/home/conference/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://crystal.uta.edu/~park/home/preprint/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0500</pubDate>
+      
+      <guid>http://crystal.uta.edu/~park/home/preprint/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://crystal.uta.edu/~park/home/workshop/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0500</pubDate>
+      
+      <guid>http://crystal.uta.edu/~park/home/workshop/</guid>
       <description></description>
     </item>
     

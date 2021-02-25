@@ -1,0 +1,804 @@
+<!DOCTYPE html>
+<html lang="en-us">
+<head>
+
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="generator" content="Source Themes Academic 2.4.0">
+  <meta name="generator" content="Hugo 0.55.6" />
+  <meta name="author" content="Deokgun Park">
+
+  
+  
+  
+  
+    
+  
+  <meta name="description" content="A quest to program a robot that we can talk with it to ask many services like a human buttler ">
+
+  
+  <link rel="alternate" hreflang="en-us" href="http://crystal.uta.edu/~park/project/hlai/">
+
+  
+
+
+  
+
+  
+  
+  
+  <meta name="theme-color" content="#0095eb">
+  
+
+  
+  
+  
+  
+    
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha256-eSi1q2PG6J7g7ib17yAaWMcrr5GrtohYChqibrV7PBE=" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/academicons/1.8.6/css/academicons.min.css" integrity="sha256-uFVgMKfistnJAfoCUQigIl+JfUaP47GrRKjf6CTPVmw=" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.3.1/css/all.css" integrity="sha384-mzrmE5qonljUremFsqc01SB46JvROS7bZs3IO2EmfFsd15uHvIt+Y8vEf7N7fWAU" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.2.5/jquery.fancybox.min.css" integrity="sha256-ygkqlh3CYSUri3LhQxzdcm0n1EQvH2Y+U5S2idbLtxs=" crossorigin="anonymous">
+
+    
+    
+    
+      
+    
+    
+      
+      
+        
+          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/styles/github.min.css" crossorigin="anonymous">
+        
+      
+    
+
+    
+
+    
+
+  
+
+  
+  
+  <link rel="stylesheet" href=//fonts.googleapis.com/css?family=Montserrat:400,700|Roboto:400,400italic,700|Roboto+Mono>
+  
+
+  <link rel="stylesheet" href="../../styles.css">
+  
+  <link rel="stylesheet" href="../../css/vue.css">
+  
+
+  
+  
+    <script>
+      window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+      ga('create', 'UA-145119349-1', 'auto');
+      
+      ga('require', 'eventTracker');
+      ga('require', 'outboundLinkTracker');
+      ga('require', 'urlChangeTracker');
+      ga('send', 'pageview');
+    </script>
+    <script async src="//www.google-analytics.com/analytics.js"></script>
+    
+    <script async src="https://cdnjs.cloudflare.com/ajax/libs/autotrack/2.4.1/autotrack.js" integrity="sha512-HUmooslVKj4m6OBu0OgzjXXr+QuFYy/k7eLI5jdeEy/F4RSgMn6XRWRGkFi5IFaFgy7uFTkegp3Z0XnJf3Jq+g==" crossorigin="anonymous"></script>
+    
+  
+  
+
+  
+  <link rel="alternate" href="http://crystal.uta.edu/~park/index.xml" type="application/rss+xml" title="Deokgun Park">
+  <link rel="feed" href="http://crystal.uta.edu/~park/index.xml" type="application/rss+xml" title="Deokgun Park">
+  
+
+  <link rel="manifest" href="../../site.webmanifest">
+  <link rel="icon" type="image/png" href="../../img/icon.png">
+  <link rel="apple-touch-icon" type="image/png" href="../../img/icon-192.png">
+
+  <link rel="canonical" href="http://crystal.uta.edu/~park/project/hlai/">
+
+  <meta property="twitter:card" content="summary_large_image">
+  
+  <meta property="twitter:site" content="@intuinno">
+  <meta property="twitter:creator" content="@intuinno">
+  
+  <meta property="og:site_name" content="Deokgun Park">
+  <meta property="og:url" content="http://crystal.uta.edu/~park/project/hlai/">
+  <meta property="og:title" content="Human-Level Artificial Intelligence | Deokgun Park">
+  <meta property="og:description" content="A quest to program a robot that we can talk with it to ask many services like a human buttler ">
+  
+  
+    
+  <meta property="og:image" content="http://crystal.uta.edu/~park/img/rosie.png">
+  <meta property="og:locale" content="en-us">
+  
+  <meta property="article:published_time" content="2016-04-27T00:00:00-05:00">
+  
+  <meta property="article:modified_time" content="2021-02-25T16:44:52-06:00">
+  
+
+  
+
+  
+
+  <title>Human-Level Artificial Intelligence | Deokgun Park</title>
+
+</head>
+<body id="top" data-spy="scroll" data-target="#TableOfContents" data-offset="71" >
+
+<nav class="navbar navbar-light fixed-top navbar-expand-lg py-0" id="navbar-main">
+  <div class="container">
+
+    
+      <a class="navbar-brand" href="../../">Deokgun Park</a>
+      
+      <button type="button" class="navbar-toggler" data-toggle="collapse"
+              data-target="#navbar" aria-controls="navbar" aria-expanded="false" aria-label="Toggle navigation">
+        <span><i class="fas fa-bars"></i></span>
+      </button>
+      
+
+    
+    <div class="collapse navbar-collapse" id="navbar">
+
+      
+      
+      <ul class="navbar-nav ml-auto">
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link" href="../../#about">
+            
+            <span>Home</span>
+            
+          </a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link" href="../../#projects">
+            
+            <span>Research</span>
+            
+          </a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link" href="../../#publications">
+            
+            <span>Publications</span>
+            
+          </a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link" href="../../#posts">
+            
+            <span>Posts</span>
+            
+          </a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link" href="../../files/cv.pdf">
+            
+            <span>CV</span>
+            
+          </a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link" href="../../#contact">
+            
+            <span>Contact</span>
+            
+          </a>
+        </li>
+
+        
+        
+
+      
+
+        
+
+        
+      </ul>
+
+    </div>
+  </div>
+</nav>
+
+
+<article class="article article-project" itemscope itemtype="http://schema.org/Article">
+
+  
+<div class="article-header">
+  
+  
+    <img src="../../img/rosie.png" class="article-banner" itemprop="image">
+  
+
+  <span class="article-header-caption">My caption 😄</span>
+</div>
+
+
+
+  <div class="article-container">
+
+    <div class="pub-title">
+      <h1 itemprop="name">Human-Level Artificial Intelligence</h1>
+      <span class="pub-authors" itemprop="author">&nbsp;</span>
+      <span class="float-right">
+        
+<div class="share-box" aria-hidden="true">
+  <ul class="share">
+    <li>
+      <a class="twitter"
+         href="https://twitter.com/intent/tweet?text=Human-Level%20Artificial%20Intelligence&amp;url=http%3a%2f%2fcrystal.uta.edu%2f~park%2fproject%2fhlai%2f"
+         target="_blank" rel="noopener">
+        <i class="fab fa-twitter"></i>
+      </a>
+    </li>
+    <li>
+      <a class="facebook"
+         href="https://www.facebook.com/sharer.php?u=http%3a%2f%2fcrystal.uta.edu%2f~park%2fproject%2fhlai%2f"
+         target="_blank" rel="noopener">
+        <i class="fab fa-facebook-f"></i>
+      </a>
+    </li>
+    <li>
+      <a class="linkedin"
+         href="https://www.linkedin.com/shareArticle?mini=true&amp;url=http%3a%2f%2fcrystal.uta.edu%2f~park%2fproject%2fhlai%2f&amp;title=Human-Level%20Artificial%20Intelligence"
+         target="_blank" rel="noopener">
+        <i class="fab fa-linkedin-in"></i>
+      </a>
+    </li>
+    <li>
+      <a class="weibo"
+         href="http://service.weibo.com/share/share.php?url=http%3a%2f%2fcrystal.uta.edu%2f~park%2fproject%2fhlai%2f&amp;title=Human-Level%20Artificial%20Intelligence"
+         target="_blank" rel="noopener">
+        <i class="fab fa-weibo"></i>
+      </a>
+    </li>
+    <li>
+      <a class="email"
+         href="mailto:?subject=Human-Level%20Artificial%20Intelligence&amp;body=http%3a%2f%2fcrystal.uta.edu%2f~park%2fproject%2fhlai%2f">
+        <i class="fas fa-envelope"></i>
+      </a>
+    </li>
+  </ul>
+</div>
+
+
+      </span>
+    </div>
+
+    
+
+    <div class="article-style" itemprop="articleBody">
+      <p>Dr. Park’s research objective is to program human-level artificial intelligence (HLAI). Specially, he is interested in</p>
+
+<ol>
+<li>A rigorous definition of HLAI;</li>
+<li>An environment to develop and test HLAI; and</li>
+<li>A cognitive model for HLAI. Below is a brief introduction for each topic.</li>
+</ol>
+
+<p>The term AI is used in a broad meaning, and HLAI is not clearly defined. He is working on the first theme, a rigorous definition of HLAI. He claims that the essence of Human-Level Intelligence (HLI) to be the capability to learn from others&rsquo; experiences via language. The key is that the event described by language has the same effect as if the agent experiences it firsthand. For example, let us say that you have never tried cola before. Then one day, you see a cup of cola as a sparkling black liquid. As a random exploration, you tasted it, and it felt good. Now your value function for the state would be updated according to this event. A similar change should have been brought if your friend tells you, &ldquo;I saw a sparkling black liquid. I drank it, and it tasted good.&rdquo; It requires that the language description and the sensory-motor signal should be transferrable.
+You can read more about it <a href="https://arxiv.org/abs/2011.09410" target="_blank">here</a>.
+
+
+
+<figure>
+
+<img src="../../img/language.png" width="100%" />
+
+
+
+<figcaption data-pre="Figure " data-post=":" class="numbered">
+  <h4>Learning with language means that the symbolic description brings the same changes to the model comparable to direct experiences.</h4>
+  
+</figcaption>
+
+</figure></p>
+
+<p>To develop and test models with such a language capability, my students and I are developing a simulated environment. There is a 3D Home environment in this environment, and a mother character takes care of the baby and teaches languages. The baby is the learning agent. The environment provides it with comparable experiences to that of a human baby from birth to one year. You can learn more about the environment at the paper titled, <a href="https://arxiv.org/abs/2009.01810" target="_blank">SEDRo: a Simulated Environment for Developmental Robotics.</a></p>
+
+
+
+
+<figure>
+
+<img src="../../img/sedro_babymind.png" width="100%" />
+
+
+
+<figcaption data-pre="Figure " data-post=":" class="numbered">
+  <h4>Screenshots from SEDRo environments. (a) Fetus environment. Almost dark space with no visual capability of the baby. (b) After birth house environment with a Mother character and some other toys. &copy; Mother is feeding the baby. (d) Mother is showing a toy to the baby</h4>
+  
+</figcaption>
+
+</figure>
+
+<p>Using the environment as the testbed, I have been working on the implementation of HLAI. In my theory, there are three components of the human brain: instincts, functional components, and universal memory. Functional components are subcortical structures such as reward systems and the hippocampus. Universal memory is the neocortex, where I conjecture that homogenous modules are connected heterarchically. Each module predicts the next vector signal given the sequence of the sensory-motor signal. These modules are updated locally, in contrast to the traditional end-to-end approach where an entire network is updated according to the single objective or loss function. Also, the top-down signal from the higher layer provides a temporal and spatial context.</p>
+
+
+
+
+<figure>
+
+<img src="../../img/HPM2.png" width="100%" />
+
+
+
+<figcaption data-pre="Figure " data-post=":" class="numbered">
+  <h4>The diagram for HPM model</h4>
+  
+</figcaption>
+
+</figure>
+
+    </div>
+
+    
+
+
+<div class="article-tags">
+  
+  <a class="badge badge-light" href="../../tags/hlai/">HLAI</a>
+  
+  <a class="badge badge-light" href="../../tags/env/">env</a>
+  
+  <a class="badge badge-light" href="../../tags/model/">model</a>
+  
+  <a class="badge badge-light" href="../../tags/theory/">theory</a>
+  
+</div>
+
+
+
+
+    
+    
+    
+
+    
+      
+      
+      
+      
+        <h2>Publications</h2>
+        
+          
+            <div class="pub-list-item" style="margin-bottom: 1rem" itemscope itemtype="http://schema.org/CreativeWork">
+  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+  <a href="../../publication/definition_hlai/" itemprop="name">A Definition and a Test for Human-Level Artificial Intelligence</a>
+  <div itemprop="author">
+    Md Ashaduzzaman Rubel Mondol, Aishwarya Pothula, Sm Mazharul Islam, Deokgun Park</div>
+  <p>
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://arxiv.org/abs/2011.09410" target="_blank" rel="noopener">
+  Preprint
+</a>
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="../../files/publications/theory_hlai.pdf" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+
+
+
+
+
+  
+  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="../../project/hlai/">
+    Project
+  </a>
+  
+
+
+
+
+
+
+
+
+</p>
+</div>
+
+          
+        
+          
+            <div class="pub-list-item" style="margin-bottom: 1rem" itemscope itemtype="http://schema.org/CreativeWork">
+  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+  <a href="../../publication/modeling/" itemprop="name">Modeling social interaction for baby in simulated environment for developmental robotics</a>
+  <div itemprop="author">
+    Md Ashaduzzaman Rubel Mondol, Aishwarya Pothula, Deokgun Park</div>
+  <p>
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://arxiv.org/abs/2012.14842" target="_blank" rel="noopener">
+  Preprint
+</a>
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="../../files/publications/NIPS_2020_BabyMinds.pdf" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://github.com/utaresearch/SEDRo" target="_blank" rel="noopener">
+  Code
+</a>
+
+
+
+
+  
+  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="../../project/hlai/">
+    Project
+  </a>
+  
+
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="../../files/publication/SEDRo_BabyMinds_slide.pdf" target="_blank" rel="noopener">
+  Slides
+</a>
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://www.youtube.com/watch?v=yOky_lD5aT0&amp;t=1s&amp;ab_channel=DeokGunPark" target="_blank" rel="noopener">
+  Video
+</a>
+
+
+
+
+</p>
+</div>
+
+          
+        
+          
+            <div class="pub-list-item" style="margin-bottom: 1rem" itemscope itemtype="http://schema.org/CreativeWork">
+  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+  <a href="../../publication/laow2020/" itemprop="name">An open-world simulated environment for developmental robotics</a>
+  <div itemprop="author">
+    SM Islam Mazharul, Md Ashaduzzaman Rubel Mondol, Aishwarya Pothula, Deokgun Park</div>
+  <p>
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://arxiv.org/abs/2007.09300" target="_blank" rel="noopener">
+  Preprint
+</a>
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="../../files/publications/ICML_LAOW_2020.pdf" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://github.com/utaresearch/SEDRo" target="_blank" rel="noopener">
+  Code
+</a>
+
+
+
+
+  
+  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="../../project/hlai/">
+    Project
+  </a>
+  
+
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="../../files/publication/LAOW_2020_slides.pdf" target="_blank" rel="noopener">
+  Slides
+</a>
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://www.youtube.com/watch?v=wGvEBkb-rIs&amp;ab_channel=DeokGunPark" target="_blank" rel="noopener">
+  Video
+</a>
+
+
+
+
+</p>
+</div>
+
+          
+        
+          
+            <div class="pub-list-item" style="margin-bottom: 1rem" itemscope itemtype="http://schema.org/CreativeWork">
+  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+  <a href="../../publication/sedro/" itemprop="name">SEDRo: A Simulated environment for Developmental Robotics</a>
+  <div itemprop="author">
+    Aishwarya Pothula, Md Ashaduzzaman Rubel Mondol, Sanath Narasimhan, Sm Mazharul Islam, Deokgun Park</div>
+  <p>
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://arxiv.org/abs/2009.01810" target="_blank" rel="noopener">
+  Preprint
+</a>
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="../../files/publications/SEDRo.pdf" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://github.com/utaresearch/SEDRo" target="_blank" rel="noopener">
+  Code
+</a>
+
+
+
+
+  
+  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="../../project/hlai/">
+    Project
+  </a>
+  
+
+
+
+
+
+
+
+
+</p>
+</div>
+
+          
+        
+      
+
+      
+      
+      
+      
+    
+
+  </div>
+</article>
+
+
+
+<div class="container">
+  <footer class="site-footer">
+  
+
+  <p class="powered-by">
+    
+
+    Powered by the
+    <a href="https://sourcethemes.com/academic/" target="_blank" rel="noopener">Academic theme</a> for
+    <a href="https://gohugo.io" target="_blank" rel="noopener">Hugo</a>.
+
+    
+    <span class="float-right" aria-hidden="true">
+      <a href="#" id="back_to_top">
+        <span class="button_icon">
+          <i class="fas fa-chevron-up fa-2x"></i>
+        </span>
+      </a>
+    </span>
+    
+  </p>
+</footer>
+
+</div>
+
+
+<div id="modal" class="modal fade" role="dialog">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title">Cite</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        <pre><code class="tex hljs"></code></pre>
+      </div>
+      <div class="modal-footer">
+        <a class="btn btn-outline-primary my-1 js-copy-cite" href="#" target="_blank">
+          <i class="fas fa-copy"></i> Copy
+        </a>
+        <a class="btn btn-outline-primary my-1 js-download-cite" href="#" target="_blank">
+          <i class="fas fa-download"></i> Download
+        </a>
+        <div id="modal-error"></div>
+      </div>
+    </div>
+  </div>
+</div>
+
+    
+
+    
+    
+    <script type="text/x-mathjax-config">
+      MathJax.Hub.Config({
+        CommonHTML: { linebreaks: { automatic: true } },
+        tex2jax: { inlineMath: [ ['$', '$'], ['\\(','\\)'] ], displayMath: [ ['$$','$$'], ['\\[', '\\]'] ], processEscapes: false },
+        TeX: { noUndefined: { attributes: { mathcolor: 'red', mathbackground: '#FFEEEE', mathsize: '90%' } } },
+        messageStyle: 'none'
+      });
+    </script>
+    
+
+    
+    
+    
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js" integrity="sha512-+NqPlbbtM1QqiK8ZAo4Yrj2c4lNQoGv8P79DPtKzj++l5jnN39rHA/xsqn8zE9l0uSoxaCdrOgFs6yjyfbBxSg==" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.imagesloaded/4.1.3/imagesloaded.pkgd.min.js" integrity="sha512-umsR78NN0D23AzgoZ11K7raBD+R6hqKojyBZs1w8WvYlsI+QuKRGBx3LFCwhatzBunCjDuJpDHwxD13sLMbpRA==" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha256-VsEqElsCHSGmnmHXGQzvoWjWwoznFSZc6hs7ARLRacQ=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.isotope/3.0.4/isotope.pkgd.min.js" integrity="sha512-VDBOIlDbuC4VWxGJNmuFRQ0Li0SKkDpmGyuhAG5LTDLd/dJ/S0WMVxriR2Y+CyPL5gzjpN4f/6iqWVBJlht0tQ==" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.2.5/jquery.fancybox.min.js" integrity="sha256-X5PoE3KU5l+JcX+w09p/wHl9AzK333C4hJ2I9S5mD4M=" crossorigin="anonymous"></script>
+
+      
+        
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/highlight.min.js" integrity="sha256-/BfiIkHlHoVihZdc6TFuj7MmJ0TWcWsMXkeDFwhi0zw=" crossorigin="anonymous"></script>
+        
+      
+
+      
+      
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.4/MathJax.js?config=TeX-AMS_CHTML-full" integrity="sha256-GhM+5JHb6QUzOQPXSJLEWP7R73CbkisjzK5Eyij4U9w=" crossorigin="anonymous" async></script>
+      
+    
+
+    <script src="../../js/hugo-academic.js"></script>
+    
+
+    
+    
+
+    
+    
+    
+
+    
+    
+    <script>hljs.initHighlightingOnLoad();</script>
+    
+
+    
+    
+    <script>
+      const search_index_filename = "/index.json";
+      const i18n = {
+        'placeholder': "Search...",
+        'results': "Search Results",
+        'no_results': "No results found"
+      };
+      const content_type = {
+        'post': "Posts",
+        'project': "Projects",
+        'publication' : "Publications",
+        'talk' : "Talks"
+        };
+    </script>
+    
+
+    
+    
+
+    
+    
+    <script id="search-hit-fuse-template" type="text/x-template">
+      <div class="search-hit" id="summary-{{key}}">
+      <div class="search-hit-content">
+        <div class="search-hit-name">
+          <a href="{{relpermalink}}">{{title}}</a>
+          <div class="article-metadata search-hit-type">{{type}}</div>
+          <p class="search-hit-description">{{snippet}}</p>
+        </div>
+      </div>
+      </div>
+    </script>
+    
+
+    
+    
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/fuse.js/3.2.1/fuse.min.js" integrity="sha256-VzgmKYmhsGNNN4Ph1kMW+BjoYJM2jV5i4IlFoeZA9XI=" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/mark.js/8.11.1/jquery.mark.min.js" integrity="sha256-4HLtjeVgH0eIB3aZ9mLYF6E8oU5chNdjU6p6rrXpl9U=" crossorigin="anonymous"></script>
+    <script src="../../js/search.js"></script>
+    
+
+    
+    
+
+  </body>
+</html>
+

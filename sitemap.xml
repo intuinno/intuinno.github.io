@@ -4,7 +4,7 @@
     <url>
     
       <loc>http://crystal.uta.edu/~park/</loc>
-      <lastmod>2021-02-01T19:33:00-06:00</lastmod>
+      <lastmod>2021-02-25T16:44:52-06:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -13,7 +13,7 @@
     <url>
     
       <loc>http://crystal.uta.edu/~park/tags/</loc>
-      <lastmod>2021-02-01T19:33:00-06:00</lastmod>
+      <lastmod>2021-02-25T16:44:52-06:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -22,7 +22,7 @@
     <url>
     
       <loc>http://crystal.uta.edu/~park/post/howto-read-paper/</loc>
-      <lastmod>2021-02-01T19:33:00-06:00</lastmod>
+      <lastmod>2021-02-04T12:13:57-06:00</lastmod>
     </url>
     
   
@@ -30,8 +30,86 @@
     <url>
     
       <loc>http://crystal.uta.edu/~park/tags/student-advice/</loc>
-      <lastmod>2021-02-01T19:33:00-06:00</lastmod>
+      <lastmod>2021-02-04T12:13:57-06:00</lastmod>
       <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>http://crystal.uta.edu/~park/publication_types/8/</loc>
+      <lastmod>2021-02-25T16:44:52-06:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>http://crystal.uta.edu/~park/publication/definition_hlai/</loc>
+      <lastmod>2021-02-25T16:44:52-06:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>http://crystal.uta.edu/~park/tags/hlai/</loc>
+      <lastmod>2021-02-25T16:44:52-06:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>http://crystal.uta.edu/~park/publication_types/</loc>
+      <lastmod>2021-02-25T16:44:52-06:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>http://crystal.uta.edu/~park/tags/theory/</loc>
+      <lastmod>2021-02-25T16:44:52-06:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>http://crystal.uta.edu/~park/publication_types/7/</loc>
+      <lastmod>2021-02-25T16:44:52-06:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>http://crystal.uta.edu/~park/publication/modeling/</loc>
+      <lastmod>2021-02-25T16:44:52-06:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>http://crystal.uta.edu/~park/tags/env/</loc>
+      <lastmod>2021-02-25T16:44:52-06:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>http://crystal.uta.edu/~park/publication/laow2020/</loc>
+      <lastmod>2021-02-25T16:44:52-06:00</lastmod>
     </url>
     
   
@@ -73,7 +151,7 @@
     <url>
     
       <loc>http://crystal.uta.edu/~park/tags/model/</loc>
-      <lastmod>2021-02-01T19:33:00-06:00</lastmod>
+      <lastmod>2021-02-25T16:44:52-06:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -298,15 +376,6 @@
     
     <url>
     
-      <loc>http://crystal.uta.edu/~park/publication_types/</loc>
-      <lastmod>2018-09-29T11:17:52-05:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
       <loc>http://crystal.uta.edu/~park/tutorial/example/</loc>
       <lastmod>2018-09-28T21:32:18-05:00</lastmod>
     </url>
@@ -334,6 +403,14 @@
       <loc>http://crystal.uta.edu/~park/tags/open-ended-tasks/</loc>
       <lastmod>2018-09-29T11:17:52-05:00</lastmod>
       <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>http://crystal.uta.edu/~park/publication/sedro/</loc>
+      <lastmod>2021-02-25T16:44:52-06:00</lastmod>
     </url>
     
   
@@ -398,34 +475,8 @@
     
     <url>
     
-      <loc>http://crystal.uta.edu/~park/tags/deep-learning/</loc>
-      <lastmod>2018-09-28T21:32:18-05:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>http://crystal.uta.edu/~park/project/deep-learning/</loc>
-      <lastmod>2018-09-28T21:32:18-05:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>http://crystal.uta.edu/~park/tags/demo/</loc>
-      <lastmod>2018-09-28T21:32:18-05:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>http://crystal.uta.edu/~park/project/example-external-project/</loc>
-      <lastmod>2018-09-28T21:32:18-05:00</lastmod>
+      <loc>http://crystal.uta.edu/~park/project/hlai/</loc>
+      <lastmod>2021-02-25T16:44:52-06:00</lastmod>
     </url>
     
   
@@ -433,7 +484,7 @@
     <url>
     
       <loc>http://crystal.uta.edu/~park/project/</loc>
-      <lastmod>2018-09-28T21:32:18-05:00</lastmod>
+      <lastmod>2021-02-25T16:44:52-06:00</lastmod>
       <priority>0</priority>
     </url>
     

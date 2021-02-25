@@ -47,5 +47,14 @@
       <description>This paper presents Sparsey model which uses sparse distributed coding or representation (SDR) to build a hierarchical classifier. The main idea is using familarity to control the randomness of representation. But the simplication poses limited applicability.</description>
     </item>
     
+    <item>
+      <title>Human-Level Artificial Intelligence</title>
+      <link>http://crystal.uta.edu/~park/project/hlai/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 -0500</pubDate>
+      
+      <guid>http://crystal.uta.edu/~park/project/hlai/</guid>
+      <description>A quest to program a robot that we can talk with it to ask many services like a human buttler</description>
+    </item>
+    
   </channel>
 </rss>

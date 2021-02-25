@@ -21,6 +21,33 @@
     </item>
     
     <item>
+      <title>HLAI</title>
+      <link>http://crystal.uta.edu/~park/tags/hlai/</link>
+      <pubDate>Thu, 28 Jan 2021 22:17:58 -0500</pubDate>
+      
+      <guid>http://crystal.uta.edu/~park/tags/hlai/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>theory</title>
+      <link>http://crystal.uta.edu/~park/tags/theory/</link>
+      <pubDate>Thu, 28 Jan 2021 22:17:58 -0500</pubDate>
+      
+      <guid>http://crystal.uta.edu/~park/tags/theory/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>env</title>
+      <link>http://crystal.uta.edu/~park/tags/env/</link>
+      <pubDate>Mon, 26 Oct 2020 21:53:11 -0500</pubDate>
+      
+      <guid>http://crystal.uta.edu/~park/tags/env/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>agi</title>
       <link>http://crystal.uta.edu/~park/tags/agi/</link>
       <pubDate>Wed, 05 Aug 2020 00:00:00 -0500</pubDate>
@@ -134,24 +161,6 @@
       <pubDate>Sun, 28 Jan 2018 22:17:58 -0500</pubDate>
       
       <guid>http://crystal.uta.edu/~park/tags/text-analysis/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Deep Learning</title>
-      <link>http://crystal.uta.edu/~park/tags/deep-learning/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 -0500</pubDate>
-      
-      <guid>http://crystal.uta.edu/~park/tags/deep-learning/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Demo</title>
-      <link>http://crystal.uta.edu/~park/tags/demo/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 -0500</pubDate>
-      
-      <guid>http://crystal.uta.edu/~park/tags/demo/</guid>
       <description></description>
     </item>
     

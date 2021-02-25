@@ -12,6 +12,33 @@
     
     
     <item>
+      <title>A Definition and a Test for Human-Level Artificial Intelligence</title>
+      <link>http://crystal.uta.edu/~park/publication/definition_hlai/</link>
+      <pubDate>Thu, 28 Jan 2021 22:17:58 -0500</pubDate>
+      
+      <guid>http://crystal.uta.edu/~park/publication/definition_hlai/</guid>
+      <description>  Three levels of intelligence    Learning with language means that the symbolic description brings the same changes to the model comparable to direct experiences.   </description>
+    </item>
+    
+    <item>
+      <title>Modeling social interaction for baby in simulated environment for developmental robotics</title>
+      <link>http://crystal.uta.edu/~park/publication/modeling/</link>
+      <pubDate>Mon, 26 Oct 2020 21:53:11 -0500</pubDate>
+      
+      <guid>http://crystal.uta.edu/~park/publication/modeling/</guid>
+      <description>  Screenshots from SEDRo environments. (a) Fetus environment. Almost dark space with no visual capability of the baby. (b) After birth house environment with a Mother character and some other toys. &amp;copy; Mother is feeding the baby. (d) Mother is showing a toy to the baby   </description>
+    </item>
+    
+    <item>
+      <title>An open-world simulated environment for developmental robotics</title>
+      <link>http://crystal.uta.edu/~park/publication/laow2020/</link>
+      <pubDate>Sat, 26 Sep 2020 21:53:11 -0500</pubDate>
+      
+      <guid>http://crystal.uta.edu/~park/publication/laow2020/</guid>
+      <description>  Ecosystem of SEDRo Environment   </description>
+    </item>
+    
+    <item>
       <title>Atom: A Grammar for Unit Visualizations</title>
       <link>http://crystal.uta.edu/~park/publication/atom/</link>
       <pubDate>Wed, 26 Sep 2018 21:53:11 -0500</pubDate>
@@ -27,6 +54,15 @@
       
       <guid>http://crystal.uta.edu/~park/publication/conceptvector/</guid>
       <description>The CommentIQ UI showing toggleable visualizations such as scatterplot, map, and timeline (left) that enable overview and filtering of comments, as well as an adjustable ranking based on various weighted quality criteria (right).ConceptVector supports interactive construction of lexicon-based concepts. Here the user creates a new unipolar concept (1) by adding initial keywords related to tidal flooding (2). The system recommends related words along with their semantic groupings (3), also shown in a scatterplot (4), revealing word- and cluster-level relationships.</description>
+    </item>
+    
+    <item>
+      <title>SEDRo: A Simulated environment for Developmental Robotics</title>
+      <link>http://crystal.uta.edu/~park/publication/sedro/</link>
+      <pubDate>Sun, 28 Jan 2018 22:17:58 -0500</pubDate>
+      
+      <guid>http://crystal.uta.edu/~park/publication/sedro/</guid>
+      <description>Example evaluation methods for non-verbal infants and simulated experiments for the artificial agent. (a) An experiment set up to examine visual pattern according to the stimulus. A baby views a series of visual stimuli at two or more locations. Visual patterns, such as looking time and looking preference,of the baby are then analyzed. Depending on the developmental stage, they tend to attend more at novel things. (b) For example, we can examine if the baby can differentiate between male and female faces.</description>
     </item>
     
     <item>

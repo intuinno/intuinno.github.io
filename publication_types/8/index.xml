@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>8 on Deokgun Park</title>
+    <link>http://crystal.uta.edu/~park/publication_types/8/</link>
+    <description>Recent content in 8 on Deokgun Park</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 28 Jan 2021 22:17:58 -0500</lastBuildDate>
+    
+	<atom:link href="http://crystal.uta.edu/~park/publication_types/8/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>A Definition and a Test for Human-Level Artificial Intelligence</title>
+      <link>http://crystal.uta.edu/~park/publication/definition_hlai/</link>
+      <pubDate>Thu, 28 Jan 2021 22:17:58 -0500</pubDate>
+      
+      <guid>http://crystal.uta.edu/~park/publication/definition_hlai/</guid>
+      <description>  Three levels of intelligence    Learning with language means that the symbolic description brings the same changes to the model comparable to direct experiences.   </description>
+    </item>
+    
+    <item>
+      <title>SEDRo: A Simulated environment for Developmental Robotics</title>
+      <link>http://crystal.uta.edu/~park/publication/sedro/</link>
+      <pubDate>Sun, 28 Jan 2018 22:17:58 -0500</pubDate>
+      
+      <guid>http://crystal.uta.edu/~park/publication/sedro/</guid>
+      <description>Example evaluation methods for non-verbal infants and simulated experiments for the artificial agent. (a) An experiment set up to examine visual pattern according to the stimulus. A baby views a series of visual stimuli at two or more locations. Visual patterns, such as looking time and looking preference,of the baby are then analyzed. Depending on the developmental stage, they tend to attend more at novel things. (b) For example, we can examine if the baby can differentiate between male and female faces.</description>
+    </item>
+    
+  </channel>
+</rss>

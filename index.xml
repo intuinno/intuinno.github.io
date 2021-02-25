@@ -39,6 +39,7 @@ By following standarized procedure for reading papers, I hope I can overcome thi
 &lt;li&gt;&lt;strong&gt;Future Readings&lt;/strong&gt; Include some more references&lt;/li&gt;
 &lt;/ul&gt;&lt;/li&gt;
 &lt;li&gt;(Optional) If the paper is highly relevant and you might write about it in other documents (papers, grants), or there is a comment worth sharing with the rest of the world, write a blog post in the homepage. Here is &lt;a href=&#34;http://crystal.uta.edu/~park/post/nnsae/&#34; target=&#34;_blank&#34;&gt;an example post&lt;/a&gt;.&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;(Optional) If the paper is worth sharing with the lab members, organize a paper seminar to disseminate it.&lt;/li&gt;
 &lt;/ol&gt;
 
 &lt;p&gt;&lt;strong&gt;2/1/2021 Update&lt;/strong&gt;
@@ -71,6 +72,94 @@ Previously, I used mind mapping to see overview of the paper. But as the number 
 
 &lt;p&gt;Below is my mindmap for the related papers to artificial general intelligence.
 &lt;iframe width=&#34;600&#34; height=&#34;400&#34; frameborder=&#34;0&#34; src=&#34;https://www.mindmeister.com/maps/public_map_shell/1405726945/references?width=600&amp;height=400&amp;z=auto&amp;live_update=1&amp;no_logo=1&#34; scrolling=&#34;no&#34; style=&#34;overflow: hidden; margin-bottom: 5px;&#34;&gt;Your browser is not able to display frames. Please visit &lt;a href=&#34;https://www.mindmeister.com/1405726945/references&#34; target=&#34;_blank&#34;&gt;References&lt;/a&gt; on MindMeister.&lt;/iframe&gt;&lt;div class=&#34;mb-5&#34;&gt;&lt;a href=&#34;https://www.mindmeister.com/1405726945/references&#34; target=&#34;_blank&#34;&gt;References&lt;/a&gt; by &lt;a href=&#34;https://www.mindmeister.com/users/channel/42813067&#34; target=&#34;_blank&#34;&gt;Deokgun Park&lt;/a&gt;&lt;/div&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>A Definition and a Test for Human-Level Artificial Intelligence</title>
+      <link>http://crystal.uta.edu/~park/publication/definition_hlai/</link>
+      <pubDate>Thu, 28 Jan 2021 22:17:58 -0500</pubDate>
+      
+      <guid>http://crystal.uta.edu/~park/publication/definition_hlai/</guid>
+      <description>
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;./img/3levels.png&#34; /&gt;
+
+
+
+&lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; &gt;
+  &lt;h4&gt;Three levels of intelligence&lt;/h4&gt;
+  
+&lt;/figcaption&gt;
+
+&lt;/figure&gt;
+
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;./img/language_theory.png&#34; /&gt;
+
+
+
+&lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; &gt;
+  &lt;h4&gt;Learning with language means that the symbolic description brings the same changes to the model comparable to direct experiences.&lt;/h4&gt;
+  
+&lt;/figcaption&gt;
+
+&lt;/figure&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Modeling social interaction for baby in simulated environment for developmental robotics</title>
+      <link>http://crystal.uta.edu/~park/publication/modeling/</link>
+      <pubDate>Mon, 26 Oct 2020 21:53:11 -0500</pubDate>
+      
+      <guid>http://crystal.uta.edu/~park/publication/modeling/</guid>
+      <description>
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;./img/sedro_babymind.png&#34; /&gt;
+
+
+
+&lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; &gt;
+  &lt;h4&gt;Screenshots from SEDRo environments. (a) Fetus environment. Almost dark space with no visual capability of the baby. (b) After birth house environment with a Mother character and some other toys. &amp;copy; Mother is feeding the baby. (d) Mother is showing a toy to the baby&lt;/h4&gt;
+  
+&lt;/figcaption&gt;
+
+&lt;/figure&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>An open-world simulated environment for developmental robotics</title>
+      <link>http://crystal.uta.edu/~park/publication/laow2020/</link>
+      <pubDate>Sat, 26 Sep 2020 21:53:11 -0500</pubDate>
+      
+      <guid>http://crystal.uta.edu/~park/publication/laow2020/</guid>
+      <description>
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;./img/big_picture.png&#34; /&gt;
+
+
+
+&lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; &gt;
+  &lt;h4&gt;Ecosystem of SEDRo Environment&lt;/h4&gt;
+  
+&lt;/figcaption&gt;
+
+&lt;/figure&gt;
 </description>
     </item>
     
@@ -1243,113 +1332,6 @@ My guess is that chemical ordor has far lower dimension than other sensory input
 &lt;p&gt;I do reading and writting.&lt;/p&gt;
 
 &lt;p&gt;I like learning and teaching.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>The Society of Mind</title>
-      <link>http://crystal.uta.edu/~park/post/society-of-mind/</link>
-      <pubDate>Thu, 12 Sep 2019 00:00:00 -0500</pubDate>
-      
-      <guid>http://crystal.uta.edu/~park/post/society-of-mind/</guid>
-      <description>&lt;p&gt;Listening to an old professor&lt;/p&gt;
-
-&lt;p&gt;who devoted his whole life&lt;/p&gt;
-
-&lt;p&gt;looking for the holy grail&lt;/p&gt;
-
-&lt;p&gt;couldn&amp;rsquo;t find it&lt;/p&gt;
-
-&lt;p&gt;handing over scattered clues&lt;/p&gt;
-
-&lt;p&gt;to young, ignorant yet ambitious students&lt;/p&gt;
-
-&lt;p&gt;like once he was&lt;/p&gt;
-
-&lt;p&gt;in the hope that allowed more time&lt;/p&gt;
-
-&lt;p&gt;he could finally see how minds work&lt;/p&gt;
-
-&lt;p&gt;knowing that his time is over.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://images-na.ssl-images-amazon.com/images/I/51N77XFh-wL._SX376_BO1,204,203,200_.jpg&#34; alt=&#34;The society of mind by Marvin Minksy&#34; /&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Advice for the master students who want to do reserach in my lab</title>
-      <link>http://crystal.uta.edu/~park/post/master-research/</link>
-      <pubDate>Tue, 06 Aug 2019 00:00:00 -0500</pubDate>
-      
-      <guid>http://crystal.uta.edu/~park/post/master-research/</guid>
-      <description>&lt;p&gt;I get many emails from master students who are interested in reserach.&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;I would like to get research experience in my lab. May I join your lab as a master student?&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Below you can find my advice. TLDR, if you plan to pursue PhD after your master, it might be a good idea to experience research in my lab. If you plan to industry career, it might not.&lt;/p&gt;
-
-&lt;p&gt;You can contact me and discuss your interest. However, if you want to get a job after graduation, doing research with me might not be helpful. You might get a better chance for the job by preparing the coding interview. The research takes time to produce a meaningful outcome. And the research is a full-time job. For example, it is common that it takes more than two years before a phd student can produce a paper or meaningful software. However, this can be too late for the master students who need something to show to potential employer during first semester and third semester. Doing research is more beneficial for those who consider phd program after graduation.&lt;/p&gt;
-
-&lt;p&gt;Still there are many masters student working in my lab. I encourage you to contact them.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Advice for the undergraduate students who consider the graduate school</title>
-      <link>http://crystal.uta.edu/~park/post/graduate-school/</link>
-      <pubDate>Tue, 06 Aug 2019 00:00:00 -0500</pubDate>
-      
-      <guid>http://crystal.uta.edu/~park/post/graduate-school/</guid>
-      <description>
-
-&lt;p&gt;Recently, I got an email from a smart undergraduate student who was interested in research. I think his situation might be a common case so here I added my reply in the hope that this can be helpful to other students. Below is the modified email message.&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;I have been talking with few graduate recruiters and found out that graduate schools don’t offer scholarship unless I am doing PhD or thesis (which I had no idea what that meant). All I wanted to do was to get a masters degree to gain enough knowledge on AI and deep learning and work for companies like DeepMind or Neuralink to bring AGI and ASI to real life. And now I am overwhelmed and lost with what I’m supposed to do. My options are to loan my way through graduate school (but I can’t do that since I am already on a huge debt for my undergraduate school), or get a PhD (this will take me forever and I will never be able to pay my loans back with the stipend), or find a job (until I am able to pay by loans and fund my graduate school but I really want to be on AI). I recently figured out that my major (computer engineering) wasn’t right for me. I decided to switch to computer science but I needed to take more classes so I am switching to software engineering to graduate on time with right the classes.  My mind’s all over the place and I have no idea where to seek help from.  I’m only halfway through the book even though I love it. I have been dying to learn Reinforcement Learning but I haven’t got time even to start searching about the resources.&lt;/p&gt;
-
-&lt;p&gt;Thank you so much, Dr. Park! I hope you have a wonderful rest of the day.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Below you can find my advice. TLDR, it is okay to get a job if you are on a debt. If you think you are interested in the research, try to study on your own for a year or two. If you are still interested, you can consider a PhD.&lt;/p&gt;
-
-&lt;h3 id=&#34;my-answer-to-the-student&#34;&gt;My answer to the student&lt;/h3&gt;
-
-&lt;p&gt;Hi, Tomas (Name changed for privacy)&lt;/p&gt;
-
-&lt;p&gt;I understand your position.&lt;/p&gt;
-
-&lt;p&gt;Below is my advice.  The choice is yours. There is no right or wrong choice. The choice is based on who you are and in return shapes who you will be.&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;to loan my way through graduate school (but I can’t do that since I am already on a huge debt for my undergraduate school),&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;The graduate school here must be master’s degree, right. I don’t recommend it, either. You cannot get enough knowledge on AI topic and you don’t have enough time to create a knowledge that will make you attractable hire for companies like Deep Mind.&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;or get a PhD (this will take me forever and I will never be able to pay my loans back with the stipend),&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;It does not take you forever. It is actually somewhat short to do what I describe above. It will pay you back reasonably well if you are successful. But the decision cannot be made solely on financial reward because this financial reward is probabilistic. Better motivation would be the pursuit of knowledge or curiosity. And the reward is auxiliary. For example, you usually do not pursue professional baseball career because most of baseball related careers are not well-paid. Only winner takes it all.(I hope the chance is higher in the CS.) But many still pursue it because they enjoy baseball anyway.&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;or find a job (until I am able to pay by loans and fund my graduate school but I really want to be on AI).&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;This is an actually good option. Get a job. Get decent salary and pay your loans.
-The trick is that you can study AI on your own with online learning education resource nowadays. This can be sometimes better than what the Master’s degree can offer.
-When you study enough and you have a non-trivial question, it will be a good time to pursue PhD. Of course, consult with professors about your question.&lt;/p&gt;
-
-&lt;p&gt;Attending academic conference is a good investment.
-Studying alone is actually harder than you might think. You will be busy for the job (actually everyone is busy, right? Even my 9th grade daughter is busy because she has to watch three hours of youtube videos in addition to all the school work and violin and archery practice) and you may find the AI study is not so fun. The good news is that if you don’t like it, you don’t have to do it. It means that you are probably not good fit for the PhD. Don’t worry. You have a job already and you can focus on the software engineering career which can be also very rewarding. According to my opinion, I think about 5% of the people with good school grades are actually good fit for the PhD. The main reason is that we get good grades by learning what others have found. But PhD is about finding new knowledge which is very different from learning what others have found.&lt;/p&gt;
-
-&lt;p&gt;As a summary, I think you have a potential. If you really want to study AI and deep learning now, you can get a PhD now. If you are not sure, it is okay to get a SWE job. If you find that you keep studying on AI and DL for one or two years on your own, you might consider getting a PhD.&lt;/p&gt;
-
-&lt;p&gt;Regards&lt;/p&gt;
-
-&lt;p&gt;Deokgun&lt;/p&gt;
 </description>
     </item>
     
