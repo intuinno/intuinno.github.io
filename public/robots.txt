@@ -1,3 +1,0 @@
-User-agent: *
-Disallow:
-Sitemap: https://intuinno.github.io/sitemap.xml
