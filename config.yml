@@ -1,4 +1,4 @@
-baseURL: "https://intuinno.github.io/" 
+baseURL: "https://intuinno.github.io/"
 title: Deokgun Park
 paginate: 20
 theme: PaperMod
@@ -7,84 +7,83 @@ enableInlineShortcodes: true
 enableRobotsTXT: true
 
 taxonomies:
-    tag: tags
+  tag: tags
 
 menu:
-    main:
-        - name: CV
-          url: cv.pdf
-          weight: 1
-        - name: Papers
-          url: https://scholar.google.com/citations?user=cK1bhQUAAAAJ
-          weight: 2
-        - name: Email
-          url: mailto:intuinno@gmail.com
-          weight: 3 
-        - name: Links
-          url: links/
-          weight: 4
+  main:
+    - name: CV
+      url: cv.pdf
+      weight: 1
+    - name: Papers
+      url: https://scholar.google.com/citations?user=cK1bhQUAAAAJ
+      weight: 2
+    - name: Email
+      url: mailto:intuinno@gmail.com
+      weight: 3
+    - name: Links
+      url: links/
+      weight: 4
 
 params:
-    description: "I am a research scientist at Stanford University. I study a cognitive architecture for operant conditioning."
-    author: Deokgun Park
-    # googleAnalyticsID: "G-XXXXX"
-    DateFormat: "January 2006"
-    defaultTheme: light
-    hideFooter: false
-    disableThemeToggle: true
-    ShowShareButtons: false
-    ShowReadingTime: false
-    disableSpecial1stPost: true
-    disableAnchoredHeadings: true
-    ShowPostNavLinks: false
-    ShowBreadCrumbs: false
-    ShowCodeCopyButtons: true
-    ShowRssButtonInSectionTermList: false
-    ShowToc: false
-    disableScrollToTop: true
-    TocOpen: true
-    ShowWordCount: false
-    UseHugoToc: true
-    comments: false
-    math: true
-    profileMode:
-          enabled: true
-          title: Deokgun Park
-          subtitle: "I am a research scientist at the Stanford University. I study a cognitive architecture for operant conditioning. I think that current reinforcement learning is a frog or lizard level. And I try to program a mouse or dog level intelligence. "
-          imageUrl: "picture.jpeg"
-          imageWidth: 160
-          imageHeight: 180
-          imageTitle: Deokgun Park
-          buttons:
-              - name: CV
-                url: CV_20240111.pdf
-              - name: Papers
-                url: https://scholar.google.com/citations?user=cK1bhQUAAAAJ
-              - name: Email
-                url: mailto:intuinno@gmail.com
-              - name: Links
-                url: links/
+  description: "I am a research scientist at Stanford University. I study a cognitive architecture for maze navigation."
+  author: Deokgun Park
+  # googleAnalyticsID: "G-XXXXX"
+  DateFormat: "January 2006"
+  defaultTheme: light
+  hideFooter: false
+  disableThemeToggle: true
+  ShowShareButtons: false
+  ShowReadingTime: false
+  disableSpecial1stPost: true
+  disableAnchoredHeadings: true
+  ShowPostNavLinks: false
+  ShowBreadCrumbs: false
+  ShowCodeCopyButtons: true
+  ShowRssButtonInSectionTermList: false
+  ShowToc: false
+  disableScrollToTop: true
+  TocOpen: true
+  ShowWordCount: false
+  UseHugoToc: true
+  comments: false
+  math: true
+  profileMode:
+    enabled: true
+    title: Deokgun Park
+    subtitle: "I am a research scientist at the Stanford University. I study a cognitive architecture for maze navigation. I think that current reinforcement learning is a frog or lizard level. And I try to program a mouse or dog level intelligence. "
+    imageUrl: "picture.jpeg"
+    imageWidth: 160
+    imageHeight: 180
+    imageTitle: Deokgun Park
+    buttons:
+      - name: CV
+        url: CV_20240111.pdf
+      - name: Papers
+        url: https://scholar.google.com/citations?user=cK1bhQUAAAAJ
+      - name: Email
+        url: mailto:intuinno@gmail.com
+      - name: Links
+        url: links/
 
-
-    assets:
-        disableHLJS: true
-        disableScrollBarStyle: true
-    cover:
-        hiddenInList: false
-        hiddenInSingle: true
-    label:
-      text: "Deokgun Park"
-      icon: favicon.ico
-      iconHeight: 18
+  assets:
+    disableHLJS: true
+    disableScrollBarStyle: true
+  cover:
+    hiddenInList: false
+    hiddenInSingle: true
+  label:
+    text: "Deokgun Park"
+    icon: favicon.ico
+    iconHeight: 18
 
 markup:
-    goldmark:
-        renderer:
-            unsafe: true
-    highlight:
-        guessSyntax: true
-        style: autumn 
-    tableOfContents:
-        endLevel: 2
-        ordered: false
-        startLevel: 2
+  goldmark:
+    renderer:
+      unsafe: true
+  highlight:
+    guessSyntax: true
+    style: autumn
+  tableOfContents:
+    endLevel: 2
+    ordered: false
+    startLevel: 2
