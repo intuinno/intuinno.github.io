@@ -2,80 +2,80 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tags on Deokgun Park</title>
-    <link>http://localhost:1313/tags/</link>
+    <link>https://intuinno.github.io/tags/</link>
     <description>Recent content in Tags on Deokgun Park</description>
     <generator>Hugo -- 0.148.2</generator>
     <language>en</language>
     <lastBuildDate>Thu, 07 Sep 2023 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://intuinno.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Keyword 10</title>
-      <link>http://localhost:1313/tags/keyword-10/</link>
+      <link>https://intuinno.github.io/tags/keyword-10/</link>
       <pubDate>Thu, 07 Sep 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/keyword-10/</guid>
+      <guid>https://intuinno.github.io/tags/keyword-10/</guid>
       <description></description>
     </item>
     <item>
       <title>Keyword 5</title>
-      <link>http://localhost:1313/tags/keyword-5/</link>
+      <link>https://intuinno.github.io/tags/keyword-5/</link>
       <pubDate>Thu, 07 Sep 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/keyword-5/</guid>
+      <guid>https://intuinno.github.io/tags/keyword-5/</guid>
       <description></description>
     </item>
     <item>
       <title>Keyword 6</title>
-      <link>http://localhost:1313/tags/keyword-6/</link>
+      <link>https://intuinno.github.io/tags/keyword-6/</link>
       <pubDate>Thu, 07 Sep 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/keyword-6/</guid>
+      <guid>https://intuinno.github.io/tags/keyword-6/</guid>
       <description></description>
     </item>
     <item>
       <title>Keyword 7</title>
-      <link>http://localhost:1313/tags/keyword-7/</link>
+      <link>https://intuinno.github.io/tags/keyword-7/</link>
       <pubDate>Thu, 07 Sep 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/keyword-7/</guid>
+      <guid>https://intuinno.github.io/tags/keyword-7/</guid>
       <description></description>
     </item>
     <item>
       <title>Keyword 1</title>
-      <link>http://localhost:1313/tags/keyword-1/</link>
+      <link>https://intuinno.github.io/tags/keyword-1/</link>
       <pubDate>Thu, 10 Mar 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/keyword-1/</guid>
+      <guid>https://intuinno.github.io/tags/keyword-1/</guid>
       <description></description>
     </item>
     <item>
       <title>Keyword 2</title>
-      <link>http://localhost:1313/tags/keyword-2/</link>
+      <link>https://intuinno.github.io/tags/keyword-2/</link>
       <pubDate>Thu, 10 Mar 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/keyword-2/</guid>
+      <guid>https://intuinno.github.io/tags/keyword-2/</guid>
       <description></description>
     </item>
     <item>
       <title>Keyword 3</title>
-      <link>http://localhost:1313/tags/keyword-3/</link>
+      <link>https://intuinno.github.io/tags/keyword-3/</link>
       <pubDate>Thu, 10 Mar 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/keyword-3/</guid>
+      <guid>https://intuinno.github.io/tags/keyword-3/</guid>
       <description></description>
     </item>
     <item>
       <title>Keyword 4</title>
-      <link>http://localhost:1313/tags/keyword-4/</link>
+      <link>https://intuinno.github.io/tags/keyword-4/</link>
       <pubDate>Wed, 16 Jun 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/keyword-4/</guid>
+      <guid>https://intuinno.github.io/tags/keyword-4/</guid>
       <description></description>
     </item>
     <item>
       <title>Old Webpage</title>
-      <link>http://localhost:1313/tags/old-webpage/</link>
+      <link>https://intuinno.github.io/tags/old-webpage/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/old-webpage/</guid>
+      <guid>https://intuinno.github.io/tags/old-webpage/</guid>
       <description></description>
     </item>
     <item>
       <title>Profile</title>
-      <link>http://localhost:1313/tags/profile/</link>
+      <link>https://intuinno.github.io/tags/profile/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/profile/</guid>
+      <guid>https://intuinno.github.io/tags/profile/</guid>
       <description></description>
     </item>
   </channel>
