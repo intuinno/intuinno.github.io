@@ -2,101 +2,81 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Deokgun Park</title>
-    <link>https://intuinno.github.io/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on Deokgun Park</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo -- 0.148.2</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 07 Sep 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://intuinno.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 07 Sep 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Dataset Title</title>
-      <link>https://intuinno.github.io/data/data1/</link>
+      <link>http://localhost:1313/data/data1/</link>
       <pubDate>Thu, 07 Sep 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://intuinno.github.io/data/data1/</guid>
+      <guid>http://localhost:1313/data/data1/</guid>
       <description>This dataset contains things.</description>
     </item>
-    
     <item>
       <title>Course Title 1</title>
-      <link>https://intuinno.github.io/courses/course1/</link>
+      <link>http://localhost:1313/courses/course1/</link>
       <pubDate>Thu, 10 Mar 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://intuinno.github.io/courses/course1/</guid>
+      <guid>http://localhost:1313/courses/course1/</guid>
       <description>This graduate course presents things.</description>
     </item>
-    
     <item>
       <title>Course Title 2</title>
-      <link>https://intuinno.github.io/courses/course2/</link>
+      <link>http://localhost:1313/courses/course2/</link>
       <pubDate>Wed, 16 Jun 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://intuinno.github.io/courses/course2/</guid>
+      <guid>http://localhost:1313/courses/course2/</guid>
       <description>This undergraduate course presents many new things.</description>
     </item>
-    
     <item>
       <title>Paper Title 2</title>
-      <link>https://intuinno.github.io/papers/paper2/</link>
+      <link>http://localhost:1313/papers/paper2/</link>
       <pubDate>Tue, 01 Dec 2015 00:00:00 +0000</pubDate>
-      
-      <guid>https://intuinno.github.io/papers/paper2/</guid>
+      <guid>http://localhost:1313/papers/paper2/</guid>
       <description>This paper shows other things. Published in Journal Name, 2015.</description>
     </item>
-    
     <item>
       <title>Paper Title 1</title>
-      <link>https://intuinno.github.io/papers/paper1/</link>
+      <link>http://localhost:1313/papers/paper1/</link>
       <pubDate>Fri, 01 Jun 2012 00:00:00 +0000</pubDate>
-      
-      <guid>https://intuinno.github.io/papers/paper1/</guid>
+      <guid>http://localhost:1313/papers/paper1/</guid>
       <description>This paper shows things. Published in Journal Name, 2012.</description>
     </item>
-    
-    
     <item>
       <title>Homepage at UMD</title>
-      <link>https://intuinno.github.io/links/umd/</link>
+      <link>http://localhost:1313/links/umd/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://intuinno.github.io/links/umd/</guid>
+      <guid>http://localhost:1313/links/umd/</guid>
       <description>Old profile page at University of Maryland at Collge Park.</description>
     </item>
-    
     <item>
       <title>Homepage at UTA</title>
-      <link>https://intuinno.github.io/links/uta/</link>
+      <link>http://localhost:1313/links/uta/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://intuinno.github.io/links/uta/</guid>
+      <guid>http://localhost:1313/links/uta/</guid>
       <description>Old profile page at University of Texas at Arlington.</description>
     </item>
-    
     <item>
       <title>LinkedIn</title>
-      <link>https://intuinno.github.io/links/linkedin/</link>
+      <link>http://localhost:1313/links/linkedin/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://intuinno.github.io/links/linkedin/</guid>
+      <guid>http://localhost:1313/links/linkedin/</guid>
       <description>Old profile page at University of Texas at Arlington.</description>
     </item>
-    
     <item>
       <title>Location</title>
-      <link>https://intuinno.github.io/location/</link>
+      <link>http://localhost:1313/location/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://intuinno.github.io/location/</guid>
+      <guid>http://localhost:1313/location/</guid>
       <description>Mailing and office addresses at the University of Place.</description>
     </item>
-    
     <item>
       <title>Office Hours</title>
-      <link>https://intuinno.github.io/officehours/</link>
+      <link>http://localhost:1313/officehours/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://intuinno.github.io/officehours/</guid>
+      <guid>http://localhost:1313/officehours/</guid>
       <description>Schedule and location for office hours.</description>
     </item>
-    
   </channel>
 </rss>

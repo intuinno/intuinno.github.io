@@ -1,6 +1,7 @@
 baseURL: "https://intuinno.github.io/"
 title: Deokgun Park
-paginate: 20
+pagination:
+  pagerSize: 20
 theme: PaperMod
 
 enableInlineShortcodes: true
@@ -25,6 +26,7 @@ menu:
       weight: 4
 
 params:
+  social: true
   description: "I am a research scientist at Stanford University. I study a cognitive architecture for maze navigation."
   author: Deokgun Park
   # googleAnalyticsID: "G-XXXXX"

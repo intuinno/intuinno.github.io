@@ -2,76 +2,76 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://intuinno.github.io/data/</loc>
+    <loc>http://localhost:1313/data/</loc>
     <lastmod>2023-09-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://intuinno.github.io/data/data1/</loc>
+    <loc>http://localhost:1313/data/data1/</loc>
     <lastmod>2023-09-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://intuinno.github.io/</loc>
+    <loc>http://localhost:1313/</loc>
     <lastmod>2023-09-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://intuinno.github.io/tags/keyword-10/</loc>
+    <loc>http://localhost:1313/tags/keyword-10/</loc>
     <lastmod>2023-09-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://intuinno.github.io/tags/keyword-5/</loc>
+    <loc>http://localhost:1313/tags/keyword-5/</loc>
     <lastmod>2023-09-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://intuinno.github.io/tags/keyword-6/</loc>
+    <loc>http://localhost:1313/tags/keyword-6/</loc>
     <lastmod>2023-09-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://intuinno.github.io/tags/keyword-7/</loc>
+    <loc>http://localhost:1313/tags/keyword-7/</loc>
     <lastmod>2023-09-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://intuinno.github.io/tags/</loc>
+    <loc>http://localhost:1313/tags/</loc>
     <lastmod>2023-09-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://intuinno.github.io/courses/course1/</loc>
+    <loc>http://localhost:1313/courses/course1/</loc>
     <lastmod>2022-03-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://intuinno.github.io/courses/</loc>
+    <loc>http://localhost:1313/courses/</loc>
     <lastmod>2022-03-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://intuinno.github.io/tags/keyword-1/</loc>
+    <loc>http://localhost:1313/tags/keyword-1/</loc>
     <lastmod>2022-03-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://intuinno.github.io/tags/keyword-2/</loc>
+    <loc>http://localhost:1313/tags/keyword-2/</loc>
     <lastmod>2022-03-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://intuinno.github.io/tags/keyword-3/</loc>
+    <loc>http://localhost:1313/tags/keyword-3/</loc>
     <lastmod>2022-03-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://intuinno.github.io/courses/course2/</loc>
+    <loc>http://localhost:1313/courses/course2/</loc>
     <lastmod>2021-06-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://intuinno.github.io/tags/keyword-4/</loc>
+    <loc>http://localhost:1313/tags/keyword-4/</loc>
     <lastmod>2021-06-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://intuinno.github.io/papers/paper2/</loc>
+    <loc>http://localhost:1313/papers/paper2/</loc>
     <lastmod>2015-12-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://intuinno.github.io/papers/</loc>
+    <loc>http://localhost:1313/papers/</loc>
     <lastmod>2015-12-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://intuinno.github.io/papers/paper1/</loc>
+    <loc>http://localhost:1313/papers/paper1/</loc>
     <lastmod>2012-06-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://intuinno.github.io/archive/</loc>
+    <loc>http://localhost:1313/archive/</loc>
   </url><url>
-    <loc>https://intuinno.github.io/links/umd/</loc>
+    <loc>http://localhost:1313/links/umd/</loc>
   </url><url>
-    <loc>https://intuinno.github.io/links/uta/</loc>
+    <loc>http://localhost:1313/links/uta/</loc>
   </url><url>
-    <loc>https://intuinno.github.io/links/linkedin/</loc>
+    <loc>http://localhost:1313/links/linkedin/</loc>
   </url><url>
-    <loc>https://intuinno.github.io/links/</loc>
+    <loc>http://localhost:1313/links/</loc>
   </url><url>
-    <loc>https://intuinno.github.io/location/</loc>
+    <loc>http://localhost:1313/location/</loc>
   </url><url>
-    <loc>https://intuinno.github.io/officehours/</loc>
+    <loc>http://localhost:1313/officehours/</loc>
   </url><url>
-    <loc>https://intuinno.github.io/tags/old-webpage/</loc>
+    <loc>http://localhost:1313/tags/old-webpage/</loc>
   </url><url>
-    <loc>https://intuinno.github.io/tags/profile/</loc>
+    <loc>http://localhost:1313/tags/profile/</loc>
   </url>
 </urlset>
